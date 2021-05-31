@@ -1,0 +1,318 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<link rel="alternate" type="application/rss" title="RSS 2.0" href="/ideas/res/feed.rss" />
+<link rel="alternate" type="text/xml" title="RSS 2.0" href="/ideas/res/feed.rss" />
+<title>/en/ - English</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="shortcut icon" href="/en/lojban.ico" />
+
+<style type="text/css">
+body { margin: 0; padding: 8px; margin-bottom: auto; }
+blockquote blockquote { margin-left: 0em }
+form { margin-bottom: 0px }
+form .trap { display:none }
+.postarea { text-align: center }
+.postarea table { margin: 0px auto; text-align: left }
+.thumb { border: none; float: left; margin: 2px 20px }
+.nothumb { float: left; background: #eee; border: 2px dashed #aaa; text-align: center; margin: 2px 20px; padding: 1em 0.5em 1em 0.5em; }
+.reply blockquote, blockquote :last-child { margin-bottom: 0em }
+.reflink a { color: inherit; text-decoration: none }
+.reply .filesize { margin-left: 20px }
+.userdelete { float: right; text-align: center; white-space: nowrap }
+.replypage .replylink { display: none }
+</style>
+
+
+<link rel="stylesheet" type="text/css" href="/en/css/english.css" title="English" />
+
+
+<script type="text/javascript">var style_cookie="wakabastyle";</script>
+<script type="text/javascript" src="/en/wakaba3.js"></script>
+</head>
+<body class="replypage">
+
+
+
+
+<div class="adminbar">
+    <div style='float:left;'><small>xu do sisku <a href='/jbo/'>lo lojbo tcana</a></small></div> &nbsp;
+[<a href="/en/../" target="_top">Home</a>]
+[<a href="/en/wakaba.pl?task=admin">Manage</a>]
+</div>
+
+<div class="logo">
+
+
+
+/en/ - English
+</div><hr />
+
+
+<p>Posts and uploaded files are owned by the poster. jbotcan.org is not
+ liable for the content submitted by the poster.
+Downloading any poster-submitted files is doing so at your own risk.</p>
+
+<hr />
+
+
+
+
+
+	[<a href="/en/imageboard.html">Return</a>]
+	<div class="theader">Posting mode: Reply</div>
+
+
+<hr />
+<div align="center">
+<form action="/en/paint.pl" method="get">
+<input type="hidden" name="oek_parent" value="925" />
+
+Painter: 
+<select name="oek_painter">
+
+
+	
+	<option value="shi_norm" selected="selected">Shi Normal</option>
+	
+	
+
+	
+	
+	<option value="shi_pro">Shi Pro</option>
+	
+
+	
+	
+	<option value="shi_norm_selfy">Shi Normal+Selfy</option>
+	
+
+	
+	
+	<option value="shi_pro_selfy">Shi Pro+Selfy</option>
+	
+
+</select>
+
+Width: <input type="text" name="oek_x" size="3" value="300" />
+Height: <input type="text" name="oek_y" size="3" value="300" />
+
+
+	Source: 
+	<select name="oek_src">
+	<option value="">New image</option>
+
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	
+	</select>
+
+
+<input type="submit" value="Paint!" />
+</form>
+</div><hr />
+
+
+	<div class="postarea">
+	<form id="postform" action="/en/wakaba.pl" method="post" enctype="multipart/form-data">
+
+	<input type="hidden" name="task" value="post" />
+	<input type="hidden" name="parent" value="925" />
+	
+	
+	<div class="trap">Leave these fields empty (spam trap): <input type="text" name="name" size="28" autocomplete="off" /><input type="text" name="link" size="28" autocomplete="off" /></div>
+
+	<table><tbody>
+	<tr><td class="postblock">Name</td><td><input type="text" name="field1" size="28" /></td></tr>
+	<tr><td class="postblock">Link</td><td><input type="text" name="field2" size="28" /></td></tr>
+	<tr><td class="postblock">Subject</td><td><input type="text" name="field3" size="35" /> (encouraged)
+	<input type="submit" value="Submit" /></td></tr>
+	<tr><td class="postblock">Comment</td><td><textarea name="field4" cols="48" rows="4"></textarea></td></tr>
+
+	
+		<tr><td class="postblock">File</td><td><input type="file" name="file" size="35" />
+		
+		</td></tr>
+	
+<!--
+        <tr>
+	  <td>
+	    <strong>YouTube video</strong>
+	  </td>
+	  <td>
+	    <input type='text' name='youtubelink'>
+	    <b>(ALPHA)</b>
+	  </td>
+        </tr>
+-->
+	
+
+	<tr><td class="postblock">Password</td><td><input type="password" name="password" size="8" /> (for post and file deletion)</td></tr>
+	<tr><td colspan="2">
+	<div class="rules"><ul> <li>Supported file types are: GIF, JPG, PNG</li> <li>Maximum file size allowed is 1000 KB.</li> <li>Images greater than 200x200 pixels will be thumbnailed.</li> </ul></div></td></tr>
+	</tbody></table></form></div>
+	<script type="text/javascript">set_inputs("postform")</script>
+
+	<hr />
+
+
+<form id="delform" action="/en/wakaba.pl" method="post">
+
+
+	
+		
+			
+
+			<a name="925"></a>
+			<label><input type="checkbox" name="delete" value="925" />
+			<span class="filetitle">One Seltau Affecting Higher-Grouped Multiple Tertau (Compounds) and Related Subjects</span>
+			
+			<span class="postername">.xeliz.</span>
+			09/01/31(Sat)22:34</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;925')">No.925</a>
+			</span>&nbsp;
+			
+
+			<blockquote>
+			 <p>Can one make a seltau apply to multiple tertau compounds which have been grouped together at a higher order than the seltau?  Without the necessity of repeating the seltau.</p><p>Speaking of which&#44; if there is a stucture of the following structure&#44; how is it parsed (where occurances of &quot;S&quot;&#44; labelled with a subscript&#44; represent a sumti; occurances of &quot;.E&quot; represent a connective; and (each) occurances of &quot;.E&quot; followed by &quot;bo&quot; (with or without a space or other separation) represent a connective with the particle {zo bo] affixed immediately following the said connective): &quot; S1 + .Ebo + S2 + .Ebo + S3 + .E + S4 + .Ebo + S5 + .Ebo S6 &quot;</p><p>Also&#44; if there is a seltau followed immediately by a binary tertau compound which has {zo zei] between/connecting the separate words constituting the tertau&#44; would the seltau affect the first tertau word of the binary compound or would the seltau affect the created lujvo because {zo zei] has higher presedence?  This also would influence the interpretation of &quot;LUJVO + zei + LUJVO&quot;-type lujvo as well as &quot;quoted-text seltau followed by tertua&quot;-type lujvo.</p><p>Thanks</p>  
+			
+			</blockquote>
+
+			
+		
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply934">
+
+			<a name="934"></a>
+			<label><input type="checkbox" name="delete" value="934" />
+			<span class="replytitle">RE: One Seltau Affecting Higher-Grouped Multiple Tertau (Compounds) and Related Subjects</span>
+			
+			<span class="commentpostername">xorxes</span>
+			09/02/01(Sun)13:42</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;934')">No.934</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			 <p>There are no rules that say how exactly the seltau modifies the tertau. The seltau just modifies the tertau as a whole.</p><p>&quot;(S1 + .Ebo + (S2 + .Ebo + S3)) + .E + (S4 + .Ebo + (S5 + .Ebo S6))&quot;</p><p>.ebo has higher priority than .e&#44; and it groups left to right.  </p><p>&quot;zei&quot; is used to contruct a lujvo&#44; not a tanru&#44; so &quot;LUJVO zei LUJVO&quot; is just like a longer lujvo&#44; like a single word&#44; and it can be modified as a whole by a seltau.</p>  
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply935">
+
+			<a name="935"></a>
+			<label><input type="checkbox" name="delete" value="935" />
+			<span class="replytitle">RE: One Seltau Affecting Higher-Grouped Multiple Tertau (Compounds) and Related Subjects</span>
+			
+			<span class="commentpostername">.kriltic.</span>
+			09/02/01(Sun)15:20</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;935')">No.935</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			 <p><a href="/en/res/925.html#934" onclick="highlight(934)">&gt;&gt;934</a></p><p>I would like to add an example of the &quot;LUJVO zei LUJVO&quot; interpretation (as I currently understand it).  [lu &lt;&lt;ke fepri zei tcecmacta zei jeke pavyvonmoiratni zei je zei pojma&#39;a zei pulce ke&#39;ezei zazyxai ke&#39;e rinka&gt;&gt; li&#39;u] would equal [zo &lt;&lt;kemfeprykemkemtcecmactajvekemkempavyvonmoiratke&#39;ejvekempojma&#39;ake&#39;eke&#39;epucke&#39;ekemzazyxai] ([zo&#39;o] or something).  By the way&#44; that is a part-by-part translation of &quot;pneumonoultramicroscopicsilicovolcaniconiosis&quot;.</p><p>Or&#44; you could skip all of that and go with [lu &lt;&lt;glijvo zei naljbo&gt;&gt; li&#39;u] which would mean [zo &lt;&lt;glijvokemnaljbo].</p>  
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply937">
+
+			<a name="937"></a>
+			<label><input type="checkbox" name="delete" value="937" />
+			<span class="replytitle">RE: One Seltau Affecting Higher-Grouped Multiple Tertau (Compounds) and Related Subjects</span>
+			
+			<span class="commentpostername">xorxes</span>
+			09/02/01(Sun)18:52</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;937')">No.937</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			 <p><a href="/en/res/925.html#935" onclick="highlight(935)">&gt;&gt;935</a></p><p>&quot;ke fepri zei tcecmacta zei jeke pavyvonmoiratni zei je zei pojma&#39;a zei pulce ke&#39;ezei zazyxai ke&#39;e rinka&quot; is not a lujvo. Notice that &quot;zei&quot; connects words&#44; any two wrds&#44; to form a lujvo. That means that &quot;fepri zei tcecmacta zei je&quot; is a lujvo&#44; call it lujvo-1&#44; &quot;pavyvonmoiratni zei je zei pojma&#39;a zei pulce&quot; is lujvo-2&#44; and  &quot;ke&#39;e zei zazyxai&quot; is lujvo-3. So what you have is a tanru: &quot;ke lujvo-1 ke lujvo-2 lujvo-3 ke&#39;e rinka&quot; (with an elided &quot;ke&#39;e&quot; at the end).</p>  
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply943">
+
+			<a name="943"></a>
+			<label><input type="checkbox" name="delete" value="943" />
+			<span class="replytitle">RE: One Seltau Affecting Higher-Grouped Multiple Tertau (Compounds) and Related Subjects</span>
+			
+			<span class="commentpostername">.kriltic.</span>
+			09/02/03(Tue)20:39</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;943')">No.943</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			 <p><a href="/en/res/925.html#937" onclick="highlight(937)">&gt;&gt;937</a> </p><p>[.ua]</p><p>I see.  Either I forgot to put those in there (it started to look very muddled after awhile) or I have poor planning skills&#44; or I did not entirely understand.  I cannot decide which.</p>  
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+	<br clear="left" /><hr />
+
+
+<table class="userdelete"><tbody><tr><td>
+<input type="hidden" name="task" value="delete" />
+Delete Post [<label><input type="checkbox" name="fileonly" value="on" />File Only</label>]<br />
+Password <input type="password" name="password" size="8" />
+<input value="Delete" type="submit" /></td></tr></tbody></table>
+</form>
+<script type="text/javascript">set_delpass("delform")</script>
+
+
+
+<!--<p class="footer"> - <a href="http://wakaba.c3.cx/">wakaba 3.0.7</a> + <a href="http://www.2chan.net/">futaba</a> + <a href="http://www.1chan.net/futallaby/">futallaby</a> -</p>-->
+
+</body></html>

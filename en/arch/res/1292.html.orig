@@ -1,0 +1,458 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<link rel="alternate" type="application/rss" title="RSS 2.0" href="/ideas/res/feed.rss" />
+<link rel="alternate" type="text/xml" title="RSS 2.0" href="/ideas/res/feed.rss" />
+<title>/en/ - English</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="shortcut icon" href="/en/lojban.ico" />
+
+<style type="text/css">
+body { margin: 0; padding: 8px; margin-bottom: auto; }
+blockquote blockquote { margin-left: 0em }
+form { margin-bottom: 0px }
+form .trap { display:none }
+.postarea { text-align: center }
+.postarea table { margin: 0px auto; text-align: left }
+.thumb { border: none; float: left; margin: 2px 20px }
+.nothumb { float: left; background: #eee; border: 2px dashed #aaa; text-align: center; margin: 2px 20px; padding: 1em 0.5em 1em 0.5em; }
+.reply blockquote, blockquote :last-child { margin-bottom: 0em }
+.reflink a { color: inherit; text-decoration: none }
+.reply .filesize { margin-left: 20px }
+.userdelete { float: right; text-align: center; white-space: nowrap }
+.replypage .replylink { display: none }
+</style>
+
+
+<link rel="stylesheet" type="text/css" href="/en/css/english.css" title="English" />
+
+
+<script type="text/javascript">var style_cookie="wakabastyle";</script>
+<script type="text/javascript" src="/en/wakaba3.js"></script>
+</head>
+<body class="replypage">
+
+
+
+
+<div class="adminbar">
+    <div style='float:left;'><small>xu do sisku <a href='/jbo/'>lo lojbo tcana</a></small></div> &nbsp;
+[<a href="/en/../" target="_top">Home</a>]
+[<a href="/en/wakaba.pl?task=admin">Manage</a>]
+</div>
+
+<div class="logo">
+
+
+
+/en/ - English
+</div><hr />
+
+
+<p>Posts and uploaded files are owned by the poster. jbotcan.org is not
+ liable for the content submitted by the poster.
+Downloading any poster-submitted files is doing so at your own risk.</p>
+
+<hr />
+
+
+
+
+
+	[<a href="/en/imageboard.html">Return</a>]
+	<div class="theader">Posting mode: Reply</div>
+
+
+<hr />
+<div align="center">
+<form action="/en/paint.pl" method="get">
+<input type="hidden" name="oek_parent" value="1292" />
+
+Painter: 
+<select name="oek_painter">
+
+
+	
+	<option value="shi_norm" selected="selected">Shi Normal</option>
+	
+	
+
+	
+	
+	<option value="shi_pro">Shi Pro</option>
+	
+
+	
+	
+	<option value="shi_norm_selfy">Shi Normal+Selfy</option>
+	
+
+	
+	
+	<option value="shi_pro_selfy">Shi Pro+Selfy</option>
+	
+
+</select>
+
+Width: <input type="text" name="oek_x" size="3" value="300" />
+Height: <input type="text" name="oek_y" size="3" value="300" />
+
+
+	Source: 
+	<select name="oek_src">
+	<option value="">New image</option>
+
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	
+	</select>
+
+
+<input type="submit" value="Paint!" />
+</form>
+</div><hr />
+
+
+	<div class="postarea">
+	<form id="postform" action="/en/wakaba.pl" method="post" enctype="multipart/form-data">
+
+	<input type="hidden" name="task" value="post" />
+	<input type="hidden" name="parent" value="1292" />
+	
+	
+	<div class="trap">Leave these fields empty (spam trap): <input type="text" name="name" size="28" autocomplete="off" /><input type="text" name="link" size="28" autocomplete="off" /></div>
+
+	<table><tbody>
+	<tr><td class="postblock">Name</td><td><input type="text" name="field1" size="28" /></td></tr>
+	<tr><td class="postblock">Link</td><td><input type="text" name="field2" size="28" /></td></tr>
+	<tr><td class="postblock">Subject</td><td><input type="text" name="field3" size="35" /> (encouraged)
+	<input type="submit" value="Submit" /></td></tr>
+	<tr><td class="postblock">Comment</td><td><textarea name="field4" cols="48" rows="4"></textarea></td></tr>
+
+	
+		<tr><td class="postblock">File</td><td><input type="file" name="file" size="35" />
+		
+		</td></tr>
+	
+<!--
+        <tr>
+	  <td>
+	    <strong>YouTube video</strong>
+	  </td>
+	  <td>
+	    <input type='text' name='youtubelink'>
+	    <b>(ALPHA)</b>
+	  </td>
+        </tr>
+-->
+	
+
+	<tr><td class="postblock">Password</td><td><input type="password" name="password" size="8" /> (for post and file deletion)</td></tr>
+	<tr><td colspan="2">
+	<div class="rules"><ul> <li>Supported file types are: GIF, JPG, PNG</li> <li>Maximum file size allowed is 1000 KB.</li> <li>Images greater than 200x200 pixels will be thumbnailed.</li> </ul></div></td></tr>
+	</tbody></table></form></div>
+	<script type="text/javascript">set_inputs("postform")</script>
+
+	<hr />
+
+
+<form id="delform" action="/en/wakaba.pl" method="post">
+
+
+	
+		
+			
+
+			<a name="1292"></a>
+			<label><input type="checkbox" name="delete" value="1292" />
+			<span class="filetitle">Sanity Check</span>
+			
+			<span class="postername">Hussell</span>
+			09/08/05(Wed)14:50</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1292')">No.1292</a>
+			</span>&nbsp;
+			
+
+			<blockquote>
+			<p>I&#39;ve been translating some English verse into Lojban&#44; and was hoping someone would translate it back into English&#44; as a sort of sanity check&#44; to make sure I&#39;m getting my translation right. Being verse (almost poetry)&#44; there are some metaphors I&#39;ve had to destroy to make the Lojban work.</p><p>The translation is in progress&#44; but it comes in nicely numbered sections&#44; so I&#39;ll post a few sections&#44; wait for translations&#44; post the original&#44; and repeat.</p><p>lu le batke zo&#39;u selju&#39;o do li&#39;u cmene dei ne fi&#39;e la&#39;o la W. Gregory Stewart la zi&#39;e poi xelfanva fo la glibau la xysyl</p><pre><code>i pamo&#39;o la&#39;e dei le batke<br />         do selterju&#39;o</code></pre><pre><code>i pamai lo du&#39;u ko&#39;a batke zo&#39;u<br />        do djuno ri</code></pre><pre><code>i remai du&#39;u ko&#39;a puco&#39;i suksa<br />        tolcanci ca&#39;u do</code></pre><pre><code>i cimai du&#39;u le batke cu<br />        jorne pa tapla i<br />        du&#39;u le tapla cu jorne no drata ibo<br />        du&#39;u ko&#39;e fulta</code></pre><pre><code>i vomai du&#39;u lo go&#39;i nunflu ca&#39;o fasnu ca&#39;u nu&#39;i<br />        re guclai a pimu trelai lo do ne&#39;a flira</code></pre>
+			
+			</blockquote>
+
+			
+		
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1293">
+
+			<a name="1293"></a>
+			<label><input type="checkbox" name="delete" value="1293" />
+			<span class="replytitle">RE: Sanity Check</span>
+			
+			<span class="commentpostername">xorxes</span>
+			09/08/06(Thu)13:16</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1293')">No.1293</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>I. This you know about the button.<br />  1. That it&#39;s a button&#44; you know that.<br />  2. That it suddenly appears in front of you.<br />  3. That the button is attached to a single tile&#44; that the tile is attached to nothing else and that it floats.<br />  4. That such floating is happening in front&#44; two feet or half a meter&#44; your nearby face.</p><p>I suppose the last part of 4. is meant to be &quot;two feet or half a meter in front of your face&quot;&#44; but there are some problems there. &quot;ca&#39;u [ku]&quot; is not tagging the termset (despite the incorrect example in CLL)&#44; it forms a term on its own. Tags can&#39;t take a termset as a complement. &quot;re guclai a pimu trelai&quot; and &quot;lo do ne&#39;a flira&quot; are then filling the x2 and x3 of fasnu.</p><p>What the CLL example tried to show was something like: &quot;nu&#39;i la&#39;u re guclai a pimu trelai ca&#39;u lo do ne&#39;a flira&quot;. That is still an abuse of termsets&#44; which are meant for something else&#44; but it makes a little more sense.</p><p>I prefer &quot;va lo gutci be li re be&#39;o a lo mitre be li pimu ca&#39;u lo do ne&#39;a flira&quot;. </p><p>Not sure what &quot;guclai&quot;/&quot;trelai&quot; adds to &quot;gutci&quot;/&quot;mitre&quot; and &quot;re gutci&quot; is not really the same as &quot;lo gutci be li re&quot;. </p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1294">
+
+			<a name="1294"></a>
+			<label><input type="checkbox" name="delete" value="1294" />
+			<span class="replytitle">RE: Sanity Check</span>
+			
+			<span class="commentpostername">Hussell</span>
+			09/08/06(Thu)18:01</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1294')">No.1294</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1292.html#1293" onclick="highlight(1293)">&gt;&gt;1293</a></p><p>I&#39;ve been using jbofihe to check my grammar&#44; and it lets a tag govern a termset. I&#39;m not sure why now&#44; given that none of the grammar&#39;s variants seem to allow it.</p><p>I think &quot;va lo gutci be li re&quot; means &quot;a medium distance from a/some two-foot-thing(s)&quot;. How about &quot;ca&#39;u lo flira ku ce&#39;o lo gutci be li re&quot; instead of using a termset?</p><blockquote class="unkfunc">&gt;Not sure what &quot;guclai&quot;/&quot;trelai&quot; adds to &quot;gutci&quot;/&quot;mitre&quot; and &quot;re gutci&quot; is not really the same as &quot;lo gutci be li re&quot;.</blockquote><p>Yes&#44; &quot;re gutci&quot; means &quot;Two one-foot-things&quot;&#44; which is obviously different from &quot;a/some two-foot-thing(s)&quot;. &quot;re guclai&quot;&#44; &quot;two one-foot-quantities&quot; is an attempt to shorten &quot;la&#39;u pa gutci be li re&quot;. Another way is &quot;fi&#39;o selgutci li re&quot;.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1295">
+
+			<a name="1295"></a>
+			<label><input type="checkbox" name="delete" value="1295" />
+			<span class="replytitle">RE: Sanity Check</span>
+			
+			<span class="commentpostername">Hussell</span>
+			09/08/06(Thu)18:58</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1295')">No.1295</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>The original text of the above:</p><pre><code>THE BUTTON&#44; AND<br />WHAT YOU KNOW</code></pre><pre><code>W. Gregory Stewart</code></pre><pre><code>I. this is the button and<br />   what you know about it:</code></pre><pre><code>   1. that it is a button -<br />      you know this.</code></pre><pre><code>   2. that it has suddenly<br />      appeared before you.</code></pre><pre><code>   3. that the button is<br />      attached to a plate;<br />      that the plate is attached to nothing else -<br />      that it floats.</code></pre><pre><code>   4. that this floating is taking place 2 feet or<br />      half a meter in front of your immediate face.</code></pre>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1296">
+
+			<a name="1296"></a>
+			<label><input type="checkbox" name="delete" value="1296" />
+			<span class="replytitle">RE: Sanity Check</span>
+			
+			<span class="commentpostername">Hussell</span>
+			09/08/07(Fri)13:48</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1296')">No.1296</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1292.html" onclick="highlight(1292)">&gt;&gt;1292</a></p><p>Looking over this again&#44; I think my initial translation of the title and the first sentence were pretty bad. &quot;le batke e da poi do djuno&quot; and &quot;la&#39;e dei srana le batke gi&#39;e selju&#39;o do ri&quot; seem much closer to the original.</p><p>Anyway&#44; here&#39;s the next part:</p><pre><code>i mumai mu&#39;onai<br />        i le batke ku joi le tapla cu grusi<br />        gi&#39;eku&#39;i kamgrusi na&#39;e dunli simxu<br />        i ti cizra kamgrusi co nalminra jeku&#39;i norkli<br />        gi&#39;e mlibi&#39;o co xekri bi&#39;o blabi je zilxru<br />        i bagi le batke cu xekmau gi<br />        le tapla cu xekmau ije seja&#39;enaigi<br />        loi nu skari cenba cu selsno je cenba gi<br />        le batke e le tapla ta&#39;iku ba&#39;e noroi<br />        mintu kamgrusi ti&#39;u lo mintu tcika</code></pre><pre><code>        ni&#39;o ju&#39;ocu&#39;i la&#39;e di&#39;u vajni</code></pre><pre><code>        ni&#39;o ku&#39;i la&#39;a na go&#39;i</code></pre>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1297">
+
+			<a name="1297"></a>
+			<label><input type="checkbox" name="delete" value="1297" />
+			<span class="replytitle">RE: Sanity Check</span>
+			
+			<span class="commentpostername">xorxes</span>
+			09/08/07(Fri)13:57</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1297')">No.1297</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1292.html#1294" onclick="highlight(1294)">&gt;&gt;1294</a> </p><p>There have been (at least) three different meanings proposed for &quot;va X&quot;: one (which still appears in the ma&#39;oste alhough I don&#39;t think anyone ever uses) is &quot;there at X&quot;&#44; the second is the one described in CLL&#44; &quot;a medium distance away from X&quot;&#44; and the third and most useful (in my opinion of course) is &quot;at distance X&quot;. We already have PUs and FAhAs to indicate origin&#44; so I don&#39;t think we really need to use the magnitude indicators in ZI and VA to also tag the origin instead of the magnitudes. ZEhA and VEhA also tag (other types of) magnitudes. </p><p>I think &quot;fi&#39;o selgutci li re&quot; is more like &quot;ve&#39;a lo gutci be li re&quot; than like a &quot;va&quot;.</p><p>The &quot;ce&#39;o&quot; one is interesting. The problem is that with that you are forced to always indicate an origin&#44; you can&#39;t specify the magnitude of displacement only if you want to.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1298">
+
+			<a name="1298"></a>
+			<label><input type="checkbox" name="delete" value="1298" />
+			<span class="replytitle">RE: Sanity Check</span>
+			
+			<span class="commentpostername">Hussell</span>
+			09/08/07(Fri)16:36</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1298')">No.1298</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1292.html#1297" onclick="highlight(1297)">&gt;&gt;1297</a></p><p>It&#39;s my understanding that FAhA VA pairs represent a direction and magnitude on a journey from the tense origin&#44; and that an isolated VA is assumed to have an implicit&#44; unspecified FAhA in front of it. E.g.&#44; &quot;lei sonci selginka vu lo ri zdani&quot;&#44; &quot;The soldiers are camped far from their home(s)&quot;&#44; doesn&#39;t claim that &quot;lo ri zdani&quot; is the distance to the camp&#44; but that one must travel (in an unspecified direction) for a long distance from their home(s) to reach the camp. There&#39;s a parallel use for ZI&#44; to say things like &quot;nearly at the same time as&quot;.</p><p>I suppose one could insist the above be written &quot;ze&#39;ovu&quot; instead. However&#44; how would you specify distances in a multi-stage tense journey? E.g.&#44; &quot;vu&#39;avabe&#39;avi&quot;? Using &quot;ce&#39;o&quot; for each step could work. (Steps in FAhA tagged sumti would then represent each location in the tense journey&#44; I suppose. Great for giving directions: &quot;Go north from the hotel&#44; then turn west at the restaurant.&quot; &quot;be&#39;avu&#39;a le xotli ku ce&#39;o le gusta&quot;.) Then &quot;vu&#39;avabe&#39;avi&quot; would expect a sequence consisting of an origin&#44; a distance&#44; a second point&#44; and a second distance. Is this close to your interpretation? It&#39;s an interesting possibility.</p><blockquote class="unkfunc">&gt;I think &quot;fi&#39;o selgutci li re&quot; is more like &quot;ve&#39;a lo gutci be li re&quot; than like a &quot;va&quot;.</blockquote><p>I&#39;m guessing you interpret a &quot;ve&#39;a&quot; term as the magnitude of the spatial extent of the main event. It&#39;s my understanding that BAI (and FIhO constructs) introduce an extra place into the place structure of the main event&#44; but are pretty vague about how the other places of the BAI relate to the main event&#44; unless the BAI is used with/as a connective. &quot;fi&#39;o selgutci&quot;&#44; then&#44; introduces a place for a quantifier&#44; but is pretty vague about what&#39;s being quantified. It could be a length&#44; a distance&#44; or something else&#44; as long as it&#39;s quantified in short non-metric distance units. I&#39;ll grant you&#44; this isn&#39;t a precise way to specify a distance&#44; but it is accurate.</p><blockquote class="unkfunc">&gt;The &quot;ce&#39;o&quot; one is interesting. The problem is that with that you are forced to always indicate an origin&#44; you can&#39;t specify the magnitude of displacement only if you want to.</blockquote><p>I see your point.</p><p>Here&#39;s another brainstormed way to specify distances: &quot;fasnu ca&#39;u lo flira bu&#39;u lo gucrelze&#39;o a lo trexabze&#39;o&quot;.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1300">
+
+			<a name="1300"></a>
+			<label><input type="checkbox" name="delete" value="1300" />
+			<span class="replytitle">RE: Sanity Check</span>
+			
+			<span class="commentpostername">xorxes</span>
+			09/08/07(Fri)18:37</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1300')">No.1300</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<blockquote class="unkfunc">&gt; Great for giving directions: &quot;Go north from the hotel&#44; then turn west at the restaurant.&quot; &quot;be&#39;avu&#39;a le xotli ku ce&#39;o le gusta&quot;.</blockquote><p>I would prefer: &quot;ko klama lo berti lo xotli gi&#39;ebabo lo stici lo gusta&quot;</p><p>What you have is just a compound tense&#44; not a command. What selbri would you use? The famous &quot;imaginary journey&quot; of compound tenses is a mental journey that takes you from some reference point to the place where the tensed event takes place&#44; it is not the actual path along which some event takes place&#44; so it is not clear how useful it is for giving directions. I don&#39;t recall ever seeing any example of a string of FAhAs that seemed like it could actually be useful in practice. </p><p>As a theoretical construct&#44; the string of sumti joined with &quot;ce&#39;o&quot; might be how compound tenses as tags could be used. In practice&#44; I don&#39;t see how anyone could possibly follow any longish compound&#44; when all the tags are given first and then all the complements.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1303">
+
+			<a name="1303"></a>
+			<label><input type="checkbox" name="delete" value="1303" />
+			<span class="replytitle">RE: Sanity Check</span>
+			
+			<span class="commentpostername">Hussell</span>
+			09/08/09(Sun)13:09</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1303')">No.1303</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1292.html#1300" onclick="highlight(1300)">&gt;&gt;1300</a></p><p>Yes&#44; yes. I was thinking more in terms of a response to a cu&#39;e question than as a direct translation. Anyway&#44; here&#39;s an updated translation:</p><pre><code>i vomai du&#39;u lo go&#39;i nunfla ca&#39;o fasnu vi loi re gutci a<br />        pa mitre xadba ca&#39;u lo do ne&#39;a flira</code></pre><p>Onwards! (If this isn&#39;t too objectionable.) <a href="/en/res/1292.html#1296" onclick="highlight(1296)">&gt;&gt;1296</a></p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1307">
+
+			<a name="1307"></a>
+			<label><input type="checkbox" name="delete" value="1307" />
+			<span class="replytitle">RE: Sanity Check</span>
+			
+			<span class="commentpostername">Hussell</span>
+			09/08/11(Tue)13:14</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1307')">No.1307</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<pre><code>i xamai cnita le tapla gi&#39;e simsa fulta<br />        gi&#39;e puco&#39;i tolcanci tedu&#39;i lo kamsuksa<br />        gi&#39;e simlu dunli fi lo cizra kamrelska<br />        vau fa lo jadytapla poi terci&#39;a<br />        lu RODA ONAI NODE li&#39;u</code></pre><pre><code>i zemai ua ie lo slanu zo&#39;u viku pa slanu<br />        cu fulta je sraji ne&#39;a<br />        le batke e le ri tapla<br />        e le jadytapla poi cnita i ko&#39;o labgrusi<br />        sedi&#39;o lo dzirai gi&#39;e xekmau ga&#39;u<br />        i do ba sajbi&#39;o caze&#39;u lo bavlamcacra<br />        lo du&#39;u le labgrusi cu preja ibo ca lo bavlamdei<br />        ti&#39;u lo nau tcika do ba sajbi&#39;o<br />        lo du&#39;u le labgrusi cu selca&#39;u fi&#39;uze<br />        loi sefta be le slanu<br />        ije lo sego&#39;i ba ctuca do zo&#39;e<br />        vau ba&#39;a li&#39;aru&#39;e</code></pre>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+	<br clear="left" /><hr />
+
+
+<table class="userdelete"><tbody><tr><td>
+<input type="hidden" name="task" value="delete" />
+Delete Post [<label><input type="checkbox" name="fileonly" value="on" />File Only</label>]<br />
+Password <input type="password" name="password" size="8" />
+<input value="Delete" type="submit" /></td></tr></tbody></table>
+</form>
+<script type="text/javascript">set_delpass("delform")</script>
+
+
+
+<!--<p class="footer"> - <a href="http://wakaba.c3.cx/">wakaba 3.0.7</a> + <a href="http://www.2chan.net/">futaba</a> + <a href="http://www.1chan.net/futallaby/">futallaby</a> -</p>-->
+
+</body></html>

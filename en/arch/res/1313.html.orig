@@ -1,0 +1,290 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<link rel="alternate" type="application/rss" title="RSS 2.0" href="/ideas/res/feed.rss" />
+<link rel="alternate" type="text/xml" title="RSS 2.0" href="/ideas/res/feed.rss" />
+<title>/en/ - English</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="shortcut icon" href="/en/lojban.ico" />
+
+<style type="text/css">
+body { margin: 0; padding: 8px; margin-bottom: auto; }
+blockquote blockquote { margin-left: 0em }
+form { margin-bottom: 0px }
+form .trap { display:none }
+.postarea { text-align: center }
+.postarea table { margin: 0px auto; text-align: left }
+.thumb { border: none; float: left; margin: 2px 20px }
+.nothumb { float: left; background: #eee; border: 2px dashed #aaa; text-align: center; margin: 2px 20px; padding: 1em 0.5em 1em 0.5em; }
+.reply blockquote, blockquote :last-child { margin-bottom: 0em }
+.reflink a { color: inherit; text-decoration: none }
+.reply .filesize { margin-left: 20px }
+.userdelete { float: right; text-align: center; white-space: nowrap }
+.replypage .replylink { display: none }
+</style>
+
+
+<link rel="stylesheet" type="text/css" href="/en/css/english.css" title="English" />
+
+
+<script type="text/javascript">var style_cookie="wakabastyle";</script>
+<script type="text/javascript" src="/en/wakaba3.js"></script>
+</head>
+<body class="replypage">
+
+
+
+
+<div class="adminbar">
+    <div style='float:left;'><small>xu do sisku <a href='/jbo/'>lo lojbo tcana</a></small></div> &nbsp;
+[<a href="/en/../" target="_top">Home</a>]
+[<a href="/en/wakaba.pl?task=admin">Manage</a>]
+</div>
+
+<div class="logo">
+
+
+
+/en/ - English
+</div><hr />
+
+
+<p>Posts and uploaded files are owned by the poster. jbotcan.org is not
+ liable for the content submitted by the poster.
+Downloading any poster-submitted files is doing so at your own risk.</p>
+
+<hr />
+
+
+
+
+
+	[<a href="/en/imageboard.html">Return</a>]
+	<div class="theader">Posting mode: Reply</div>
+
+
+<hr />
+<div align="center">
+<form action="/en/paint.pl" method="get">
+<input type="hidden" name="oek_parent" value="1313" />
+
+Painter: 
+<select name="oek_painter">
+
+
+	
+	<option value="shi_norm" selected="selected">Shi Normal</option>
+	
+	
+
+	
+	
+	<option value="shi_pro">Shi Pro</option>
+	
+
+	
+	
+	<option value="shi_norm_selfy">Shi Normal+Selfy</option>
+	
+
+	
+	
+	<option value="shi_pro_selfy">Shi Pro+Selfy</option>
+	
+
+</select>
+
+Width: <input type="text" name="oek_x" size="3" value="300" />
+Height: <input type="text" name="oek_y" size="3" value="300" />
+
+
+	Source: 
+	<select name="oek_src">
+	<option value="">New image</option>
+
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	
+	</select>
+
+
+<input type="submit" value="Paint!" />
+</form>
+</div><hr />
+
+
+	<div class="postarea">
+	<form id="postform" action="/en/wakaba.pl" method="post" enctype="multipart/form-data">
+
+	<input type="hidden" name="task" value="post" />
+	<input type="hidden" name="parent" value="1313" />
+	
+	
+	<div class="trap">Leave these fields empty (spam trap): <input type="text" name="name" size="28" autocomplete="off" /><input type="text" name="link" size="28" autocomplete="off" /></div>
+
+	<table><tbody>
+	<tr><td class="postblock">Name</td><td><input type="text" name="field1" size="28" /></td></tr>
+	<tr><td class="postblock">Link</td><td><input type="text" name="field2" size="28" /></td></tr>
+	<tr><td class="postblock">Subject</td><td><input type="text" name="field3" size="35" /> (encouraged)
+	<input type="submit" value="Submit" /></td></tr>
+	<tr><td class="postblock">Comment</td><td><textarea name="field4" cols="48" rows="4"></textarea></td></tr>
+
+	
+		<tr><td class="postblock">File</td><td><input type="file" name="file" size="35" />
+		
+		</td></tr>
+	
+<!--
+        <tr>
+	  <td>
+	    <strong>YouTube video</strong>
+	  </td>
+	  <td>
+	    <input type='text' name='youtubelink'>
+	    <b>(ALPHA)</b>
+	  </td>
+        </tr>
+-->
+	
+
+	<tr><td class="postblock">Password</td><td><input type="password" name="password" size="8" /> (for post and file deletion)</td></tr>
+	<tr><td colspan="2">
+	<div class="rules"><ul> <li>Supported file types are: GIF, JPG, PNG</li> <li>Maximum file size allowed is 1000 KB.</li> <li>Images greater than 200x200 pixels will be thumbnailed.</li> </ul></div></td></tr>
+	</tbody></table></form></div>
+	<script type="text/javascript">set_inputs("postform")</script>
+
+	<hr />
+
+
+<form id="delform" action="/en/wakaba.pl" method="post">
+
+
+	
+		
+			
+
+			<a name="1313"></a>
+			<label><input type="checkbox" name="delete" value="1313" />
+			<span class="filetitle">&quot;Both of&quot;</span>
+			
+			<span class="postername">Anonymous</span>
+			09/08/14(Fri)03:42</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1313')">No.1313</a>
+			</span>&nbsp;
+			
+
+			<blockquote>
+			<p>How would one go about saying &quot;both of the cats run&quot;&#44; emphasis on the number and the gadri in use.  &quot;Both&quot; means that there are two members&#44; but also that all of them do/are similar in some way/apply to the same set (in this case&#44; those that run).</p>
+			
+			</blockquote>
+
+			
+		
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1321">
+
+			<a name="1321"></a>
+			<label><input type="checkbox" name="delete" value="1321" />
+			<span class="replytitle">RE: &quot;Both of&quot;</span>
+			
+			<span class="commentpostername">rarnavon</span>
+			09/08/15(Sat)05:23</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1321')">No.1321</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1313.html" onclick="highlight(1313)">&gt;&gt;1313</a><br />IIRC loi re mlatu For&#44; the two cats run together.<br />re loi mlatu For&#44; two of the mass of all cats run together.<br />lo re mlatu For&#44; the two cats run independently.<br />re lo mlatu For&#44; two of the cats run independently.</p><p>Let me know if that isn&#39;t exactly what you mean.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1325">
+
+			<a name="1325"></a>
+			<label><input type="checkbox" name="delete" value="1325" />
+			<span class="replytitle">RE: &quot;Both of&quot;</span>
+			
+			<span class="commentpostername">la timos</span>
+			09/08/15(Sat)10:04</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1325')">No.1325</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="http://lojban.org/tiki/tiki-index.php?page=How+to+use+xorlo&amp;bl=y" rel="nofollow">http://lojban.org/tiki/tiki-index.php?page=How+to+use+xorlo&amp;bl=y</a></p><p>this sums it all up nicely.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1327">
+
+			<a name="1327"></a>
+			<label><input type="checkbox" name="delete" value="1327" />
+			<span class="replytitle">RE: &quot;Both of&quot;</span>
+			
+			<span class="commentpostername">xorxes</span>
+			09/08/15(Sat)15:36</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1327')">No.1327</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1313.html" onclick="highlight(1313)">&gt;&gt;1313</a></p><p>   ro lo re mlatu cu bajra</p><p>&quot;Both&quot; is a special word in English&#44; which as you say means &quot;all two&quot;. There is no single word equivalent in Lojban&#44; just as English doesn&#39;t  have single words for &quot;all three&quot;&#44; &quot;all four&quot;&#44; &quot;all five&quot;&#44; etc. </p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+	<br clear="left" /><hr />
+
+
+<table class="userdelete"><tbody><tr><td>
+<input type="hidden" name="task" value="delete" />
+Delete Post [<label><input type="checkbox" name="fileonly" value="on" />File Only</label>]<br />
+Password <input type="password" name="password" size="8" />
+<input value="Delete" type="submit" /></td></tr></tbody></table>
+</form>
+<script type="text/javascript">set_delpass("delform")</script>
+
+
+
+<!--<p class="footer"> - <a href="http://wakaba.c3.cx/">wakaba 3.0.7</a> + <a href="http://www.2chan.net/">futaba</a> + <a href="http://www.1chan.net/futallaby/">futallaby</a> -</p>-->
+
+</body></html>

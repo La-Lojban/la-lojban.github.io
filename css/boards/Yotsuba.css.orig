@@ -1,0 +1,173 @@
+body {
+    background: #FFFFEE url(../../img/fade.png) top center repeat-x;
+    color: #800000;
+}
+a, a:visited { color: #00E; }
+a.postlink { color: #000080!important; }
+a:hover { color: #DD0000 !important }
+.postInput { border: 1px solid #aaa }
+.postInput:focus, #recaptcha_response_field:focus { border: 1px solid #EA8!important; }
+.recaptchatable { border: none!important }
+.banner { border: 1px solid #34345C }
+.reply {
+    background-color: #f0e0d6;
+	border: 1px solid #D9BFB7;
+    border-left: none;
+    border-top: none;
+}
+.topNavContainer {
+	background-color: #FEDDBA;
+	border-bottom: 1px solid #dcc5b8;
+	color: #800000;
+}
+.adminLogo { margin-top: 40px }
+.pageNumber {
+	background: #F0E0D6;
+	border-right: 1px solid #D9BFB7;
+	border-bottom: 1px solid #D9BFB7;
+    color: #B86;
+}
+.theader {
+    background: #E04000;
+    color: #FFF;
+}
+hr { border-top: 1px solid #D9BFB7 }
+.postBlock {
+    background-color: #EA8;
+	color: #800;
+    border: 1px solid #800;
+}
+.passvalid {
+    background: #E04000;
+    color: #fff;
+}
+.managehead {
+    background: #AA6;
+    color: #400000;
+    padding: 0;
+}
+.postlists {
+    background: #FFF;
+    color: maroon;
+    padding: 0;
+    width: 100%;
+}
+.row1 {
+    background: #EEC;
+    color: maroon;
+}
+.row2 {
+    background: #DDA;
+    color: maroon;
+}
+.unkfunc {
+    color: #789922;
+    margin: 0;
+    padding: 0;
+}
+.filetitle, .replytitle, .oldpost {
+    color: #cc1105;
+    font-weight: bold;
+}
+.oldpost {
+    color: #CC1105;
+    font-weight: bold;
+}
+.doubledash { color: #B7C5D9 }
+.thumbnailmsg { color: maroon }
+.highlight {
+    background: #F0C0B0!important;
+	border: 1px solid #D99F91!important;
+	border-left: none!important;
+	border-top: none!important;
+}
+.omittedposts, .abbrev {
+    color: #707070;
+    margin-top: 10px;
+    clear: both;
+    display: table-cell;
+}
+#navOptionsMenu {
+    border: 1px solid rgba(0, 0, 0, .25);
+    background-color: #f0e0d6;
+}
+.postMenuButton { color: #00E }
+.postMenu { background-color: #f0e0d6; }
+.postMenuItem { border-bottom: 1px solid rgba(0, 0, 0, .25) }
+#recaptcha_response_field:not(:focus) { border: 1px solid #AAA!important }
+.listHead {
+    background: #EA8;
+    color: black;
+    border: 4px solid #D9BFB7;
+    border-left: none;
+    border-top: none;
+}
+.listRow:nth-child(odd) { background-color: #f0e0d6 }
+.listRow:nth-child(even) { background-color: #D9BFB7 }
+.listRow:hover { background: #F0C0B0 }
+.listPageHeader { background: #EEF2FF url(../../img/fade-blue.png) top center repeat-x }
+.staticNav { color: #B86; }
+.staticNav a { color: #800000; }
+.reportblock {
+    color: #000;
+    border: 1px solid black;
+    background: #98E;
+}
+.reportstats { border: 1px solid black }
+.reportright { border: 1px solid black }
+.catalogLink { border-left: 1px solid #B7C5D9 }
+#qr-form {
+color: #800000;
+background: #F0E0D6;
+border: 1px solid #D9BFB7;
+border-left: none;
+border-top: none;
+}
+.qr-header {
+background: #EEAA88;
+border: 1px solid #880000;
+}
+
+@media only screen and (max-width: 480px){
+	.parentPost{
+		background: #f0e0d6;
+	}
+	.replyPostInfo {
+		border-bottom: 1px solid #D9BFB7;
+		background-color: #EAD6CA;
+	}
+	.mobileParentPostInfo {
+		border-bottom: 1px solid #D9BFB7;
+		background-color: #EAD6CA;
+	}
+	.parentContainer {
+		border-bottom: 1px solid #D9BFB7;
+		background-color: #f0e0d6;
+		padding: 0;
+	}
+	.button {
+		background-color: #f0e0d6;
+		border: 1px solid #c0a69d;
+		background-image: -moz-linear-gradient(top, #F7EAE3 0%, #E1D0C5 100%);
+		background-image: -webkit-linear-gradient(top, #F7EAE3 0%, #E1D0C5 100%);
+		background-image: linear-gradient(to bottom, #F7EAE3 0%, #E1D0C5 100%);
+	}
+	a.button{
+		color: #800;
+	}
+	.mobilePostReplyLink {
+		border-top: 1px solid #D9BFB7;
+		background-color: #EAD6CA;
+	}
+	.mobile-post-menu {
+		border-top: 1px solid #D9BFB7;
+		background-color: #EAD6CA;
+	}
+	.postMenuButtonMobile {
+		background-color: #f0e0d6;
+		background-image: -moz-linear-gradient(top, #F7EAE3 0%, #E1D0C5 100%);
+		background-image: -webkit-linear-gradient(top, #F7EAE3 0%, #E1D0C5 100%);
+		background-image: linear-gradient(to bottom, #F7EAE3 0%, #E1D0C5 100%);
+		border: 1px solid ##c0a69d!important;
+	}
+}

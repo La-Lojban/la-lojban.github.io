@@ -1,0 +1,365 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<link rel="alternate" type="application/rss" title="RSS 2.0" href="/jbo/res/feed.rss" />
+<link rel="alternate" type="text/xml" title="RSS 2.0" href="/jbo/res/feed.rss" />
+<title>/jbo/ - jbotcan</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="shortcut icon" href="/jbo/lojban.ico" />
+
+<style type="text/css">
+body { margin: 0; padding: 8px; margin-bottom: auto; }
+blockquote blockquote { margin-left: 0em }
+form { margin-bottom: 0px }
+form .trap { display:none }
+.postarea { text-align: center }
+.postarea table { margin: 0px auto; text-align: left }
+.thumb { border: none; float: left; margin: 2px 20px }
+.nothumb { float: left; background: #eee; border: 2px dashed #aaa; text-align: center; margin: 2px 20px; padding: 1em 0.5em 1em 0.5em; }
+.reply blockquote, blockquote :last-child { margin-bottom: 0em }
+.reflink a { color: inherit; text-decoration: none }
+.reply .filesize { margin-left: 20px }
+.userdelete { float: right; text-align: center; white-space: nowrap }
+.replypage .replylink { display: none }
+</style>
+
+
+<link rel="stylesheet" type="text/css" href="css/lojban.css" title="Lojban" />
+
+<link rel="alternate stylesheet" type="text/css" href="css/monospace.css" title="Monospace" />
+
+<link rel="alternate stylesheet" type="text/css" href="css/srilermorna.css" title="Srilermorna" />
+
+
+<script type="text/javascript">var style_cookie="wakabastyle";</script>
+<script type="text/javascript" src="/jbo/wakaba3.js"></script>
+</head>
+<body class="replypage">
+
+
+
+
+<div class="adminbar">
+    <div style='float:left;'><small>Looking for <a href='/en'>the English board?</a> </small></div> &nbsp;
+
+[<a href="/" target="_top">zdani</a>]
+[<a href="/jbo/wakaba.pl?task=admin">jitro</a>]
+</div>
+
+<div class="logo">
+<img src="/jbo/lojban.jpg" alt="/jbo/ - jbotcan" />
+
+<br />
+/jbo/ - jbotcan
+</div><hr />
+
+
+<p style="text-align: center"> zoi .ligal.<span style="font-size: .3em;">Posts and uploaded files are owned by the poster. jbotcan.org is not
+ liable for the content submitted by the poster.
+Downloading any poster-submitted files is doing so at your own risk. </span>.ligal.</p>
+
+<hr />
+
+
+
+
+
+	[<a href="/jbo/wakaba.html">xruti</a>]
+	<div class="theader">spuda mrilu</div>
+
+
+<hr />
+<div align="center">
+<form action="/jbo/paint.pl" method="get">
+<input type="hidden" name="oek_parent" value="1186" />
+
+pixra tutci 
+<select name="oek_painter">
+
+
+	
+	<option value="shi_norm" selected="selected">lo cnano</option>
+	
+	
+
+	
+	
+	<option value="shi_pro">lo</option>
+	
+
+	
+	
+	<option value="shi_norm_selfy">Shi Normal+Selfy</option>
+	
+
+	
+	
+	<option value="shi_pro_selfy">Shi Pro+Selfy</option>
+	
+
+</select>
+
+kramu li <input type="text" name="oek_x" size="3" value="300" />
+pi'i <input type="text" name="oek_y" size="3" value="300" />
+
+
+	se galfi 
+	<select name="oek_src">
+	<option value="">lo cnino</option>
+
+	
+		
+			
+				<option value="src/1254464972211.jpg">1186 moi</option>
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	
+	</select>
+
+
+<input type="submit" value="pixra finti" />
+</form>
+</div><hr />
+
+
+	<div class="postarea">
+	<form id="postform" action="/jbo/wakaba.pl" method="post" enctype="multipart/form-data">
+
+	<input type="hidden" name="task" value="post" />
+	<input type="hidden" name="parent" value="1186" />
+	
+	
+	<div class="trap"><input type="text" name="name" size="28" autocomplete="off" /><input type="text" name="link" size="28" autocomplete="off" /></div>
+
+	<table><tbody>
+	<tr><td class="postblock">do se cmene</td><td><input type="text" name="field1" size="28" /></td></tr>
+	<tr><td class="postblock">samymri judri</td><td><input type="text" name="field2" size="28" /></td></tr>
+	<tr><td class="postblock">lo pinka se cmene</td><td><input type="text" name="field3" size="35" /> (encouraged)
+	<input type="submit" value="mrilu" /></td></tr>
+	<tr><td class="postblock">pinka</td><td><textarea name="field4" cols="48" rows="4"></textarea></td></tr>
+
+	
+		<tr><td class="postblock">datnyvei</td><td><input type="file" name="file" size="35" />
+		
+		</td></tr>
+	
+<!--
+        <tr>
+	  <td>
+	    <strong>YouTube video</strong>
+	  </td>
+	  <td>
+	    <input type='text' name='youtubelink'>
+	    <b>(ALPHA)</b>
+	  </td>
+        </tr>
+-->
+	
+
+	<tr><td class="postblock">vimcu jaspu</td><td><input type="password" name="password" size="8" /> to jaspu fo lo nu vimcu lo pinka toi</td></tr>
+	<tr><td colspan="2">
+	<div class="rules"><ul> <li>Supported file types are: GIF, JPG, PNG</li> <li>Maximum file size allowed is 5125 KB.</li> <li>Images greater than 200x200 pixels will be thumbnailed.</li> </ul></div></td></tr>
+	</tbody></table></form></div>
+	<script type="text/javascript">set_inputs("postform")</script>
+
+	<hr />
+
+
+<form id="delform" action="/jbo/wakaba.pl" method="post">
+
+
+	
+		
+			
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1254464972211.jpg">1254464972211.jpg</a>
+				-(<em>4716 B, 225x225</em>)</span>
+				<span class="thumbnailmsg"></span>                                
+<small>[<a href="/ideas/paint.pl?oek_parent=1186&amp;oek_painter=shi_norm&amp;oek_x=225&amp;oek_y=225&amp;oek_src=/jbo/arch/src/1254464972211.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1254464972211.jpg">
+					<img src="/jbo/arch/thumb/1254464972211s.jpg" width="200" height="200" alt="4716" class="thumb" /></a>
+				
+				
+			
+
+			<a name="1186"></a>
+			<label><input type="checkbox" name="delete" value="1186" />
+			<span class="filetitle">.ui</span>
+			
+			<span class="postername">djeims</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li '+nahufanva(1186))">li papabixa</a>
+			</span>&nbsp;
+			
+
+			<blockquote>
+			<p>ko casnu</p>
+			
+			</blockquote>
+
+			
+		
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1187">
+
+			<a name="1187"></a>
+			<label><input type="checkbox" name="delete" value="1187" />
+			<span class="replytitle">RE: .ui</span>
+			
+			<span class="commentpostername">rarnavon</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1187))">li papabize</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/jbo/res/1186.html" onclick="highlight(1186)">doi li papabixa </a>mi nelci</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1188">
+
+			<a name="1188"></a>
+			<label><input type="checkbox" name="delete" value="1188" />
+			<span class="replytitle">RE: .ui</span>
+			
+			<span class="commentpostername">la timos</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1188))">li papabibi</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>mi la metroid prami i ai ba za cpacu la trilodjin i mi la zeldar ji&#39;a nelci i a&#39;o ba finti lo cnino i mi nelci ji&#39;a lo du&#39;u cumki fa lo nu kelci la skamvi&#44;em mu&#39;a</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1189">
+
+			<a name="1189"></a>
+			<label><input type="checkbox" name="delete" value="1189" />
+			<span class="replytitle">RE: .ui</span>
+			
+			<span class="commentpostername">djeims</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1189))">li papabiso</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>.ie mi dukse prami la zeldar .i lo nu mi kelci lo murse turni cu rapli li re .i mi nelci lo se lunbe be la link .u&#39;i .i mi ponse la geimciub .enai la .uis ku&#39;i</p><p>.i doi timos xu do galfi la .uis pe do</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1190">
+
+			<a name="1190"></a>
+			<label><input type="checkbox" name="delete" value="1190" />
+			<span class="replytitle">RE: .ui</span>
+			
+			<span class="commentpostername">pafcribe</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1190))">li papasono</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/jbo/res/1186.html#1189" onclick="highlight(1189)">doi li papabiso</a></p><p>.uecai .i xu je&#39;u do nelci lo se lunbe be la link .i mi jinvi lo du&#39;u lo nu do nelci lo nu catlu la link poi lunbe kei kei cu cizra</p><p>.i ta&#39;onai mi mutce nelci la .uis .i mi mutce nelci la&#39;oi .mario kart wii. .e la&#39;oi .rayman raving rabbids.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1195">
+
+			<a name="1195"></a>
+			<label><input type="checkbox" name="delete" value="1195" />
+			<span class="replytitle">RE: .ui</span>
+			
+			<span class="commentpostername">la timos</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1195))">li papasomu</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>&gt;&gt;1189<br /><a href="/jbo/res/1186.html#1189" onclick="highlight(1189)">doi li pa pa bi so </a>mi na galfi i mi pilno la murse turni lo nu setca la&#39;o gy homebrew channel gy i loi mi rirni pu pelji pi mu da i se ki&#39;u bo lo me la uis ca na zvati lo cnino be mi zdani be mi ui nai to u&#39;i lu ui nai li&#39;u mutce mapti toi</p><p>ni&#39;o ta&#39;o zo lunbe gismu fi pa da po&#39;o i lo&#39;u lo se lunbe be la link le&#39;u ki&#39;a</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+	<br clear="left" /><hr />
+
+
+<table class="userdelete"><tbody><tr><td>
+<input type="hidden" name="task" value="delete" />
+vimcu le cuxne[<label><input type="checkbox" name="fileonly" value="on" />sisi le datnyvei</label>]<br />
+vimcu jaspu <input type="password" name="password" size="8" />
+<input value="ko vimcu" type="submit" /></td></tr></tbody></table>
+</form>
+<script type="text/javascript">set_delpass("delform")</script>
+
+
+
+<!--<p class="footer"> - <a href="http://wakaba.c3.cx/">wakaba 3.0.7</a> + <a href="http://www.2chan.net/">futaba</a> + <a href="http://www.1chan.net/futallaby/">futallaby</a> -</p>-->
+
+</body></html>

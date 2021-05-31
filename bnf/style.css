@@ -1,0 +1,139 @@
+body, html {
+  background-color: #fff;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  margin-top: 5em;
+  margin-bottom: 5em;
+}
+
+.rule {
+  position: relative;
+  width: 50%;
+  z-index: 2;
+  padding-left: 1em;
+  border: solid thin transparent;
+  padding-bottom: .2em;
+  padding-right: 1em;
+  margin-bottom: 1px;
+
+  -moz-border-radius-topright: 10px;
+  -moz-border-radius-bottomright: 10px;
+  -webkit-border-top-right-radius: 10px;
+  -webkit-border-bottom-right-radius: 10px;
+}
+
+div.rule:hover {
+  /* background-color: #eef; */
+  border-color: blue;
+  border-left-color: transparent;
+}
+
+.rule .description {
+  position: absolute;
+  display: none;
+
+  left: 0px;
+  width: 40%;
+  padding-top: 1.5em;
+  padding-bottom: 2em;
+  padding-left: 2%;
+  margin-left: 98%;
+
+  background-color: #eef;
+  border: solid thin #eef;
+  
+  margin-top: -1px;
+  -moz-border-radius: 10px;
+  -moz-border-radius-topleft: 0px;
+  -webkit-border-radius: 10px;
+  -webkit-border-top-left-radius: 0px;
+  
+  z-index: 0;
+}
+
+div.description:hover, div.rule:hover div.description {
+  display: block;
+}
+
+.value {
+  margin-left: 2em;
+  white-space: pre-wrap;
+  z-index: 3;
+}
+
+
+/**** The Menu ****/
+.menu-bar {
+  position: fixed;
+  top: 0px;
+  padding-right: 1em;
+  right: 0em;
+  left: 50%;
+  bottom: 0px;
+  text-align: right;
+  z-index: 5;
+}
+.menu {
+/*   text-align: right; */
+  padding-left: 3%;
+  padding-right: 3%;
+  margin-left: 2%;
+  padding-bottom: 1em;
+  float: right;
+  text-align: center;
+
+  background-color: #2c2;
+  border: solid thin #2c2;
+  -moz-border-radius-bottomleft: 10px;
+  -moz-border-radius-bottomright: 10px;
+  -webkit-border-bottom-left-radius: 10px;
+  -webkit-border-bottom-right-radius: 10px;
+}
+.menu-item {
+  position: absolute;
+  display: none;
+  text-align: left;
+  margin-top: 10px;
+  right: 0px;
+  left: 0%;
+  overflow: auto;
+  max-height: 80%;
+/*   height: 0px; */
+
+  background-color: #dfd;
+  border: solid thick #dfd;
+  -moz-border-radius-topleft: 1em;
+  -moz-border-radius-bottomleft: 1em;
+  -webkit-border-top-left-radius: 1em;
+  -webkit-border-bottom-left-radius: 1em;
+  
+  padding: 3%;
+}
+span.menu:hover {
+  background-color: #dfd;
+  border-color: #dfd;
+}
+span.menu:hover .menu-item {
+  display: block;
+}
+
+
+/**** Misc. Prettifying ****/
+
+.paren {
+  background-color: rgba(100, 100, 100, .1);
+}
+
+/*.paren .paren {
+  background-color: rgba(0, 0, 0, 0.1);
+}*/
+
+a[href] {
+  color: black;
+  text-decoration: none;
+  background-color: rgba(100, 200, 255, .1)
+}
+

@@ -1,0 +1,374 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<link rel="alternate" type="application/rss" title="RSS 2.0" href="/ideas/res/feed.rss" />
+<link rel="alternate" type="text/xml" title="RSS 2.0" href="/ideas/res/feed.rss" />
+<title>/en/ - English</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="shortcut icon" href="/en/lojban.ico" />
+
+<style type="text/css">
+body { margin: 0; padding: 8px; margin-bottom: auto; }
+blockquote blockquote { margin-left: 0em }
+form { margin-bottom: 0px }
+form .trap { display:none }
+.postarea { text-align: center }
+.postarea table { margin: 0px auto; text-align: left }
+.thumb { border: none; float: left; margin: 2px 20px }
+.nothumb { float: left; background: #eee; border: 2px dashed #aaa; text-align: center; margin: 2px 20px; padding: 1em 0.5em 1em 0.5em; }
+.reply blockquote, blockquote :last-child { margin-bottom: 0em }
+.reflink a { color: inherit; text-decoration: none }
+.reply .filesize { margin-left: 20px }
+.userdelete { float: right; text-align: center; white-space: nowrap }
+.replypage .replylink { display: none }
+</style>
+
+
+<link rel="stylesheet" type="text/css" href="/en/css/english.css" title="English" />
+
+
+<script type="text/javascript">var style_cookie="wakabastyle";</script>
+<script type="text/javascript" src="/en/wakaba3.js"></script>
+</head>
+<body class="replypage">
+
+
+
+
+<div class="adminbar">
+    <div style='float:left;'><small>xu do sisku <a href='/jbo/'>lo lojbo tcana</a></small></div> &nbsp;
+[<a href="/en/../" target="_top">Home</a>]
+[<a href="/en/wakaba.pl?task=admin">Manage</a>]
+</div>
+
+<div class="logo">
+
+
+
+/en/ - English
+</div><hr />
+
+
+<p>Posts and uploaded files are owned by the poster. jbotcan.org is not
+ liable for the content submitted by the poster.
+Downloading any poster-submitted files is doing so at your own risk.</p>
+
+<hr />
+
+
+
+
+
+	[<a href="/en/imageboard.html">Return</a>]
+	<div class="theader">Posting mode: Reply</div>
+
+
+<hr />
+<div align="center">
+<form action="/en/paint.pl" method="get">
+<input type="hidden" name="oek_parent" value="1219" />
+
+Painter: 
+<select name="oek_painter">
+
+
+	
+	<option value="shi_norm" selected="selected">Shi Normal</option>
+	
+	
+
+	
+	
+	<option value="shi_pro">Shi Pro</option>
+	
+
+	
+	
+	<option value="shi_norm_selfy">Shi Normal+Selfy</option>
+	
+
+	
+	
+	<option value="shi_pro_selfy">Shi Pro+Selfy</option>
+	
+
+</select>
+
+Width: <input type="text" name="oek_x" size="3" value="300" />
+Height: <input type="text" name="oek_y" size="3" value="300" />
+
+
+	Source: 
+	<select name="oek_src">
+	<option value="">New image</option>
+
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	
+	</select>
+
+
+<input type="submit" value="Paint!" />
+</form>
+</div><hr />
+
+
+	<div class="postarea">
+	<form id="postform" action="/en/wakaba.pl" method="post" enctype="multipart/form-data">
+
+	<input type="hidden" name="task" value="post" />
+	<input type="hidden" name="parent" value="1219" />
+	
+	
+	<div class="trap">Leave these fields empty (spam trap): <input type="text" name="name" size="28" autocomplete="off" /><input type="text" name="link" size="28" autocomplete="off" /></div>
+
+	<table><tbody>
+	<tr><td class="postblock">Name</td><td><input type="text" name="field1" size="28" /></td></tr>
+	<tr><td class="postblock">Link</td><td><input type="text" name="field2" size="28" /></td></tr>
+	<tr><td class="postblock">Subject</td><td><input type="text" name="field3" size="35" /> (encouraged)
+	<input type="submit" value="Submit" /></td></tr>
+	<tr><td class="postblock">Comment</td><td><textarea name="field4" cols="48" rows="4"></textarea></td></tr>
+
+	
+		<tr><td class="postblock">File</td><td><input type="file" name="file" size="35" />
+		
+		</td></tr>
+	
+<!--
+        <tr>
+	  <td>
+	    <strong>YouTube video</strong>
+	  </td>
+	  <td>
+	    <input type='text' name='youtubelink'>
+	    <b>(ALPHA)</b>
+	  </td>
+        </tr>
+-->
+	
+
+	<tr><td class="postblock">Password</td><td><input type="password" name="password" size="8" /> (for post and file deletion)</td></tr>
+	<tr><td colspan="2">
+	<div class="rules"><ul> <li>Supported file types are: GIF, JPG, PNG</li> <li>Maximum file size allowed is 1000 KB.</li> <li>Images greater than 200x200 pixels will be thumbnailed.</li> </ul></div></td></tr>
+	</tbody></table></form></div>
+	<script type="text/javascript">set_inputs("postform")</script>
+
+	<hr />
+
+
+<form id="delform" action="/en/wakaba.pl" method="post">
+
+
+	
+		
+			
+
+			<a name="1219"></a>
+			<label><input type="checkbox" name="delete" value="1219" />
+			<span class="filetitle">sport</span>
+			
+			<span class="postername">tijlan</span>
+			09/03/22(Sun)23:22</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1219')">No.1219</a>
+			</span>&nbsp;
+			
+
+			<blockquote>
+			<p>I&#39;ve been trying to create an experimental gismu for &quot;sport&quot; with scoreGismu.pl. The source words are:</p><p>运动 -&gt; iundon<br />खेल -&gt; kel<br />sport -&gt; sport<br />deporte -&gt; deporte<br />спорт -&gt; sport<br />رياضة -&gt; riiada</p><p>The problem is that the program seems to ignore the English; it doesn&#39;t get listed up when the scoring begins. I guess it has to do with the fact that the form is the same with the Russian? Another possible Lojbanization of the English &quot;sport&quot; is &quot;spot&quot; (as British would do)&#44; and with this the scoring went well&#44; giving &quot;dokte&quot; and &quot;dotke&quot;. Without the English (i.e. with only 5 source words) it gives &quot;dokne&quot;.</p>
+			
+			</blockquote>
+
+			
+		
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1220">
+
+			<a name="1220"></a>
+			<label><input type="checkbox" name="delete" value="1220" />
+			<span class="replytitle">RE: sport</span>
+			
+			<span class="commentpostername">tijlan</span>
+			09/03/22(Sun)23:27</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1220')">No.1220</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<blockquote class="unkfunc">&gt; (as British would do)</blockquote><p>I mean some British&#44; the English.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1243">
+
+			<a name="1243"></a>
+			<label><input type="checkbox" name="delete" value="1243" />
+			<span class="replytitle">RE: sport</span>
+			
+			<span class="commentpostername">Hussell</span>
+			09/03/27(Fri)17:28</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1243')">No.1243</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>Bug fixed. If identical words appear in the input now&#44; the weights are summed&#44; which speeds up the scoring a bit. Also&#44; blank lines in the input file are now ignored.</p><p><a href="http://lban.freehost10.com/phpBB3/download/file.php?id=2" rel="nofollow">http://lban.freehost10.com/phpBB3/download/file.php?id=2</a></p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1245">
+
+			<a name="1245"></a>
+			<label><input type="checkbox" name="delete" value="1245" />
+			<span class="replytitle">RE: sport</span>
+			
+			<span class="commentpostername">Anonymous</span>
+			09/03/27(Fri)18:24</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1245')">No.1245</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1219.html#1243" onclick="highlight(1243)">&gt;&gt;1243</a></p><p>According to<br /><a href="http://www.lojban.org/tiki/tiki-index.php?page=gismu+Etymology&amp;bl=y" rel="nofollow">http://www.lojban.org/tiki/tiki-index.php?page=gismu+Etymology&amp;bl=y</a> &#44;<br />&quot;iun 0.36 emploi 0.21 upiog 0.16 us 0.11 primin 0.09 amal 0.07&quot;<br />should make &quot;pilno&quot;&#44; but your program says it&#39;s &quot;mlino&quot;.</p><p>I also don&#39;t understand how the &#39;top score&#39; is related to the numbers listed on the page. In the case of &quot;pilno&quot;&#44; your program gives &quot;0.489&quot; as the top score&#44; and the etymology page gives &quot;46.60 2 3 3 0 3 0&quot;.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1247">
+
+			<a name="1247"></a>
+			<label><input type="checkbox" name="delete" value="1247" />
+			<span class="replytitle">RE: sport</span>
+			
+			<span class="commentpostername">Hussell</span>
+			09/03/27(Fri)21:05</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1247')">No.1247</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1219.html#1245" onclick="highlight(1245)">&gt;&gt;1245</a></p><p>The etymology page gives the score of &quot;pilno&quot; as 46.60%&#44; with 2&#44; 3&#44; 3&#44; 0&#44; 3&#44; and 0 letter matches with the respective source words.</p><p>scoreGismu thinks the top scoring gismu for the given source words&#44; with the first set of weights given in <a href="http://jbotcan.org/cllc/c4/s14.html" rel="nofollow">http://jbotcan.org/cllc/c4/s14.html</a>&#44; are:<br />mlino 0.489 2 3 2 0 3 2<br />pilno 0.486 2 3 3 0 3 0<br />pinlo 0.486 2 3 3 0 3 0<br />plino 0.486 2 3 3 0 3 0<br />mligu 0.474 2 2 3 0 2 2</p><p>If anyone can figure out how to get a score of 0.466 for pilno (not to mention get all the other scores listed)&#44; I&#39;d be grateful to know how. scoreGismu consistently gives a slightly higher score than is listed.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1249">
+
+			<a name="1249"></a>
+			<label><input type="checkbox" name="delete" value="1249" />
+			<span class="replytitle">RE: sport</span>
+			
+			<span class="commentpostername">xorxes</span>
+			09/03/27(Fri)23:00</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1249')">No.1249</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1219.html#1247" onclick="highlight(1247)">&gt;&gt;1247</a></p><p>If I&#39;m reading the algorithm correctly&#44; &quot;mlino&quot;&#44; &quot;pinlo&quot; and &quot;plino&quot; should score 0 for Chinese &quot;iun&quot;: </p><p>&quot;If exactly two letters were the same in the proposed gismu and the source-language word&#44; and either the two letters were consecutive in both words&#44; or were separated by a single letter in both words&#44; the score was 2.&quot;</p><p>&quot;i&quot; and &quot;n&quot; are not consecutive in &quot;iun&quot; while they are consecutive in those proposed gismu. </p><p>(They should have used &quot;emplear&quot; from Spanish if they were using &quot;employ&quot; from English.)</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1265">
+
+			<a name="1265"></a>
+			<label><input type="checkbox" name="delete" value="1265" />
+			<span class="replytitle">RE: sport</span>
+			
+			<span class="commentpostername">Hussell</span>
+			09/03/29(Sun)22:43</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1265')">No.1265</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1219.html#1249" onclick="highlight(1249)">&gt;&gt;1249</a></p><p>Easy enough to fix. However&#44; that doesn&#39;t change the score of pilno.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+	<br clear="left" /><hr />
+
+
+<table class="userdelete"><tbody><tr><td>
+<input type="hidden" name="task" value="delete" />
+Delete Post [<label><input type="checkbox" name="fileonly" value="on" />File Only</label>]<br />
+Password <input type="password" name="password" size="8" />
+<input value="Delete" type="submit" /></td></tr></tbody></table>
+</form>
+<script type="text/javascript">set_delpass("delform")</script>
+
+
+
+<!--<p class="footer"> - <a href="http://wakaba.c3.cx/">wakaba 3.0.7</a> + <a href="http://www.2chan.net/">futaba</a> + <a href="http://www.1chan.net/futallaby/">futallaby</a> -</p>-->
+
+</body></html>

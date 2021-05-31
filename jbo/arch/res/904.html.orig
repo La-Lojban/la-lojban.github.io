@@ -1,0 +1,662 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<link rel="alternate" type="application/rss" title="RSS 2.0" href="/jbo/res/feed.rss" />
+<link rel="alternate" type="text/xml" title="RSS 2.0" href="/jbo/res/feed.rss" />
+<title>/jbo/ - jbotcan</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="shortcut icon" href="/jbo/lojban.ico" />
+
+<style type="text/css">
+body { margin: 0; padding: 8px; margin-bottom: auto; }
+blockquote blockquote { margin-left: 0em }
+form { margin-bottom: 0px }
+form .trap { display:none }
+.postarea { text-align: center }
+.postarea table { margin: 0px auto; text-align: left }
+.thumb { border: none; float: left; margin: 2px 20px }
+.nothumb { float: left; background: #eee; border: 2px dashed #aaa; text-align: center; margin: 2px 20px; padding: 1em 0.5em 1em 0.5em; }
+.reply blockquote, blockquote :last-child { margin-bottom: 0em }
+.reflink a { color: inherit; text-decoration: none }
+.reply .filesize { margin-left: 20px }
+.userdelete { float: right; text-align: center; white-space: nowrap }
+.replypage .replylink { display: none }
+</style>
+
+
+<link rel="stylesheet" type="text/css" href="css/lojban.css" title="Lojban" />
+
+<link rel="alternate stylesheet" type="text/css" href="css/monospace.css" title="Monospace" />
+
+<link rel="alternate stylesheet" type="text/css" href="css/srilermorna.css" title="Srilermorna" />
+
+
+<script type="text/javascript">var style_cookie="wakabastyle";</script>
+<script type="text/javascript" src="/jbo/wakaba3.js"></script>
+</head>
+<body class="replypage">
+
+
+
+
+<div class="adminbar">
+    <div style='float:left;'><small>Looking for <a href='/en'>the English board?</a> </small></div> &nbsp;
+
+[<a href="/" target="_top">zdani</a>]
+[<a href="/jbo/wakaba.pl?task=admin">jitro</a>]
+</div>
+
+<div class="logo">
+<img src="/jbo/lojban.jpg" alt="/jbo/ - jbotcan" />
+
+<br />
+/jbo/ - jbotcan
+</div><hr />
+
+
+<p>Posts and uploaded files are owned by the poster. jbotcan.org is not
+ liable for the content submitted by the poster.
+Downloading any poster-submitted files is doing so at your own risk.</p>
+
+<hr />
+
+
+
+
+
+	[<a href="/jbo/wakaba.html">xruti</a>]
+	<div class="theader">spuda mrilu</div>
+
+
+<hr />
+<div align="center">
+<form action="/jbo/paint.pl" method="get">
+<input type="hidden" name="oek_parent" value="904" />
+
+pixra tutci 
+<select name="oek_painter">
+
+
+	
+	<option value="shi_norm" selected="selected">lo cnano</option>
+	
+	
+
+	
+	
+	<option value="shi_pro">lo</option>
+	
+
+	
+	
+	<option value="shi_norm_selfy">Shi Normal+Selfy</option>
+	
+
+	
+	
+	<option value="shi_pro_selfy">Shi Pro+Selfy</option>
+	
+
+</select>
+
+kramu li <input type="text" name="oek_x" size="3" value="300" />
+pi'i <input type="text" name="oek_y" size="3" value="300" />
+
+
+	se galfi 
+	<select name="oek_src">
+	<option value="">lo cnino</option>
+
+	
+		
+			
+				<option value="src/1235644166078.png">904 moi</option>
+			
+		
+			
+				<option value="src/1235644404103.jpg">905 moi</option>
+			
+		
+			
+				<option value="src/1235644430343.jpg">906 moi</option>
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+				<option value="src/1237285655278.jpg">943 moi</option>
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	
+	</select>
+
+
+<input type="submit" value="pixra finti" />
+</form>
+</div><hr />
+
+
+	<div class="postarea">
+	<form id="postform" action="/jbo/wakaba.pl" method="post" enctype="multipart/form-data">
+
+	<input type="hidden" name="task" value="post" />
+	<input type="hidden" name="parent" value="904" />
+	
+	
+	<div class="trap"><input type="text" name="name" size="28" autocomplete="off" /><input type="text" name="link" size="28" autocomplete="off" /></div>
+
+	<table><tbody>
+	<tr><td class="postblock">do se cmene zo</td><td><input type="text" name="field1" size="28" /></td></tr>
+	<tr><td class="postblock">samymri judri</td><td><input type="text" name="field2" size="28" /></td></tr>
+	<tr><td class="postblock">lo pinka se cmene zo</td><td><input type="text" name="field3" size="35" /> (encouraged)
+	<input type="submit" value="mrilu" /></td></tr>
+	<tr><td class="postblock">pinka</td><td><textarea name="field4" cols="48" rows="4"></textarea></td></tr>
+
+	
+		<tr><td class="postblock">datnyvei</td><td><input type="file" name="file" size="35" />
+		
+		</td></tr>
+	
+<!--
+        <tr>
+	  <td>
+	    <strong>YouTube video</strong>
+	  </td>
+	  <td>
+	    <input type='text' name='youtubelink'>
+	    <b>(ALPHA)</b>
+	  </td>
+        </tr>
+-->
+	
+
+	<tr><td class="postblock">vimcu jaspu</td><td><input type="password" name="password" size="8" /> to jaspu fo lo nu vimcu lo pinka toi</td></tr>
+	<tr><td colspan="2">
+	<div class="rules"><ul> <li>Supported file types are: GIF, JPG, PNG</li> <li>Maximum file size allowed is 5125 KB.</li> <li>Images greater than 200x200 pixels will be thumbnailed.</li> </ul></div></td></tr>
+	</tbody></table></form></div>
+	<script type="text/javascript">set_inputs("postform")</script>
+
+	<hr />
+
+
+<form id="delform" action="/jbo/wakaba.pl" method="post">
+
+
+	
+		
+			
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1235644166078.png">1235644166078.png</a>
+				-(<em>32000 B, 269x188</em>)</span>
+				<span class="thumbnailmsg"></span>                                
+<small>[<a href="/ideas/paint.pl?oek_parent=904&amp;oek_painter=shi_norm&amp;oek_x=269&amp;oek_y=188&amp;oek_src=/jbo/arch/src/1235644166078.png">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1235644166078.png">
+					<img src="/jbo/arch/thumb/1235644166078s.jpg" width="200" height="139" alt="32000" class="thumb" /></a>
+				
+				
+			
+
+			<a name="904"></a>
+			<label><input type="checkbox" name="delete" value="904" />
+			<span class="filetitle"></span>
+			
+			<span class="postername">lakmir</span>
+			2009-02-26 10:29</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;904')">No.904</a>
+			</span>&nbsp;
+			
+
+			<blockquote>
+			<p>la .lakmir .e la .lis. finti</p><p>lai cizra pampe&#39;o</p><p>lo pixra lisri</p>
+			
+			</blockquote>
+
+			
+		
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply905">
+
+			<a name="905"></a>
+			<label><input type="checkbox" name="delete" value="905" />
+			<span class="replytitle">xa mo&#39;o</span>
+			
+			<span class="commentpostername">lakmir</span>
+			2009-02-26 10:33</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;905')">No.905</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1235644404103.jpg">1235644404103.jpg</a>
+				-(<em>141771 B, 1280x318</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=904&amp;oek_painter=shi_norm&amp;oek_x=1280&amp;oek_y=318&amp;oek_src=/jbo/arch/src/1235644404103.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1235644404103.jpg">
+					<img src="/jbo/arch/thumb/1235644404103s.jpg" width="200" height="49" alt="141771" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply906">
+
+			<a name="906"></a>
+			<label><input type="checkbox" name="delete" value="906" />
+			<span class="replytitle">bi mo&#39;o</span>
+			
+			<span class="commentpostername">lakmir</span>
+			2009-02-26 10:33</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;906')">No.906</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1235644430343.jpg">1235644430343.jpg</a>
+				-(<em>424580 B, 1280x1188</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=904&amp;oek_painter=shi_norm&amp;oek_x=1280&amp;oek_y=1188&amp;oek_src=/jbo/arch/src/1235644430343.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1235644430343.jpg">
+					<img src="/jbo/arch/thumb/1235644430343s.jpg" width="200" height="185" alt="424580" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply907">
+
+			<a name="907"></a>
+			<label><input type="checkbox" name="delete" value="907" />
+			<span class="replytitle"></span>
+			
+			<span class="commentpostername">lakmir</span>
+			2009-02-26 10:37</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;907')">No.907</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>lo ze mo&#39;o lisri na se fanva fi la lojban .u&#39;u</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply908">
+
+			<a name="908"></a>
+			<label><input type="checkbox" name="delete" value="908" />
+			<span class="replytitle"></span>
+			
+			<span class="commentpostername">xysyl</span>
+			2009-02-26 15:16</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;908')">No.908</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>ko rere&#39;u mrilu le me&#39;ixamoi pixra mu&#39;i lo nu ri pu canci</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply910">
+
+			<a name="910"></a>
+			<label><input type="checkbox" name="delete" value="910" />
+			<span class="replytitle"></span>
+			
+			<span class="commentpostername">kiris</span>
+			2009-02-26 21:48</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;910')">No.910</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/jbo/res/904.html#906" onclick="highlight(906)">&gt;&gt;906</a><br />u&#39;i sai i&#39;e</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply917">
+
+			<a name="917"></a>
+			<label><input type="checkbox" name="delete" value="917" />
+			<span class="replytitle"></span>
+			
+			<span class="commentpostername">lakmir</span>
+			2009-03-01 13:33</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;917')">No.917</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>mi mrilu le me&#39;i xa moi pixra .ui</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply943">
+
+			<a name="943"></a>
+			<label><input type="checkbox" name="delete" value="943" />
+			<span class="replytitle">ze mo&#39;o</span>
+			
+			<span class="commentpostername">.lakmir.</span>
+			2009-03-17 10:27</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;943')">No.943</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1237285655278.jpg">1237285655278.jpg</a>
+				-(<em>125565 B, 755x1177</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=904&amp;oek_painter=shi_norm&amp;oek_x=755&amp;oek_y=1177&amp;oek_src=/jbo/arch/src/1237285655278.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1237285655278.jpg">
+					<img src="/jbo/arch/thumb/1237285655278s.jpg" width="128" height="200" alt="125565" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			<p>.i&#39;e<br />.i ti lojbo po&#39;o<br />.i le zemoi glico lisri cu frica</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply947">
+
+			<a name="947"></a>
+			<label><input type="checkbox" name="delete" value="947" />
+			<span class="replytitle"></span>
+			<span class="commentpostername"><a href="mailto:sage">kiris</a></span>
+			
+			2009-03-19 19:16</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;947')">No.947</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/jbo/res/904.html#943" onclick="highlight(943)">&gt;&gt;943</a><br />ua nai ma smuni u&#39;i</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply948">
+
+			<a name="948"></a>
+			<label><input type="checkbox" name="delete" value="948" />
+			<span class="replytitle"></span>
+			
+			<span class="commentpostername">caucme</span>
+			2009-03-19 23:44</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;948')">No.948</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/jbo/res/904.html#943" onclick="highlight(943)">&gt;&gt;943</a> .uanaisaaaai</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply950">
+
+			<a name="950"></a>
+			<label><input type="checkbox" name="delete" value="950" />
+			<span class="replytitle"></span>
+			
+			<span class="commentpostername">.lakmir.</span>
+			2009-03-20 04:20</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;950')">No.950</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>.ue really? I thought {na rorci} was pretty clear. What if it said {no panzi} instead?</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply951">
+
+			<a name="951"></a>
+			<label><input type="checkbox" name="delete" value="951" />
+			<span class="replytitle"></span>
+			
+			<span class="commentpostername">xorxes</span>
+			2009-03-20 14:45</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;951')">No.951</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/jbo/res/904.html#950" onclick="highlight(950)">&gt;&gt;950</a> </p><p>xu do skudji lu .e&#39;i pei na rorci li&#39;u mu&#39;a</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply954">
+
+			<a name="954"></a>
+			<label><input type="checkbox" name="delete" value="954" />
+			<span class="replytitle"></span>
+			
+			<span class="commentpostername">kiris</span>
+			2009-03-21 10:06</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;954')">No.954</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>u&#39;i ua sai mi pu je nai ca krici lo du&#39;u pixra lo penbi ua nai sai</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply955">
+
+			<a name="955"></a>
+			<label><input type="checkbox" name="delete" value="955" />
+			<span class="replytitle"></span>
+			
+			<span class="commentpostername">caucme</span>
+			2009-03-23 13:15</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;955')">No.955</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/jbo/res/904.html#950" onclick="highlight(950)">&gt;&gt;950</a> ko jbota&#39;a</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply956">
+
+			<a name="956"></a>
+			<label><input type="checkbox" name="delete" value="956" />
+			<span class="replytitle"></span>
+			
+			<span class="commentpostername">.lakmir.</span>
+			2009-03-25 02:01</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;956')">No.956</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/jbo/res/904.html#955" onclick="highlight(955)">&gt;&gt;955</a><br />.u&#39;u do drani</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+	<br clear="left" /><hr />
+
+
+<table class="userdelete"><tbody><tr><td>
+<input type="hidden" name="task" value="delete" />
+vimcu le cuxne[<label><input type="checkbox" name="fileonly" value="on" />sisi le datnyvei</label>]<br />
+vimcu jaspu <input type="password" name="password" size="8" />
+<input value="ko vimcu" type="submit" /></td></tr></tbody></table>
+</form>
+<script type="text/javascript">set_delpass("delform")</script>
+
+
+
+<!--<p class="footer"> - <a href="http://wakaba.c3.cx/">wakaba 3.0.7</a> + <a href="http://www.2chan.net/">futaba</a> + <a href="http://www.1chan.net/futallaby/">futallaby</a> -</p>-->
+
+</body></html>

@@ -1,0 +1,176 @@
+#!/usr/bin/env python3.0
+# -*- coding: utf-8 -*-
+
+
+import os
+import re
+import cgi
+import string
+
+
+menu_order = ["Symbols", "Sources"]
+#menu_order = ["Symbols", "Grammars", "Sources"]
+menu_order.reverse() #Yeah. Reversed.
+menu = {
+  "Grammars": 'TODO: List of other formatted grammars go here',
+  "Sources":"""
+<ul>
+  <li><a href="format.py">Formatter</a></li>
+  <li><a href="lojban.bnf">Unformatted EBNF</a></li>
+  <li><a href="http://www.lojban.org/tiki/The+Lojban+Reference+Grammar&amp;fullscreen=y">The Red Book (Original)</a></li>
+  <li><a href="http://dag.github.com/cll/21/2/">Reformatted and Updated Original</a></li>
+</ul>
+Written by <a href="mailto:purpleposeidon@gmail.com">purpleposeidon</a>
+""",
+  "Symbols":"""
+<h2>Meaning</h2>
+<dl>
+  <dt>A B</dt>
+    <dd>concatenation</dd>
+  <dt>grammatical-construct</dt>
+    <dd>invokes another rule</dd>
+  <dt>TERMINAL</dt>
+    <dd>a selma'o</dd>
+  <dt>[ A ]</dt>
+    <dd>optional</dd>
+  <dt>...</dt>
+    <dd>repeat previous construct zero or more</dd>
+  <dt>A | B</dt>
+    <dd>alternation</dd>
+  <dt>A &amp; C</dt>
+    <dd>and/or</dd>
+  <dt>#</dt>
+    <dd>[<a href="#free">free</a> ...]</dd>
+  <dt>/ A /</dt>
+    <dd>contents only required if changes the parse tree</dd>
+</dl>
+<h2>Precedence</h2>
+<ol>
+  <li>...</li>
+  <li>&amp;</li>
+  <li>|</li>
+  <li>concatenation</li>
+</ol>
+""",
+}
+
+
+def htmlify(src, dest):
+  def highlight_words(val):
+    breaks = "[](). \n&/#"
+    sep = '\0'
+    for b in breaks:
+      val = val.replace(b, sep+b+sep)
+    val = val.split(sep)
+    r = ''
+    for v in val:
+      if not v:
+        continue
+      if v in ('CMENE', 'BRIVLA'):
+        v = '<a href="http://vlasisku.lojban.org/{0}">{1}</a>'.format(v.lower(), v)
+      elif v.replace('h', 'H') == v.upper() and set(v).issubset(set(string.ascii_letters)):
+        #Is a selma'o
+        v = '<a href="http://vlasisku.lojban.org/{0}">{0}</a>'.format(v)
+      elif v in list_order:
+        #Is a grammar thingie
+        v = '<a href="#{0}">{0}</a>'.format(v)
+      r += v
+    return r
+  grammar = {}
+  dess = {}
+  list_order = []
+  defs = []
+  key = None
+  header = ''
+  descr = ''
+  for line in open(src):
+    if line[0] == ';':
+      line = line[1:]
+      if line and line[0] == ';':
+        continue #Double ;; == ignore
+      if key == None:
+        if header:
+          descr += line
+        else:
+          header = line
+      else:
+        dess[key] += line
+      continue
+    
+    if line[0] == ' ':
+      if ';' in line:
+        line, com = line.split(';', 1)
+        if com and com[0] != ';':
+          dess[key] += cgi.escape(com)
+      line = cgi.escape(line)
+      defs[-1] += line
+      grammar[key] += line
+    elif '=' in line:
+      line = cgi.escape(line)
+      defs.append(line)
+      key, des = line.split('=')
+      key = key.strip()
+      des = des.strip()
+      if des and des[0] == ';':
+        des = des[1:]
+      grammar[key] = ''
+      dess[key] = des
+      list_order.append(key)
+
+  len_order = list(list_order)
+  len_order.sort(key=lambda i: -len(i))
+  out = open(dest, 'w')
+  out.write("""<html>
+  <head><title>Lojban EBNF</title></head>
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <body>""")
+  if header:
+    out.write("<h1>%s</h1>"%header)
+  if descr:
+    out.write("<p>%s</p>"%descr)
+  if menu:
+    out.write("""<div class="menu-bar">\n""")
+    for name in menu_order:
+      out.write("""  <span class="menu">
+    {0}
+      <div class="menu-item">
+        {1}
+      </div>
+    </span>""".format(name, menu[name]))
+    out.write("""</div>\n""")
+
+  for key in list_order:
+    val = grammar[key]
+    pairs = [("[", "]"), ('(', ')')]
+    val = highlight_words(val)
+
+    for A, B in pairs:
+      #val = val.replace()
+      val = val.replace(A, '<span class="paren">'+A)
+      val = val.replace(B, B+'</span>')
+    val = val.replace('  ', '')
+    if dess[key]:
+      desc = '<div class="description">{0}</div>'.format(dess[key])
+    else:
+      desc = ''
+    out.write("""
+    <div class="rule">
+      {2}
+      <a name="{0}">{0}</a> =
+      <div class="value">{1}</div>
+    </div>
+    """.format(key, val, desc))
+
+  out.write("""</body>
+  </html>
+  """)
+
+if "REQUEST_URI" in os.environ:
+  print("Content-type: text/x-python")
+  print("Content-disposition: attatchment; filename=format.py")
+  print()
+  print(open("format.py").read())
+for args in [("lojban.bnf", "index.html"), ("wiki.bnf", "djeims.html")]:
+  #import sys
+  #print(args, file=sys.stderr)
+  htmlify(*args)

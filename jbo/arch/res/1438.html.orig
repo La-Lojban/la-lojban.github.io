@@ -1,0 +1,1313 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<link rel="alternate" type="application/rss" title="RSS 2.0" href="/jbo/res/feed.rss" />
+<link rel="alternate" type="text/xml" title="RSS 2.0" href="/jbo/res/feed.rss" />
+<title>/jbo/ - jbotcan</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="shortcut icon" href="/jbo/lojban.ico" />
+
+<style type="text/css">
+body { margin: 0; padding: 8px; margin-bottom: auto; }
+blockquote blockquote { margin-left: 0em }
+form { margin-bottom: 0px }
+form .trap { display:none }
+.postarea { text-align: center }
+.postarea table { margin: 0px auto; text-align: left }
+.thumb { border: none; float: left; margin: 2px 20px }
+.nothumb { float: left; background: #eee; border: 2px dashed #aaa; text-align: center; margin: 2px 20px; padding: 1em 0.5em 1em 0.5em; }
+.reply blockquote, blockquote :last-child { margin-bottom: 0em }
+.reflink a { color: inherit; text-decoration: none }
+.reply .filesize { margin-left: 20px }
+.userdelete { float: right; text-align: center; white-space: nowrap }
+.replypage .replylink { display: none }
+</style>
+
+
+<link rel="stylesheet" type="text/css" href="css/lojban.css" title="Lojban" />
+
+<link rel="alternate stylesheet" type="text/css" href="css/monospace.css" title="Monospace" />
+
+<link rel="alternate stylesheet" type="text/css" href="css/srilermorna.css" title="Srilermorna" />
+
+
+<script type="text/javascript">var style_cookie="wakabastyle";</script>
+<script type="text/javascript" src="/jbo/wakaba3.js"></script>
+</head>
+<body class="replypage">
+
+
+
+
+<div class="adminbar">
+    <div style='float:left;'><small>Looking for <a href='/en'>the English board?</a> </small></div> &nbsp;
+
+[<a href="/" target="_top">zdani</a>]
+[<a href="/jbo/wakaba.pl?task=admin">jitro</a>]
+</div>
+
+<div class="logo">
+<img src="/jbo/lojban.jpg" alt="/jbo/ - jbotcan" />
+
+<br />
+/jbo/ - jbotcan
+</div><hr />
+
+
+<p style="text-align: center"> zoi .ligal.<span style="font-size: .3em;">Posts and uploaded files are owned by the poster. jbotcan.org is not
+ liable for the content submitted by the poster.
+Downloading any poster-submitted files is doing so at your own risk. </span>.ligal.</p>
+
+<hr />
+
+
+
+
+
+	[<a href="/jbo/wakaba.html">xruti</a>]
+	<div class="theader">spuda mrilu</div>
+
+
+<hr />
+<div align="center">
+<form action="/jbo/paint.pl" method="get">
+<input type="hidden" name="oek_parent" value="1438" />
+
+pixra tutci 
+<select name="oek_painter">
+
+
+	
+	<option value="shi_norm" selected="selected">lo cnano</option>
+	
+	
+
+	
+	
+	<option value="shi_pro">lo</option>
+	
+
+	
+	
+	<option value="shi_norm_selfy">Shi Normal+Selfy</option>
+	
+
+	
+	
+	<option value="shi_pro_selfy">Shi Pro+Selfy</option>
+	
+
+</select>
+
+kramu li <input type="text" name="oek_x" size="3" value="300" />
+pi'i <input type="text" name="oek_y" size="3" value="300" />
+
+
+	se galfi 
+	<select name="oek_src">
+	<option value="">lo cnino</option>
+
+	
+		
+			
+				<option value="src/1302392606696.jpg">1438 moi</option>
+			
+		
+			
+				<option value="src/1302392626517.jpg">1439 moi</option>
+			
+		
+			
+				<option value="src/1302392638090.jpg">1440 moi</option>
+			
+		
+			
+				<option value="src/1302392651877.jpg">1441 moi</option>
+			
+		
+			
+				<option value="src/1302557635091.jpg">1442 moi</option>
+			
+		
+			
+				<option value="src/1302558859920.png">1443 moi</option>
+			
+		
+			
+				<option value="src/1302558993995.png">1444 moi</option>
+			
+		
+			
+				<option value="src/1302559670544.jpg">1445 moi</option>
+			
+		
+			
+				<option value="src/1302632874293.jpg">1446 moi</option>
+			
+		
+			
+				<option value="src/1302715979867.jpg">1447 moi</option>
+			
+		
+			
+		
+			
+		
+			
+				<option value="src/1302811730797.jpg">1450 moi</option>
+			
+		
+			
+				<option value="src/1302914668042.jpg">1453 moi</option>
+			
+		
+			
+				<option value="src/1303063925011.jpg">1454 moi</option>
+			
+		
+			
+				<option value="src/1303906662473.jpg">1455 moi</option>
+			
+		
+			
+				<option value="src/1312251165065.jpg">1461 moi</option>
+			
+		
+			
+				<option value="src/1313449493621.gif">1471 moi</option>
+			
+		
+			
+				<option value="src/1313454284632.jpg">1472 moi</option>
+			
+		
+			
+				<option value="src/1313456652373.jpg">1473 moi</option>
+			
+		
+			
+				<option value="src/1313458465693.jpg">1474 moi</option>
+			
+		
+			
+				<option value="src/1313460937542.jpg">1475 moi</option>
+			
+		
+			
+				<option value="src/1313504309575.jpg">1476 moi</option>
+			
+		
+			
+				<option value="src/1313506076727.jpg">1477 moi</option>
+			
+		
+			
+				<option value="src/1324232340732.jpg">1500 moi</option>
+			
+		
+			
+				<option value="src/1324262233463.jpg">1502 moi</option>
+			
+		
+			
+				<option value="src/1324377099537.jpg">1503 moi</option>
+			
+		
+	
+	</select>
+
+
+<input type="submit" value="pixra finti" />
+</form>
+</div><hr />
+
+
+	<div class="postarea">
+	<form id="postform" action="/jbo/wakaba.pl" method="post" enctype="multipart/form-data">
+
+	<input type="hidden" name="task" value="post" />
+	<input type="hidden" name="parent" value="1438" />
+	
+	
+	<div class="trap"><input type="text" name="name" size="28" autocomplete="off" /><input type="text" name="link" size="28" autocomplete="off" /></div>
+
+	<table><tbody>
+	<tr><td class="postblock">do se cmene</td><td><input type="text" name="field1" size="28" /></td></tr>
+	<tr><td class="postblock">samymri judri</td><td><input type="text" name="field2" size="28" /></td></tr>
+	<tr><td class="postblock">lo pinka se cmene</td><td><input type="text" name="field3" size="35" /> (encouraged)
+	<input type="submit" value="mrilu" /></td></tr>
+	<tr><td class="postblock">pinka</td><td><textarea name="field4" cols="48" rows="4"></textarea></td></tr>
+
+	
+		<tr><td class="postblock">datnyvei</td><td><input type="file" name="file" size="35" />
+		
+		</td></tr>
+	
+<!--
+        <tr>
+	  <td>
+	    <strong>YouTube video</strong>
+	  </td>
+	  <td>
+	    <input type='text' name='youtubelink'>
+	    <b>(ALPHA)</b>
+	  </td>
+        </tr>
+-->
+	
+
+	<tr><td class="postblock">vimcu jaspu</td><td><input type="password" name="password" size="8" /> to jaspu fo lo nu vimcu lo pinka toi</td></tr>
+	<tr><td colspan="2">
+	<div class="rules"><ul> <li>Supported file types are: GIF, JPG, PNG</li> <li>Maximum file size allowed is 5125 KB.</li> <li>Images greater than 200x200 pixels will be thumbnailed.</li> </ul></div></td></tr>
+	</tbody></table></form></div>
+	<script type="text/javascript">set_inputs("postform")</script>
+
+	<hr />
+
+
+<form id="delform" action="/jbo/wakaba.pl" method="post">
+
+
+	
+		
+			
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1302392606696.jpg">1302392606696.jpg</a>
+				-(<em>675323 B, 1765x2700</em>)</span>
+				<span class="thumbnailmsg"></span>                                
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=1765&amp;oek_y=2700&amp;oek_src=/jbo/arch/src/1302392606696.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1302392606696.jpg">
+					<img src="/jbo/arch/thumb/1302392606696s.jpg" width="130" height="200" alt="675323" class="thumb" /></a>
+				
+				
+			
+
+			<a name="1438"></a>
+			<label><input type="checkbox" name="delete" value="1438" />
+			<span class="filetitle">la .lukys.</span>
+			
+			<span class="postername">cmecau</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li '+nahufanva(1438))">li pavocibi</a>
+			</span>&nbsp;
+			
+
+			<blockquote>
+			<p>zo&#39;o</p>
+			
+			</blockquote>
+
+			
+		
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1439">
+
+			<a name="1439"></a>
+			<label><input type="checkbox" name="delete" value="1439" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">cmecau</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1439))">li pavociso</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1302392626517.jpg">1302392626517.jpg</a>
+				-(<em>431170 B, 2575x3325</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=2575&amp;oek_y=3325&amp;oek_src=/jbo/arch/src/1302392626517.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1302392626517.jpg">
+					<img src="/jbo/arch/thumb/1302392626517s.jpg" width="154" height="200" alt="431170" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1440">
+
+			<a name="1440"></a>
+			<label><input type="checkbox" name="delete" value="1440" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">cmecau</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1440))">li pavovono</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1302392638090.jpg">1302392638090.jpg</a>
+				-(<em>93496 B, 488x336</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=488&amp;oek_y=336&amp;oek_src=/jbo/arch/src/1302392638090.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1302392638090.jpg">
+					<img src="/jbo/arch/thumb/1302392638090s.jpg" width="200" height="137" alt="93496" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1441">
+
+			<a name="1441"></a>
+			<label><input type="checkbox" name="delete" value="1441" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">cmecau</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1441))">li pavovopa</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1302392651877.jpg">1302392651877.jpg</a>
+				-(<em>209129 B, 563x651</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=563&amp;oek_y=651&amp;oek_src=/jbo/arch/src/1302392651877.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1302392651877.jpg">
+					<img src="/jbo/arch/thumb/1302392651877s.jpg" width="172" height="200" alt="209129" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1442">
+
+			<a name="1442"></a>
+			<label><input type="checkbox" name="delete" value="1442" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">la pendon</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1442))">li pavovore</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1302557635091.jpg">1302557635091.jpg</a>
+				-(<em>91069 B, 500x371</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=500&amp;oek_y=371&amp;oek_src=/jbo/arch/src/1302557635091.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1302557635091.jpg">
+					<img src="/jbo/arch/thumb/1302557635091s.jpg" width="200" height="148" alt="91069" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1443">
+
+			<a name="1443"></a>
+			<label><input type="checkbox" name="delete" value="1443" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">la pendon</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1443))">li pavovoci</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1302558859920.png">1302558859920.png</a>
+				-(<em>149845 B, 421x341</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=421&amp;oek_y=341&amp;oek_src=/jbo/arch/src/1302558859920.png">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1302558859920.png">
+					<img src="/jbo/arch/thumb/1302558859920s.jpg" width="200" height="161" alt="149845" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1444">
+
+			<a name="1444"></a>
+			<label><input type="checkbox" name="delete" value="1444" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">la pendon</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1444))">li pavovovo</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1302558993995.png">1302558993995.png</a>
+				-(<em>142740 B, 374x295</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=374&amp;oek_y=295&amp;oek_src=/jbo/arch/src/1302558993995.png">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1302558993995.png">
+					<img src="/jbo/arch/thumb/1302558993995s.jpg" width="200" height="157" alt="142740" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1445">
+
+			<a name="1445"></a>
+			<label><input type="checkbox" name="delete" value="1445" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">la pendon</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1445))">li pavovomu</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1302559670544.jpg">1302559670544.jpg</a>
+				-(<em>186049 B, 640x480</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=640&amp;oek_y=480&amp;oek_src=/jbo/arch/src/1302559670544.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1302559670544.jpg">
+					<img src="/jbo/arch/thumb/1302559670544s.jpg" width="200" height="150" alt="186049" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1446">
+
+			<a name="1446"></a>
+			<label><input type="checkbox" name="delete" value="1446" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">la pendon</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1446))">li pavovoxa</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1302632874293.jpg">1302632874293.jpg</a>
+				-(<em>46007 B, 750x600</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=750&amp;oek_y=600&amp;oek_src=/jbo/arch/src/1302632874293.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1302632874293.jpg">
+					<img src="/jbo/arch/thumb/1302632874293s.jpg" width="200" height="160" alt="46007" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1447">
+
+			<a name="1447"></a>
+			<label><input type="checkbox" name="delete" value="1447" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">cmecau</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1447))">li pavovoze</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1302715979867.jpg">1302715979867.jpg</a>
+				-(<em>745752 B, 2748x1613</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=2748&amp;oek_y=1613&amp;oek_src=/jbo/arch/src/1302715979867.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1302715979867.jpg">
+					<img src="/jbo/arch/thumb/1302715979867s.jpg" width="200" height="117" alt="745752" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			<p>.u&#39;i</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1448">
+
+			<a name="1448"></a>
+			<label><input type="checkbox" name="delete" value="1448" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">la .cribe.</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1448))">li pavovobi</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>.uanai ma krinu lo nu lo nu jimpe lo lojbo cu stidi lo du&#39;u ke&#39;a malmencre<br />.i ki&#39;a malmencre .i mi djuno fi lo rafsi .iku&#39;i mi na djuno fi lo lujvo</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1449">
+
+			<a name="1449"></a>
+			<label><input type="checkbox" name="delete" value="1449" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">cmecau</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1449))">li pavovoso</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/jbo/res/1438.html#1448" onclick="highlight(1448)">doi li pavovobi</a><br />zo .malmencre. cu selsmuni la&#39;o .gy. nerd .gy. .i<br />lo malmencre cu du lo mencre prenu poi na jikca so&#39;i prenu vau .uapei .i<br />la&#39;a .ei mi pilno zo malmencrepre .onai zo mencrepre .i zo mencrepre cu xlame&#39;a la&#39;a</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1450">
+
+			<a name="1450"></a>
+			<label><input type="checkbox" name="delete" value="1450" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">cmecau</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1450))">li pavomuno</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1302811730797.jpg">1302811730797.jpg</a>
+				-(<em>762912 B, 2748x1613</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=2748&amp;oek_y=1613&amp;oek_src=/jbo/arch/src/1302811730797.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1302811730797.jpg">
+					<img src="/jbo/arch/thumb/1302811730797s.jpg" width="200" height="117" alt="762912" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1453">
+
+			<a name="1453"></a>
+			<label><input type="checkbox" name="delete" value="1453" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">cmecau</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1453))">li pavomuci</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1302914668042.jpg">1302914668042.jpg</a>
+				-(<em>67225 B, 500x333</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=500&amp;oek_y=333&amp;oek_src=/jbo/arch/src/1302914668042.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1302914668042.jpg">
+					<img src="/jbo/arch/thumb/1302914668042s.jpg" width="200" height="133" alt="67225" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1454">
+
+			<a name="1454"></a>
+			<label><input type="checkbox" name="delete" value="1454" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">cmecau</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1454))">li pavomuvo</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1303063925011.jpg">1303063925011.jpg</a>
+				-(<em>202494 B, 652x423</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=652&amp;oek_y=423&amp;oek_src=/jbo/arch/src/1303063925011.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1303063925011.jpg">
+					<img src="/jbo/arch/thumb/1303063925011s.jpg" width="200" height="129" alt="202494" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1455">
+
+			<a name="1455"></a>
+			<label><input type="checkbox" name="delete" value="1455" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">la .lukys.</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1455))">li pavomumu</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1303906662473.jpg">1303906662473.jpg</a>
+				-(<em>48983 B, 400x599</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=400&amp;oek_y=599&amp;oek_src=/jbo/arch/src/1303906662473.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1303906662473.jpg">
+					<img src="/jbo/arch/thumb/1303906662473s.jpg" width="133" height="200" alt="48983" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1461">
+
+			<a name="1461"></a>
+			<label><input type="checkbox" name="delete" value="1461" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">cmecau</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1461))">li pavoxapa</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1312251165065.jpg">1312251165065.jpg</a>
+				-(<em>90995 B, 299x475</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=299&amp;oek_y=475&amp;oek_src=/jbo/arch/src/1312251165065.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1312251165065.jpg">
+					<img src="/jbo/arch/thumb/1312251165065s.jpg" width="125" height="200" alt="90995" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1471">
+
+			<a name="1471"></a>
+			<label><input type="checkbox" name="delete" value="1471" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">cmecau</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1471))">li pavozepa</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1313449493621.gif">1313449493621.gif</a>
+				-(<em>17280 B, 700x212</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=700&amp;oek_y=212&amp;oek_src=/jbo/arch/src/1313449493621.gif">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1313449493621.gif">
+					<img src="/jbo/arch/thumb/1313449493621s.jpg" width="200" height="60" alt="17280" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1472">
+
+			<a name="1472"></a>
+			<label><input type="checkbox" name="delete" value="1472" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">lukys</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1472))">li pavozere</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1313454284632.jpg">1313454284632.jpg</a>
+				-(<em>51786 B, 685x384</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=685&amp;oek_y=384&amp;oek_src=/jbo/arch/src/1313454284632.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1313454284632.jpg">
+					<img src="/jbo/arch/thumb/1313454284632s.jpg" width="200" height="112" alt="51786" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1473">
+
+			<a name="1473"></a>
+			<label><input type="checkbox" name="delete" value="1473" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">lukys</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1473))">li pavozeci</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1313456652373.jpg">1313456652373.jpg</a>
+				-(<em>100321 B, 640x798</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=640&amp;oek_y=798&amp;oek_src=/jbo/arch/src/1313456652373.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1313456652373.jpg">
+					<img src="/jbo/arch/thumb/1313456652373s.jpg" width="160" height="200" alt="100321" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1474">
+
+			<a name="1474"></a>
+			<label><input type="checkbox" name="delete" value="1474" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">lukys</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1474))">li pavozevo</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1313458465693.jpg">1313458465693.jpg</a>
+				-(<em>40053 B, 401x336</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=401&amp;oek_y=336&amp;oek_src=/jbo/arch/src/1313458465693.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1313458465693.jpg">
+					<img src="/jbo/arch/thumb/1313458465693s.jpg" width="200" height="167" alt="40053" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1475">
+
+			<a name="1475"></a>
+			<label><input type="checkbox" name="delete" value="1475" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">lukys</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1475))">li pavozemu</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1313460937542.jpg">1313460937542.jpg</a>
+				-(<em>58083 B, 740x534</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=740&amp;oek_y=534&amp;oek_src=/jbo/arch/src/1313460937542.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1313460937542.jpg">
+					<img src="/jbo/arch/thumb/1313460937542s.jpg" width="200" height="144" alt="58083" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1476">
+
+			<a name="1476"></a>
+			<label><input type="checkbox" name="delete" value="1476" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">lukys</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1476))">li pavozexa</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1313504309575.jpg">1313504309575.jpg</a>
+				-(<em>27530 B, 574x207</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=574&amp;oek_y=207&amp;oek_src=/jbo/arch/src/1313504309575.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1313504309575.jpg">
+					<img src="/jbo/arch/thumb/1313504309575s.jpg" width="200" height="72" alt="27530" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1477">
+
+			<a name="1477"></a>
+			<label><input type="checkbox" name="delete" value="1477" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">lukys</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1477))">li pavozeze</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1313506076727.jpg">1313506076727.jpg</a>
+				-(<em>21053 B, 289x344</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=289&amp;oek_y=344&amp;oek_src=/jbo/arch/src/1313506076727.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1313506076727.jpg">
+					<img src="/jbo/arch/thumb/1313506076727s.jpg" width="168" height="200" alt="21053" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1500">
+
+			<a name="1500"></a>
+			<label><input type="checkbox" name="delete" value="1500" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">lukys</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1500))">li pamunono</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1324232340732.jpg">1324232340732.jpg</a>
+				-(<em>31255 B, 460x288</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=460&amp;oek_y=288&amp;oek_src=/jbo/arch/src/1324232340732.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1324232340732.jpg">
+					<img src="/jbo/arch/thumb/1324232340732s.jpg" width="200" height="125" alt="31255" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			<p>.i zoi .url. <a href="http://en.wikipedia.org/wiki/The_Sky_at_Night" rel="nofollow">http://en.wikipedia.org/wiki/The_Sky_at_Night</a> .url.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1502">
+
+			<a name="1502"></a>
+			<label><input type="checkbox" name="delete" value="1502" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">lukys</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1502))">li pamunore</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1324262233463.jpg">1324262233463.jpg</a>
+				-(<em>28423 B, 640x271</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=640&amp;oek_y=271&amp;oek_src=/jbo/arch/src/1324262233463.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1324262233463.jpg">
+					<img src="/jbo/arch/thumb/1324262233463s.jpg" width="200" height="84" alt="28423" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1503">
+
+			<a name="1503"></a>
+			<label><input type="checkbox" name="delete" value="1503" />
+			<span class="replytitle">RE: la .lukys.</span>
+			
+			<span class="commentpostername">lukys</span>
+			</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('doi li' +nahufanva(1503))">li pamunoci</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">datnyvei fa la'e zo'oi <a target="_top" href="/jbo/arch/src/1324377099537.jpg">1324377099537.jpg</a>
+				-(<em>48327 B, 740x270</em>)</span>
+				<span class="thumbnailmsg"></span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1438&amp;oek_painter=shi_norm&amp;oek_x=740&amp;oek_y=270&amp;oek_src=/jbo/arch/src/1324377099537.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/jbo/arch/src/1324377099537.jpg">
+					<img src="/jbo/arch/thumb/1324377099537s.jpg" width="200" height="72" alt="48327" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+	<br clear="left" /><hr />
+
+
+<table class="userdelete"><tbody><tr><td>
+<input type="hidden" name="task" value="delete" />
+vimcu le cuxne[<label><input type="checkbox" name="fileonly" value="on" />sisi le datnyvei</label>]<br />
+vimcu jaspu <input type="password" name="password" size="8" />
+<input value="ko vimcu" type="submit" /></td></tr></tbody></table>
+</form>
+<script type="text/javascript">set_delpass("delform")</script>
+
+
+
+<!--<p class="footer"> - <a href="http://wakaba.c3.cx/">wakaba 3.0.7</a> + <a href="http://www.2chan.net/">futaba</a> + <a href="http://www.1chan.net/futallaby/">futallaby</a> -</p>-->
+
+</body></html>
