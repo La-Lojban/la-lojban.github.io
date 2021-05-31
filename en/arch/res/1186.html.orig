@@ -1,0 +1,318 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<link rel="alternate" type="application/rss" title="RSS 2.0" href="/ideas/res/feed.rss" />
+<link rel="alternate" type="text/xml" title="RSS 2.0" href="/ideas/res/feed.rss" />
+<title>/en/ - English</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="shortcut icon" href="/en/lojban.ico" />
+
+<style type="text/css">
+body { margin: 0; padding: 8px; margin-bottom: auto; }
+blockquote blockquote { margin-left: 0em }
+form { margin-bottom: 0px }
+form .trap { display:none }
+.postarea { text-align: center }
+.postarea table { margin: 0px auto; text-align: left }
+.thumb { border: none; float: left; margin: 2px 20px }
+.nothumb { float: left; background: #eee; border: 2px dashed #aaa; text-align: center; margin: 2px 20px; padding: 1em 0.5em 1em 0.5em; }
+.reply blockquote, blockquote :last-child { margin-bottom: 0em }
+.reflink a { color: inherit; text-decoration: none }
+.reply .filesize { margin-left: 20px }
+.userdelete { float: right; text-align: center; white-space: nowrap }
+.replypage .replylink { display: none }
+</style>
+
+
+<link rel="stylesheet" type="text/css" href="/en/css/english.css" title="English" />
+
+
+<script type="text/javascript">var style_cookie="wakabastyle";</script>
+<script type="text/javascript" src="/en/wakaba3.js"></script>
+</head>
+<body class="replypage">
+
+
+
+
+<div class="adminbar">
+    <div style='float:left;'><small>xu do sisku <a href='/jbo/'>lo lojbo tcana</a></small></div> &nbsp;
+[<a href="/en/../" target="_top">Home</a>]
+[<a href="/en/wakaba.pl?task=admin">Manage</a>]
+</div>
+
+<div class="logo">
+
+
+
+/en/ - English
+</div><hr />
+
+
+<p>Posts and uploaded files are owned by the poster. jbotcan.org is not
+ liable for the content submitted by the poster.
+Downloading any poster-submitted files is doing so at your own risk.</p>
+
+<hr />
+
+
+
+
+
+	[<a href="/en/imageboard.html">Return</a>]
+	<div class="theader">Posting mode: Reply</div>
+
+
+<hr />
+<div align="center">
+<form action="/en/paint.pl" method="get">
+<input type="hidden" name="oek_parent" value="1186" />
+
+Painter: 
+<select name="oek_painter">
+
+
+	
+	<option value="shi_norm" selected="selected">Shi Normal</option>
+	
+	
+
+	
+	
+	<option value="shi_pro">Shi Pro</option>
+	
+
+	
+	
+	<option value="shi_norm_selfy">Shi Normal+Selfy</option>
+	
+
+	
+	
+	<option value="shi_pro_selfy">Shi Pro+Selfy</option>
+	
+
+</select>
+
+Width: <input type="text" name="oek_x" size="3" value="300" />
+Height: <input type="text" name="oek_y" size="3" value="300" />
+
+
+	Source: 
+	<select name="oek_src">
+	<option value="">New image</option>
+
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	
+	</select>
+
+
+<input type="submit" value="Paint!" />
+</form>
+</div><hr />
+
+
+	<div class="postarea">
+	<form id="postform" action="/en/wakaba.pl" method="post" enctype="multipart/form-data">
+
+	<input type="hidden" name="task" value="post" />
+	<input type="hidden" name="parent" value="1186" />
+	
+	
+	<div class="trap">Leave these fields empty (spam trap): <input type="text" name="name" size="28" autocomplete="off" /><input type="text" name="link" size="28" autocomplete="off" /></div>
+
+	<table><tbody>
+	<tr><td class="postblock">Name</td><td><input type="text" name="field1" size="28" /></td></tr>
+	<tr><td class="postblock">Link</td><td><input type="text" name="field2" size="28" /></td></tr>
+	<tr><td class="postblock">Subject</td><td><input type="text" name="field3" size="35" /> (encouraged)
+	<input type="submit" value="Submit" /></td></tr>
+	<tr><td class="postblock">Comment</td><td><textarea name="field4" cols="48" rows="4"></textarea></td></tr>
+
+	
+		<tr><td class="postblock">File</td><td><input type="file" name="file" size="35" />
+		
+		</td></tr>
+	
+<!--
+        <tr>
+	  <td>
+	    <strong>YouTube video</strong>
+	  </td>
+	  <td>
+	    <input type='text' name='youtubelink'>
+	    <b>(ALPHA)</b>
+	  </td>
+        </tr>
+-->
+	
+
+	<tr><td class="postblock">Password</td><td><input type="password" name="password" size="8" /> (for post and file deletion)</td></tr>
+	<tr><td colspan="2">
+	<div class="rules"><ul> <li>Supported file types are: GIF, JPG, PNG</li> <li>Maximum file size allowed is 1000 KB.</li> <li>Images greater than 200x200 pixels will be thumbnailed.</li> </ul></div></td></tr>
+	</tbody></table></form></div>
+	<script type="text/javascript">set_inputs("postform")</script>
+
+	<hr />
+
+
+<form id="delform" action="/en/wakaba.pl" method="post">
+
+
+	
+		
+			
+
+			<a name="1186"></a>
+			<label><input type="checkbox" name="delete" value="1186" />
+			<span class="filetitle">dinosaur</span>
+			
+			<span class="postername">Anonymous</span>
+			09/03/18(Wed)11:45</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1186')">No.1186</a>
+			</span>&nbsp;
+			
+
+			<blockquote>
+			<p>I&#39;m looking for a selbri for &quot;dinosaur&quot;. But there doesn&#39;t seem to be one. So I have thought up some fu&#39;ivla myself: &quot;diznosaria&quot;&#44; &quot;dzinosauri&quot;. I suppose these are valid according to:<br /><a href="http://www.lojban.com/tiki/tiki-index.php?page=nice+fu%27ivla+forms&amp;bl=y" rel="nofollow">http://www.lojban.com/tiki/tiki-index.php?page=nice+fu%27ivla+forms&amp;bl=y</a><br />I wasn&#39;t too sure about 11-letter fu&#39;ivla. Is &quot;dzinosauria&quot; also valid?</p>
+			
+			</blockquote>
+
+			
+		
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1190">
+
+			<a name="1190"></a>
+			<label><input type="checkbox" name="delete" value="1190" />
+			<span class="replytitle">RE: dinosaur</span>
+			
+			<span class="commentpostername">Hussell</span>
+			09/03/18(Wed)16:36</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1190')">No.1190</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>There&#39;s no gismu for &quot;dinosaur&quot;&#44; but it shouldn&#39;t be a problem to create a lujvo meaning &quot;dinosaur&quot;. (I suggest &quot;cpirespa&quot;&#44; &quot;bird-reptile&quot;). You also went right to a type-4 fu&#39;ivla&#44; skipping &quot;la&#39;o xy dinosauria xy&quot;&#44; &quot;la dainosaur&quot;&#44; and &quot;resprdaino&quot;. I wish people wouldn&#39;t do that. (The type-3 should technically be &quot;resprdainosauri&#44;a&quot;&#44; but that&#39;s getting ridiculously long. My advice is to go with &quot;cpirespa&quot;&#44; or &quot;la dainosaur&quot; if you insist on using a fu&#39;ivla.)</p><p>Oh&#44; and I think all those fu&#39;ivla are valid&#44; but get a second opinion to be sure.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1193">
+
+			<a name="1193"></a>
+			<label><input type="checkbox" name="delete" value="1193" />
+			<span class="replytitle">RE: dinosaur</span>
+			
+			<span class="commentpostername">tijlan</span>
+			09/03/18(Wed)19:21</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1193')">No.1193</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1186.html#1190" onclick="highlight(1190)">&gt;&gt;1190</a></p><p>I think &quot;dino&quot; is a better Lojbanization than &quot;daino&quot;&#44; the diphthong of which is peculiar to English.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1197">
+
+			<a name="1197"></a>
+			<label><input type="checkbox" name="delete" value="1197" />
+			<span class="replytitle">RE: dinosaur</span>
+			
+			<span class="commentpostername">Hussell</span>
+			09/03/19(Thu)19:51</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1197')">No.1197</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1186.html#1193" onclick="highlight(1193)">&gt;&gt;1193</a></p><p>One of the reasons to use lujvo such as &quot;cpirespa&quot; is that even supposedly &quot;international&quot; words like the scientific names for living things get pronounced differently by different populations&#44; so when they&#39;re converted to fu&#39;ivla&#44; there&#39;s a chance they&#39;ll become unrecognizable&#44; even ignoring the fact that some people won&#39;t know the original word at all. Type-3 fu&#39;ivla at least provide some information about the fu&#39;ivla (since one can reasonably expect the reader/listener to know Lojban rafsi)&#44; but a nice lujvo can be both more descriptive and shorter&#44; and doesn&#39;t rely on listeners being able to divine the word from which a fu&#39;ivla was derived.</p><p>So&#44; yeah&#44; I Lojbanize &quot;dinosaur&quot; to &quot;dainosaur&quot; (or possibly &quot;dainosor&quot;)&#44; because that&#39;s how I&#39;m used to hearing it pronounced. That&#39;s no worse than inserting a &#39;z&#39; into the fu&#39;ivla. (And no better. Use &quot;cpirespa&quot;! Or a better lujvo&#44; if you can come up with one!)</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1199">
+
+			<a name="1199"></a>
+			<label><input type="checkbox" name="delete" value="1199" />
+			<span class="replytitle">RE: dinosaur</span>
+			
+			<span class="commentpostername">Anonymous</span>
+			09/03/19(Thu)20:07</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1199')">No.1199</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1186.html#1197" onclick="highlight(1197)">&gt;&gt;1197</a> </p><p>Of course&#44; if they can understand the type-3 fu&#39;ivla and its rafsi&#44; then they can read the lujvo!</p><p>Take this argument as you will&#44; it merely is a neutral point.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+	<br clear="left" /><hr />
+
+
+<table class="userdelete"><tbody><tr><td>
+<input type="hidden" name="task" value="delete" />
+Delete Post [<label><input type="checkbox" name="fileonly" value="on" />File Only</label>]<br />
+Password <input type="password" name="password" size="8" />
+<input value="Delete" type="submit" /></td></tr></tbody></table>
+</form>
+<script type="text/javascript">set_delpass("delform")</script>
+
+
+
+<!--<p class="footer"> - <a href="http://wakaba.c3.cx/">wakaba 3.0.7</a> + <a href="http://www.2chan.net/">futaba</a> + <a href="http://www.1chan.net/futallaby/">futallaby</a> -</p>-->
+
+</body></html>

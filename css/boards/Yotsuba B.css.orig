@@ -1,0 +1,178 @@
+body {
+    background: #EEF2FF url(../../img/fade-blue.png) top center repeat-x;
+    color: black;
+}
+a, a:visited { color: #34345C }
+a.postlink { color: #DD0000 !important }
+a:hover { color: #DD0000 !important }
+.postInput { border: 1px solid #aaa }
+.postInput:focus, #recaptcha_response_field:focus { border: 1px solid #98E }
+.recaptchatable { border: none!important }
+.banner { border: 1px solid #34345C }
+.reply {
+    border: 1px solid #B7C5D9;
+    border-left: none;
+    border-top: none;
+    background: #D6DAF0;
+    color: #000;
+}
+.topNavContainer {
+    background: #D6DAF0;
+    border-bottom: 1px solid #B7C5D9;
+    color: black;
+}
+.logo { color: #AF0A0F }
+.adminLogo { margin-top: 40px }
+.pageNumber {
+    background: #D6DAF0;
+    border-bottom: 1px solid #B7C5D9;
+    border-right: 1px solid #B7C5D9;
+    color: #89A;
+}
+.theader {
+    background: #E04000;
+    color: #FFF;
+	font-size:larger;
+	font-weight:bold;
+}
+hr { border-top: 1px solid #B7C5D9 }
+.postBlock {
+    background: #98E;
+    border: 1px solid #000;
+    color: #000;
+}
+.footer { color: black }
+.passvalid {
+    background: #E04000;
+    color: #fff;
+}
+.managehead {
+    background: #AA6;
+    color: #400000;
+    padding: 0;
+}
+.postlists {
+    background: #FFF;
+    color: maroon;
+    padding: 0;
+    width: 100%;
+}
+.row1 {
+    background: #EEC;
+    color: maroon;
+}
+.row2 {
+    background: #DDA;
+    color: maroon;
+}
+.unkfunc {
+    color: #789922;
+    margin: 0;
+    padding: 0;
+}
+.filetitle, .replytitle, .oldpost {
+    color: #0F0C5D;
+    font-weight: bold;
+}
+.oldpost {
+    color: #CC1105;
+    font-weight: bold;
+}
+.doubledash { color: #B7C5D9 }
+.thumbnailmsg { color: maroon }
+.highlight {
+    background: #D6BAD0 !important;
+    border-bottom: 1px solid #BA9DBF !important;
+    color: #000;
+}
+.omittedposts, .abbrev {
+    color: #707070;
+    margin-top: 10px;
+    clear: both;
+    display: table-cell;
+}
+#navOptionsMenu {
+    border: 1px solid rgba(0, 0, 0, .25);
+    background-color: #D6DAF0;
+}
+.navOptionsListItem { color: black }
+.postMenuButton { color: #34345C }
+.postMenu { background-color: #D6DAF0 }
+.postMenuItem { border-bottom: 1px solid rgba(0, 0, 0, .25) }
+.catComment { color: #000 }
+#recaptcha_response_field:not(:focus) { border: 1px solid #AAA!important }
+.listHead {
+    background: #98E;
+    color: black;
+    border: 4px solid #B7C5D9;
+    border-left: none;
+    border-top: none;
+}
+.listRow:nth-child(odd) { background-color: #D6DAF0 }
+.listRow:nth-child(even) { background-color: #B7C5D9 }
+.listRow:hover { background: #98B }
+.listPageHeader { background: #EEF2FF url(../../img/fade-blue.png) top center repeat-x }
+.staticNav { color: #89A }
+.staticNav a { color: #34345C }
+.reportblock {
+    color: #000;
+    border: 1px solid black;
+    background: #98E;
+}
+.reportstats { border: 1px solid black }
+.reportright { border: 1px solid black }
+.catalogLink { border-left: 1px solid #B7C5D9 }
+#qr-form {
+background-color: #D6DAF0;
+border: 1px solid #B7C5D9;
+border-left: none;
+border-top: none;
+}
+.qr-header {
+background: #98E;
+border: 1px solid #000;
+}
+
+@media only screen and (max-width: 480px){
+	.parentPost{
+		background: #D6DAF0;
+		color: #000;
+	}
+	.replyContainer {
+		background-color: #D6DAF0;
+	}
+	.replyPostInfo {
+		border-bottom: 1px solid #B7C5D9;
+		background-color: #c9cde8;
+	}
+	.mobileParentPostInfo {
+		border-bottom: 1px solid #B7C5D9;
+		background-color: #c9cde8;
+	}
+	.parentContainer {
+		border-bottom: 1px solid #B7C5D9;
+		background-color: #D6DAF0;
+		padding: 0;
+	}
+	.button {
+		background-color: #D6DAF0;
+		border: 1px solid #B7C5D9;
+		background-image: -moz-linear-gradient(top, #E7E7F3 0%, #C6C5E2 100%);
+		background-image: -webkit-linear-gradient(top, #E7E7F3 0%, #C6C5E2 100%);
+		background-image: linear-gradient(to bottom, #E7E7F3 0%, #C6C5E2 100%);
+	}
+	.mobilePostReplyLink {
+		background-color: #c9cde8;
+		border-top: 1px solid #B7C5D9;
+	}
+	.mobile-post-menu {
+		border-top: 1px solid #B7C5D9;
+		background-color: #c9cde8;
+	}
+	.postMenuButtonMobile {
+		border: 1px solid #B7C5D9!important;
+		background-image: -moz-linear-gradient(top, #E7E7F3 0%, #C6C5E2 100%);
+		background-image: -webkit-linear-gradient(top, #E7E7F3 0%, #C6C5E2 100%);
+		background-image: linear-gradient(to bottom, #E7E7F3 0%, #C6C5E2 100%);
+  }
+}

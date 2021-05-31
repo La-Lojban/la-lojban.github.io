@@ -1,0 +1,599 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<link rel="alternate" type="application/rss" title="RSS 2.0" href="/ideas/res/feed.rss" />
+<link rel="alternate" type="text/xml" title="RSS 2.0" href="/ideas/res/feed.rss" />
+<title>/en/ - English</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="shortcut icon" href="/en/lojban.ico" />
+
+<style type="text/css">
+body { margin: 0; padding: 8px; margin-bottom: auto; }
+blockquote blockquote { margin-left: 0em }
+form { margin-bottom: 0px }
+form .trap { display:none }
+.postarea { text-align: center }
+.postarea table { margin: 0px auto; text-align: left }
+.thumb { border: none; float: left; margin: 2px 20px }
+.nothumb { float: left; background: #eee; border: 2px dashed #aaa; text-align: center; margin: 2px 20px; padding: 1em 0.5em 1em 0.5em; }
+.reply blockquote, blockquote :last-child { margin-bottom: 0em }
+.reflink a { color: inherit; text-decoration: none }
+.reply .filesize { margin-left: 20px }
+.userdelete { float: right; text-align: center; white-space: nowrap }
+.replypage .replylink { display: none }
+</style>
+
+
+<link rel="stylesheet" type="text/css" href="/en/css/english.css" title="English" />
+
+
+<script type="text/javascript">var style_cookie="wakabastyle";</script>
+<script type="text/javascript" src="/en/wakaba3.js"></script>
+</head>
+<body class="replypage">
+
+
+
+
+<div class="adminbar">
+    <div style='float:left;'><small>xu do sisku <a href='/jbo/'>lo lojbo tcana</a></small></div> &nbsp;
+[<a href="/en/../" target="_top">Home</a>]
+[<a href="/en/wakaba.pl?task=admin">Manage</a>]
+</div>
+
+<div class="logo">
+
+
+
+/en/ - English
+</div><hr />
+
+
+<p>Posts and uploaded files are owned by the poster. jbotcan.org is not
+ liable for the content submitted by the poster.
+Downloading any poster-submitted files is doing so at your own risk.</p>
+
+<hr />
+
+
+
+
+
+	[<a href="/en/imageboard.html">Return</a>]
+	<div class="theader">Posting mode: Reply</div>
+
+
+<hr />
+<div align="center">
+<form action="/en/paint.pl" method="get">
+<input type="hidden" name="oek_parent" value="1144" />
+
+Painter: 
+<select name="oek_painter">
+
+
+	
+	<option value="shi_norm" selected="selected">Shi Normal</option>
+	
+	
+
+	
+	
+	<option value="shi_pro">Shi Pro</option>
+	
+
+	
+	
+	<option value="shi_norm_selfy">Shi Normal+Selfy</option>
+	
+
+	
+	
+	<option value="shi_pro_selfy">Shi Pro+Selfy</option>
+	
+
+</select>
+
+Width: <input type="text" name="oek_x" size="3" value="300" />
+Height: <input type="text" name="oek_y" size="3" value="300" />
+
+
+	Source: 
+	<select name="oek_src">
+	<option value="">New image</option>
+
+	
+		
+			
+				<option value="src/1236851334413.png">Modify No.1144</option>
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+				<option value="src/1237082178595.png">Modify No.1171</option>
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	
+	</select>
+
+
+<input type="submit" value="Paint!" />
+</form>
+</div><hr />
+
+
+	<div class="postarea">
+	<form id="postform" action="/en/wakaba.pl" method="post" enctype="multipart/form-data">
+
+	<input type="hidden" name="task" value="post" />
+	<input type="hidden" name="parent" value="1144" />
+	
+	
+	<div class="trap">Leave these fields empty (spam trap): <input type="text" name="name" size="28" autocomplete="off" /><input type="text" name="link" size="28" autocomplete="off" /></div>
+
+	<table><tbody>
+	<tr><td class="postblock">Name</td><td><input type="text" name="field1" size="28" /></td></tr>
+	<tr><td class="postblock">Link</td><td><input type="text" name="field2" size="28" /></td></tr>
+	<tr><td class="postblock">Subject</td><td><input type="text" name="field3" size="35" /> (encouraged)
+	<input type="submit" value="Submit" /></td></tr>
+	<tr><td class="postblock">Comment</td><td><textarea name="field4" cols="48" rows="4"></textarea></td></tr>
+
+	
+		<tr><td class="postblock">File</td><td><input type="file" name="file" size="35" />
+		
+		</td></tr>
+	
+<!--
+        <tr>
+	  <td>
+	    <strong>YouTube video</strong>
+	  </td>
+	  <td>
+	    <input type='text' name='youtubelink'>
+	    <b>(ALPHA)</b>
+	  </td>
+        </tr>
+-->
+	
+
+	<tr><td class="postblock">Password</td><td><input type="password" name="password" size="8" /> (for post and file deletion)</td></tr>
+	<tr><td colspan="2">
+	<div class="rules"><ul> <li>Supported file types are: GIF, JPG, PNG</li> <li>Maximum file size allowed is 1000 KB.</li> <li>Images greater than 200x200 pixels will be thumbnailed.</li> </ul></div></td></tr>
+	</tbody></table></form></div>
+	<script type="text/javascript">set_inputs("postform")</script>
+
+	<hr />
+
+
+<form id="delform" action="/en/wakaba.pl" method="post">
+
+
+	
+		
+			
+				<span class="filesize">File: <a target="_top" href="/en/arch/src/1236851334413.png">1236851334413.png</a>
+				-(<em>160748 B, 800x3640</em>)</span>
+				<span class="thumbnailmsg">Thumbnail displayed, click image for full size.</span>                                
+<small>[<a href="/ideas/paint.pl?oek_parent=1144&amp;oek_painter=shi_norm&amp;oek_x=800&amp;oek_y=3640&amp;oek_src=/en/arch/src/1236851334413.png">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/en/arch/src/1236851334413.png">
+					<img src="/en/arch/thumb/1236851334413s.jpg" width="43" height="200" alt="160748" class="thumb" /></a>
+				
+				
+			
+
+			<a name="1144"></a>
+			<label><input type="checkbox" name="delete" value="1144" />
+			<span class="filetitle">Teach lojban universally</span>
+			
+			<span class="postername">kiris</span>
+			09/03/12(Thu)09:48</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1144')">No.1144</a>
+			</span>&nbsp;
+			
+
+			<blockquote>
+			<p>(By &quot;universe&quot; I mean &quot;all those cultures that Lojban applies to&quot;.)</p><p>I&#39;ve been messing about with drawing Lojbanic things (pic related)&#44; and I hypothesise that Lojban can be taught with pictures&#44; stories and Lojban.</p><p>Rosetta Stone provides us with some evidence that teaching like this is possible.</p><p>In the picture it tries to demonstrate the difference between ‘cat’ and ‘“cat”’&#44; that is&#44; quotation. {mlatu} means &quot;cat&quot;&#44; whereas {zo mlatu} means &quot;the word cat&quot;. I think the picture illustrates this simply and effectively.</p><p>The picture also tries to illustrate that {la foo} is {la&#39;e zo foo} and that it means &quot;the referent of the word &#39;foo&#39;&quot;.</p><p>I know for someone looking at it who&#39;s never seen Lojban&#44; it&#39;s probably incredibly fuzzy. &quot;Does la tibs mlatu&quot; mean &quot;mlatu-ish tibs&quot;? Does it mean &quot;tibs mlatu&quot; is the cat&#39;s name? Etc. But I believe these details can be smoothed off with other techniques such as presenting different perspectives on the same grammar.</p><p>I&#39;ll have to get test subjects to experiment on to perfect a proper tutorial.</p><p>I&#39;m requesting that people start trying to draw gismu through pictures and pictured stories&#44; and existing simple Lojban. Or you can try explaining parts of the grammar. It doesn&#39;t matter if you are awful at drawing&#44; just draw stick men in mspaint&#44; someone else more skilled at illustration will re-draw it&#44; it&#39;s really the concepts behind them that are important. If you use Lojban in your illustrations&#44; make sure that you have defined the words used or make it simple enough that someone else can define the words. Keep your pictures culturally &quot;neutral&quot;&#44; but we have a word for &quot;computer&quot;; so don&#39;t try to appeal to a Maasai semi-nomad. Lojban is sufficiently culturally specific that you can make some assumptions.</p><p>I&#39;m only interested in contribution&#44; detractors can voice their opinions in another thread&#44; please.</p><p>Post all contributions in this thread.</p><p>I&#39;ll be posting more ideas until I or others put together a coherent document somewhere.</p>
+			
+			</blockquote>
+
+			
+		
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1148">
+
+			<a name="1148"></a>
+			<label><input type="checkbox" name="delete" value="1148" />
+			<span class="replytitle">RE: Teach lojban universally</span>
+			
+			<span class="commentpostername">Ruzihm</span>
+			09/03/12(Thu)16:50</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1148')">No.1148</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>Being a newbie to Lojban&#44; this image was actually helpful in understanding what la means specifically.  Please don&#39;t let this effort die</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1149">
+
+			<a name="1149"></a>
+			<label><input type="checkbox" name="delete" value="1149" />
+			<span class="replytitle">yes!</span>
+			
+			<span class="commentpostername">Ruzihm</span>
+			09/03/12(Thu)16:53</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1149')">No.1149</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>I&#44; as a newbie to Lojban&#44; really liked this image.  I could see this effort really helping me learn Lojban easier and simpler.  Please don&#39;t let this effort die!</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1151">
+
+			<a name="1151"></a>
+			<label><input type="checkbox" name="delete" value="1151" />
+			<span class="replytitle">RE: Teach lojban universally</span>
+			
+			<span class="commentpostername">Ruzihm</span>
+			09/03/12(Thu)18:29</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1151')">No.1151</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>Sorry about the double post.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1152">
+
+			<a name="1152"></a>
+			<label><input type="checkbox" name="delete" value="1152" />
+			<span class="replytitle">RE: Teach lojban universally</span>
+			<span class="commentpostername"><a href="mailto:sage">kiris</a></span>
+			
+			09/03/12(Thu)20:03</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1152')">No.1152</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>Thanks for the kind words. Hopefully I can go ahead and start on a beginner&#39;s guide. I&#39;m thinking {xravelcli} &quot;picture-ish learning-source&quot; or {xractu} &quot;picture-ish teacher&quot; as names.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1159">
+
+			<a name="1159"></a>
+			<label><input type="checkbox" name="delete" value="1159" />
+			<span class="replytitle">RE: Teach lojban universally</span>
+			
+			<span class="commentpostername">kiris</span>
+			09/03/14(Sat)09:35</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1159')">No.1159</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>OK&#44; here have I have a &quot;work-in-progress&quot; page:</p><p><a href="http://jbotcan.org/xractu/xractu/xractu.html" rel="nofollow">http://jbotcan.org/xractu/xractu/xractu.html</a></p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1161">
+
+			<a name="1161"></a>
+			<label><input type="checkbox" name="delete" value="1161" />
+			<span class="replytitle">RE: Teach lojban universally</span>
+			
+			<span class="commentpostername">xorxes</span>
+			09/03/14(Sat)12:58</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1161')">No.1161</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1144.html#1159" onclick="highlight(1159)">&gt;&gt;1159</a></p><p>That&#39;s very good. I was going to say that &quot;la&#39;e&quot; and &quot;zo&quot; were probably better left to lesson 87 rather than being introduced in the first lesson&#44; but I see you are now starting with more simple stuff.</p><p>Many gismu are already defined/exemplified though pictures in <a href="http://jbo.wikipedia.org/wiki/pixra_liste_loi_gismu-b" rel="nofollow">http://jbo.wikipedia.org/wiki/pixra_liste_loi_gismu-b</a><br />You could use that as a &quot;dictionary&quot; and concentrate on the grammar&#44; which of course will be the more difficult task. </p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1165">
+
+			<a name="1165"></a>
+			<label><input type="checkbox" name="delete" value="1165" />
+			<span class="replytitle">RE: Teach lojban universally</span>
+			
+			<span class="commentpostername">Hussell</span>
+			09/03/14(Sat)20:25</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1165')">No.1165</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>You could have {remna &lt;picture of a woman&gt; ninmu} followed by {remna &lt;picture of a man&gt; nanmu}&#44; to teach words for similar things and different things at the same time. You can also use this trick with the danlu pictures:<br />{danlu &lt;picture of a man and a woman&gt; remna}<br />{danlu &lt;picture of a cat&gt; mlatu}<br />{danlu &lt;picture of a bird&gt; cipni}<br />{danlu &lt;picture of a man&#44; a woman&#44; a bird&#44; and a cat&gt;}</p><p>Pictures teaching the numbers 1 through 9 should be easy. Once you have those&#44; you can start on images like <a href="/en/res/1061.html#1117" onclick="highlight(1117)">&gt;&gt;1117</a></p><p><a href="/en/res/1144.html#1152" onclick="highlight(1152)">&gt;&gt;1152</a></p><p>la jbobauctuxra == &quot;The Lojbanic-Language-Teaching Picture(s)&quot;</p><p>Long&#44; but precise. Actually&#44; since beginners often have trouble recognizing rafsi&#44; &quot;la lojbo bangu ctuca pixra&quot; might be best.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1167">
+
+			<a name="1167"></a>
+			<label><input type="checkbox" name="delete" value="1167" />
+			<span class="replytitle">RE: Teach lojban universally</span>
+			
+			<span class="commentpostername">kiris</span>
+			09/03/14(Sat)22:57</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1167')">No.1167</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1144.html#1161" onclick="highlight(1161)">&gt;&gt;1161</a></p><blockquote class="unkfunc">&gt; That&#39;s very good. I was going to say that &quot;la&#39;e&quot; and &quot;zo&quot; were probably better left to lesson 87 rather than being introduced in the first lesson&#44; but I see you are now starting with more simple stuff.</blockquote><p>Thanks&#44; I agree&#44; {la&#39;e} and {zo} are too advanced.</p><blockquote class="unkfunc">&gt; You could use that as a &quot;dictionary&quot; and concentrate on the grammar&#44; which of course will be the more difficult task. </blockquote><p>Indeed&#44; it&#39;s certainly the grammar which is the difficult task. I&#39;m defining a few gismu here for use in examples&#44; of course. The loi gismu liste is a nice resource (though a fair few of the pics aren&#39;t great). I&#39;ve been taking onboard the experience of CLL and Rosetta Stone in their approaches to introducing languages. Hopefully this will help me get it in the right order.</p><p><a href="/en/res/1144.html#1165" onclick="highlight(1165)">&gt;&gt;1165</a><br />Good ideas&#44; nice ways to encode more concepts at once. Although as to the precise geometry of what you are suggesting&#44; I&#39;m not sure. Can you post a little mspaint picture example (doesn&#39;t have to be fancy) to demonstrate?</p><blockquote class="unkfunc">&gt; la jbobauctuxra == &quot;The Lojbanic-Language-Teaching Picture(s)&quot;</blockquote><p>I think that&#39;s probably better than &quot;picture teacher&quot;. I&#39;ll rename the title to &quot;la lojbo bangu ctuca pixra&quot;.</p><p>Thanks for your comments&#44; chaps.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1171">
+
+			<a name="1171"></a>
+			<label><input type="checkbox" name="delete" value="1171" />
+			<span class="replytitle">RE: Teach lojban universally</span>
+			
+			<span class="commentpostername">Hussell</span>
+			09/03/15(Sun)01:56</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1171')">No.1171</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">File: <a target="_top" href="/en/arch/src/1237082178595.png">1237082178595.png</a>
+				-(<em>16918 B, 500x400</em>)</span>
+				<span class="thumbnailmsg">Thumbnail displayed, click image for full size.</span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1144&amp;oek_painter=shi_norm&amp;oek_x=500&amp;oek_y=400&amp;oek_src=/en/arch/src/1237082178595.png">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/en/arch/src/1237082178595.png">
+					<img src="/en/arch/thumb/1237082178595s.jpg" width="200" height="160" alt="16918" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			<p><a href="/en/res/1144.html#1167" onclick="highlight(1167)">&gt;&gt;1167</a></p><p>The idea being to always put the word that is the same for all the pictures in a series on the right&#44; and the words that are different for each picture on the left. Or you could use some other spatial relationship&#44; as long as you use the same system for every series of pictures.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1172">
+
+			<a name="1172"></a>
+			<label><input type="checkbox" name="delete" value="1172" />
+			<span class="replytitle">RE: Teach lojban universally</span>
+			
+			<span class="commentpostername">kiris</span>
+			09/03/15(Sun)10:42</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1172')">No.1172</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1144.html#1171" onclick="highlight(1171)">&gt;&gt;1171</a><br />Interesting idea.</p><p>For this particular idea&#44; it seems like it might be misinterpreted: What if it&#39;s interpreted to mean one utterance&#44; a tanru?</p><p>I get the idea&#44; though. Rather than X is a human&#44; X is a man&#44; just say &quot;X is a human and a man&quot;.</p><p>But I don&#39;t <em>think</em> it needs much optimisation right now because I&#39;m moving onto grammar from simple ontological (?) definitions&#44; but I might do.</p><p>I&#39;m trying to make the images with a certain perspective in mind. When I did the Arabic and Japanese Rosetta Stone tutorials&#44; with a friend&#44; we were presented with images and text&#44; and really&#44; despite not being able to read the text verbally&#44; the only clues we had were what changed from slide to slide. We can&#39;t assume the words go from left to right&#44; or that a space means a new word&#44; or that the order of words is significant at any point. We can only recognise patterns and make up some reasoning about why it is that way. That is a perspective from a native English speaker to Arabic or Japanese&#44; and I would therefore hope to make these pictures interpretable by someone from such a different culture and/or language. (You know this&#44; I&#39;m just writing it out for therapy sake.)</p><p>Some interesting results already: florolf (German&#44; himself) asked a few fellow Germans&#44; including his mother (monolingual)&#44; to interpret the pictures. There were some issues with {jgari} and {plipe} because the picture looked more like &quot;lift&quot; and &quot;run&quot;&#44; but that&#39;s okay&#44; I improved the pictures to be more obvious.</p><p>For {ti}/{ta}/{tu}&#44; however&#44; it seemed the Germans interpreted it as she/he/it. I&#39;ve since added an extra digram showing the scale of ti/ta/tu. That helped&#44; it seems. Although a few people had trouble with {tu}&#44; including florolf&#39;s questionees&#44; and including my sister. We both reckon that is because there is no word for &quot;yonder&quot; in either language&#44; anymore; though the word exists&#44; it&#39;s antiquated. I&#44; myself&#44; found it a little novel that there was a {tu} when first learning Lojban.</p><p>I hope that this isn&#39;t going to be a hard problem to tackle&#44; that is&#44; the problem that is people are unable to recognise a concept from a picture because there is no (readily) corresponding word in their own language. But florolf mentioned this as a recognised Sapir-Whorf problem&#44; so I might research that.</p><p>Fascinating issues&#44; though.</p><p>But I think with a tutorial like this&#44; you have to suspend your need for concrete definitions until you are given more material with which to make discernments. Also&#44; at the beginning&#44; it doesn&#39;t matter that much if you think {danlu} means &quot;man&#44; woman&#44; cat and bird&quot;&#44; because in future lessons I might say {lo gerku cu danlu} and that would need reconsideration&#44; etc. etc.</p><p>florolf and other Germans also had some trouble with {danlu}&#44; but I&#39;m not really clear on why. Maybe he can shed some light on that.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1173">
+
+			<a name="1173"></a>
+			<label><input type="checkbox" name="delete" value="1173" />
+			<span class="replytitle">RE: Teach lojban universally</span>
+			
+			<span class="commentpostername">xorxes</span>
+			09/03/15(Sun)12:15</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1173')">No.1173</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>It might be worth considering the use of comics style speech balloons for the cases when the words are being said by someone in the picture&#44; since I assume you will need to use a lot of dialogue to teach some constructions. I think it would be better to establish that convention from the beginning with the simplest cases (like &quot;mi&quot;).</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1176">
+
+			<a name="1176"></a>
+			<label><input type="checkbox" name="delete" value="1176" />
+			<span class="replytitle">RE: Teach lojban universally</span>
+			
+			<span class="commentpostername">kiris</span>
+			09/03/15(Sun)14:01</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1176')">No.1176</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1144.html#1173" onclick="highlight(1173)">&gt;&gt;1173</a></p><p>Good idea. I had indeed considered that speech bubbles would be needed. I&#39;ll change those images.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1177">
+
+			<a name="1177"></a>
+			<label><input type="checkbox" name="delete" value="1177" />
+			<span class="replytitle">RE: Teach lojban universally</span>
+			
+			<span class="commentpostername">Hussell</span>
+			09/03/15(Sun)14:13</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1177')">No.1177</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1144.html#1172" onclick="highlight(1172)">&gt;&gt;1172</a></p><blockquote class="unkfunc">&gt; florolf and other Germans also had some trouble with {danlu}&#44; but I&#39;m not really clear on why. Maybe he can shed some light on that.</blockquote><p>Possibly because they have no category which includes both humans and animals? (Many native speakers of English don&#39;t put humans in the category &quot;animal&quot;&#44; while biologists do; maybe German works that way too.)</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+	<br clear="left" /><hr />
+
+
+<table class="userdelete"><tbody><tr><td>
+<input type="hidden" name="task" value="delete" />
+Delete Post [<label><input type="checkbox" name="fileonly" value="on" />File Only</label>]<br />
+Password <input type="password" name="password" size="8" />
+<input value="Delete" type="submit" /></td></tr></tbody></table>
+</form>
+<script type="text/javascript">set_delpass("delform")</script>
+
+
+
+<!--<p class="footer"> - <a href="http://wakaba.c3.cx/">wakaba 3.0.7</a> + <a href="http://www.2chan.net/">futaba</a> + <a href="http://www.1chan.net/futallaby/">futallaby</a> -</p>-->
+
+</body></html>

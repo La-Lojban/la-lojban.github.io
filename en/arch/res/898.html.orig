@@ -1,0 +1,318 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<link rel="alternate" type="application/rss" title="RSS 2.0" href="/ideas/res/feed.rss" />
+<link rel="alternate" type="text/xml" title="RSS 2.0" href="/ideas/res/feed.rss" />
+<title>/en/ - English</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="shortcut icon" href="/en/lojban.ico" />
+
+<style type="text/css">
+body { margin: 0; padding: 8px; margin-bottom: auto; }
+blockquote blockquote { margin-left: 0em }
+form { margin-bottom: 0px }
+form .trap { display:none }
+.postarea { text-align: center }
+.postarea table { margin: 0px auto; text-align: left }
+.thumb { border: none; float: left; margin: 2px 20px }
+.nothumb { float: left; background: #eee; border: 2px dashed #aaa; text-align: center; margin: 2px 20px; padding: 1em 0.5em 1em 0.5em; }
+.reply blockquote, blockquote :last-child { margin-bottom: 0em }
+.reflink a { color: inherit; text-decoration: none }
+.reply .filesize { margin-left: 20px }
+.userdelete { float: right; text-align: center; white-space: nowrap }
+.replypage .replylink { display: none }
+</style>
+
+
+<link rel="stylesheet" type="text/css" href="/en/css/english.css" title="English" />
+
+
+<script type="text/javascript">var style_cookie="wakabastyle";</script>
+<script type="text/javascript" src="/en/wakaba3.js"></script>
+</head>
+<body class="replypage">
+
+
+
+
+<div class="adminbar">
+    <div style='float:left;'><small>xu do sisku <a href='/jbo/'>lo lojbo tcana</a></small></div> &nbsp;
+[<a href="/en/../" target="_top">Home</a>]
+[<a href="/en/wakaba.pl?task=admin">Manage</a>]
+</div>
+
+<div class="logo">
+
+
+
+/en/ - English
+</div><hr />
+
+
+<p>Posts and uploaded files are owned by the poster. jbotcan.org is not
+ liable for the content submitted by the poster.
+Downloading any poster-submitted files is doing so at your own risk.</p>
+
+<hr />
+
+
+
+
+
+	[<a href="/en/imageboard.html">Return</a>]
+	<div class="theader">Posting mode: Reply</div>
+
+
+<hr />
+<div align="center">
+<form action="/en/paint.pl" method="get">
+<input type="hidden" name="oek_parent" value="898" />
+
+Painter: 
+<select name="oek_painter">
+
+
+	
+	<option value="shi_norm" selected="selected">Shi Normal</option>
+	
+	
+
+	
+	
+	<option value="shi_pro">Shi Pro</option>
+	
+
+	
+	
+	<option value="shi_norm_selfy">Shi Normal+Selfy</option>
+	
+
+	
+	
+	<option value="shi_pro_selfy">Shi Pro+Selfy</option>
+	
+
+</select>
+
+Width: <input type="text" name="oek_x" size="3" value="300" />
+Height: <input type="text" name="oek_y" size="3" value="300" />
+
+
+	Source: 
+	<select name="oek_src">
+	<option value="">New image</option>
+
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	
+	</select>
+
+
+<input type="submit" value="Paint!" />
+</form>
+</div><hr />
+
+
+	<div class="postarea">
+	<form id="postform" action="/en/wakaba.pl" method="post" enctype="multipart/form-data">
+
+	<input type="hidden" name="task" value="post" />
+	<input type="hidden" name="parent" value="898" />
+	
+	
+	<div class="trap">Leave these fields empty (spam trap): <input type="text" name="name" size="28" autocomplete="off" /><input type="text" name="link" size="28" autocomplete="off" /></div>
+
+	<table><tbody>
+	<tr><td class="postblock">Name</td><td><input type="text" name="field1" size="28" /></td></tr>
+	<tr><td class="postblock">Link</td><td><input type="text" name="field2" size="28" /></td></tr>
+	<tr><td class="postblock">Subject</td><td><input type="text" name="field3" size="35" /> (encouraged)
+	<input type="submit" value="Submit" /></td></tr>
+	<tr><td class="postblock">Comment</td><td><textarea name="field4" cols="48" rows="4"></textarea></td></tr>
+
+	
+		<tr><td class="postblock">File</td><td><input type="file" name="file" size="35" />
+		
+		</td></tr>
+	
+<!--
+        <tr>
+	  <td>
+	    <strong>YouTube video</strong>
+	  </td>
+	  <td>
+	    <input type='text' name='youtubelink'>
+	    <b>(ALPHA)</b>
+	  </td>
+        </tr>
+-->
+	
+
+	<tr><td class="postblock">Password</td><td><input type="password" name="password" size="8" /> (for post and file deletion)</td></tr>
+	<tr><td colspan="2">
+	<div class="rules"><ul> <li>Supported file types are: GIF, JPG, PNG</li> <li>Maximum file size allowed is 1000 KB.</li> <li>Images greater than 200x200 pixels will be thumbnailed.</li> </ul></div></td></tr>
+	</tbody></table></form></div>
+	<script type="text/javascript">set_inputs("postform")</script>
+
+	<hr />
+
+
+<form id="delform" action="/en/wakaba.pl" method="post">
+
+
+	
+		
+			
+
+			<a name="898"></a>
+			<label><input type="checkbox" name="delete" value="898" />
+			<span class="filetitle">Possible Lujvonic Forms</span>
+			
+			<span class="postername">rikolas.</span>
+			09/01/29(Thu)01:00</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;898')">No.898</a>
+			</span>&nbsp;
+			
+
+			<blockquote>
+			 <p>Can a lujvo be made that is of the format: CVVCV&#39;V<br />or does it have [.e&#39;i] to be CVVr/nCV&#39;V?</p><p>What are the possible lujvo forms (first the ones that need no hyphen&#44; then those that do (not including .ybu.))?</p>  
+			
+			</blockquote>
+
+			
+		
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply899">
+
+			<a name="899"></a>
+			<label><input type="checkbox" name="delete" value="899" />
+			<span class="replytitle">RE: Possible Lujvonic Forms</span>
+			
+			<span class="commentpostername">.kriltic.</span>
+			09/01/29(Thu)01:11</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;899')">No.899</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			 <p><a href="/en/res/898.html" onclick="highlight(898)">&gt;&gt;898</a> </p><p>&quot; CVVCV&#39;V &quot; would fall apart.  Consider the proposed lujvo [lo&#39;u &lt;&lt;gaice&#39;u&gt;&gt; le&#39;u] (&quot;container lid type of community&quot;- whatever that means).  It would not mean lid-community&#44; but something closer to [lu &lt;&lt;su&#39;u gai ce&#39;u&gt;&gt; li&#39;u]&#44; which would mean &quot;The abstraction that sixteen something...&quot;</p>  
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply900">
+
+			<a name="900"></a>
+			<label><input type="checkbox" name="delete" value="900" />
+			<span class="replytitle">RE: Possible Lujvonic Forms</span>
+			
+			<span class="commentpostername">rikolas.</span>
+			09/01/29(Thu)01:12</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;900')">No.900</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			 <p><a href="/en/res/898.html#899" onclick="highlight(899)">&gt;&gt;899</a> </p><p>Okay&#44; thank you.</p><p>Can I make a CVCCV&#39;V lujvo?</p>  
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply901">
+
+			<a name="901"></a>
+			<label><input type="checkbox" name="delete" value="901" />
+			<span class="replytitle">RE: Possible Lujvonic Forms</span>
+			
+			<span class="commentpostername">.kriltic.</span>
+			09/01/29(Thu)01:17</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;901')">No.901</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			 <p><a href="/en/res/898.html#900" onclick="highlight(900)">&gt;&gt;900</a> </p><p>[.ia go&#39;i]</p><p>It would try to break apart either as &quot; CVCCV &#39;V &quot; (which cannot exist- .y&#39;y. must be between to vowels of the same word) or&#44; to avoid the .y&#39;y. problem&#44; &quot; CV CCV&#39;V &quot;.</p><p>If you want to be on the safe side&#44; [.ia jeima] one can always attach a hyphen when it would not disrupt the word.  I think that it operates similar to the buffer vowel...  I would verify that claim before you start wildly using it whenever you feel like&#44; though&#44; if I were you.</p>  
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply902">
+
+			<a name="902"></a>
+			<label><input type="checkbox" name="delete" value="902" />
+			<span class="replytitle">RE: Possible Lujvonic Forms</span>
+			
+			<span class="commentpostername">xorxes</span>
+			09/01/29(Thu)11:56</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;902')">No.902</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			 <p><a href="/en/res/898.html" onclick="highlight(898)">&gt;&gt;898</a> </p><p>There are an infinite number of forms&#44; so I don&#39;t think a full list would fit here. If we limit ourselves to two-part lujvo&#44; then you can combine any rafsi of form CCV&#44; CVC&#44; CVV&#44; CV&#39;V&#44; CCVCy&#44; CVCCy as initial&#44; with any rafsi of form CCV&#44; CVV&#44; CV&#39;V&#44; CCVCV&#44; CVCCV as final. That&#39;s 6x5=30 forms:</p><p>CCVCCV&#44; CCVCVV&#44; CCVCV&#39;V&#44; CCVCCVCV&#44; CCVCVCCV<br />CVC(y)CCV&#44; CVC(y)CVV&#44; CVC(y)CV&#39;V&#44; CVC(y)CCVCV&#44; CVC(y)CVCCV(*)<br />CVVCCV&#44; CVVrCVV&#44; CVVrCV&#39;V&#44; CVVrCCVCV&#44; CVVrCVCCV<br />CV&#39;VCCV&#44; CV&#39;VrCVV&#44; CV&#39;VrCV&#39;V&#44; CV&#39;VrCCVCV&#44; CV&#39;VrCVCCV<br />CCVCyCCV&#44; CCVCyCVV&#44; CCVCyCV&#39;V&#44; CCVCyCCVCV&#44; CCVCyCVCCV<br />CVCCyCCV&#44; CVCCyCVV&#44; CVCCyCV&#39;V&#44; CVVCCyCCVCV&#44; CVCCyCVCCV</p><p>The (y)&#39;s are required whenever the two C&#39;s cannot appear together.<br />The form marked with (*)&#44; i.e. CVC(y)CVCCV&#44; will also require a &quot;y&quot; when the CC pair is a valid initial&#44; because without it&#44; it would break as CV CCVCCV. This is known as &quot;tosmabru failure&quot;.</p><p>More generally&#44; to make a lujvo you just string together any number of rafsi&#44; you insert &quot;y&quot; between impermissible C&#39;s&#44; you insert -r- after an initial CVV or CV&#39;V (only exception: CVVCCV&#44; CV&#39;VCCV&#44; which can&#39;t fall apart)&#44; and you insert &quot;y&quot; after an initial CVC if the CV can otherwise fall off (for two-part lujvo this can only happen in CVC+CVCCV). </p><p>Looks complicated&#44; but it follows a certain logic.</p>  
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+	<br clear="left" /><hr />
+
+
+<table class="userdelete"><tbody><tr><td>
+<input type="hidden" name="task" value="delete" />
+Delete Post [<label><input type="checkbox" name="fileonly" value="on" />File Only</label>]<br />
+Password <input type="password" name="password" size="8" />
+<input value="Delete" type="submit" /></td></tr></tbody></table>
+</form>
+<script type="text/javascript">set_delpass("delform")</script>
+
+
+
+<!--<p class="footer"> - <a href="http://wakaba.c3.cx/">wakaba 3.0.7</a> + <a href="http://www.2chan.net/">futaba</a> + <a href="http://www.1chan.net/futallaby/">futallaby</a> -</p>-->
+
+</body></html>

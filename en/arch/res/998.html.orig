@@ -1,0 +1,290 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<link rel="alternate" type="application/rss" title="RSS 2.0" href="/ideas/res/feed.rss" />
+<link rel="alternate" type="text/xml" title="RSS 2.0" href="/ideas/res/feed.rss" />
+<title>/en/ - English</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="shortcut icon" href="/en/lojban.ico" />
+
+<style type="text/css">
+body { margin: 0; padding: 8px; margin-bottom: auto; }
+blockquote blockquote { margin-left: 0em }
+form { margin-bottom: 0px }
+form .trap { display:none }
+.postarea { text-align: center }
+.postarea table { margin: 0px auto; text-align: left }
+.thumb { border: none; float: left; margin: 2px 20px }
+.nothumb { float: left; background: #eee; border: 2px dashed #aaa; text-align: center; margin: 2px 20px; padding: 1em 0.5em 1em 0.5em; }
+.reply blockquote, blockquote :last-child { margin-bottom: 0em }
+.reflink a { color: inherit; text-decoration: none }
+.reply .filesize { margin-left: 20px }
+.userdelete { float: right; text-align: center; white-space: nowrap }
+.replypage .replylink { display: none }
+</style>
+
+
+<link rel="stylesheet" type="text/css" href="/en/css/english.css" title="English" />
+
+
+<script type="text/javascript">var style_cookie="wakabastyle";</script>
+<script type="text/javascript" src="/en/wakaba3.js"></script>
+</head>
+<body class="replypage">
+
+
+
+
+<div class="adminbar">
+    <div style='float:left;'><small>xu do sisku <a href='/jbo/'>lo lojbo tcana</a></small></div> &nbsp;
+[<a href="/en/../" target="_top">Home</a>]
+[<a href="/en/wakaba.pl?task=admin">Manage</a>]
+</div>
+
+<div class="logo">
+
+
+
+/en/ - English
+</div><hr />
+
+
+<p>Posts and uploaded files are owned by the poster. jbotcan.org is not
+ liable for the content submitted by the poster.
+Downloading any poster-submitted files is doing so at your own risk.</p>
+
+<hr />
+
+
+
+
+
+	[<a href="/en/imageboard.html">Return</a>]
+	<div class="theader">Posting mode: Reply</div>
+
+
+<hr />
+<div align="center">
+<form action="/en/paint.pl" method="get">
+<input type="hidden" name="oek_parent" value="998" />
+
+Painter: 
+<select name="oek_painter">
+
+
+	
+	<option value="shi_norm" selected="selected">Shi Normal</option>
+	
+	
+
+	
+	
+	<option value="shi_pro">Shi Pro</option>
+	
+
+	
+	
+	<option value="shi_norm_selfy">Shi Normal+Selfy</option>
+	
+
+	
+	
+	<option value="shi_pro_selfy">Shi Pro+Selfy</option>
+	
+
+</select>
+
+Width: <input type="text" name="oek_x" size="3" value="300" />
+Height: <input type="text" name="oek_y" size="3" value="300" />
+
+
+	Source: 
+	<select name="oek_src">
+	<option value="">New image</option>
+
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	
+	</select>
+
+
+<input type="submit" value="Paint!" />
+</form>
+</div><hr />
+
+
+	<div class="postarea">
+	<form id="postform" action="/en/wakaba.pl" method="post" enctype="multipart/form-data">
+
+	<input type="hidden" name="task" value="post" />
+	<input type="hidden" name="parent" value="998" />
+	
+	
+	<div class="trap">Leave these fields empty (spam trap): <input type="text" name="name" size="28" autocomplete="off" /><input type="text" name="link" size="28" autocomplete="off" /></div>
+
+	<table><tbody>
+	<tr><td class="postblock">Name</td><td><input type="text" name="field1" size="28" /></td></tr>
+	<tr><td class="postblock">Link</td><td><input type="text" name="field2" size="28" /></td></tr>
+	<tr><td class="postblock">Subject</td><td><input type="text" name="field3" size="35" /> (encouraged)
+	<input type="submit" value="Submit" /></td></tr>
+	<tr><td class="postblock">Comment</td><td><textarea name="field4" cols="48" rows="4"></textarea></td></tr>
+
+	
+		<tr><td class="postblock">File</td><td><input type="file" name="file" size="35" />
+		
+		</td></tr>
+	
+<!--
+        <tr>
+	  <td>
+	    <strong>YouTube video</strong>
+	  </td>
+	  <td>
+	    <input type='text' name='youtubelink'>
+	    <b>(ALPHA)</b>
+	  </td>
+        </tr>
+-->
+	
+
+	<tr><td class="postblock">Password</td><td><input type="password" name="password" size="8" /> (for post and file deletion)</td></tr>
+	<tr><td colspan="2">
+	<div class="rules"><ul> <li>Supported file types are: GIF, JPG, PNG</li> <li>Maximum file size allowed is 1000 KB.</li> <li>Images greater than 200x200 pixels will be thumbnailed.</li> </ul></div></td></tr>
+	</tbody></table></form></div>
+	<script type="text/javascript">set_inputs("postform")</script>
+
+	<hr />
+
+
+<form id="delform" action="/en/wakaba.pl" method="post">
+
+
+	
+		
+			
+
+			<a name="998"></a>
+			<label><input type="checkbox" name="delete" value="998" />
+			<span class="filetitle">lo nu binxo</span>
+			
+			<span class="postername">Anonymous</span>
+			09/03/01(Sun)23:44</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;998')">No.998</a>
+			</span>&nbsp;
+			
+
+			<blockquote>
+			<blockquote class="unkfunc">&gt;&gt; .i [...] lo nu stodi manfo xabju lo lanzu zdani cu rinka lo nu ca&#39;o lo masti be li re lo nu gy menli stati cu binxo lo xalsa</blockquote><p>&quot;xalsa&quot;?</p><blockquote class="unkfunc">&gt;&gt; .i va&#39;o lo nu lo nilce cu fanta lo nu gy fenki cpare fi lo cunso cu na to&#39;e prali gi&#39;e ja&#39;a ja&#39;e prali</blockquote><p>Can &quot;ja&#39;e&quot;&#44; which is a BAI&#44; come right before &lt;selbri-2&gt;? Maybe &quot;prali ja&#39;e&quot; i.e. &lt;selbri-2&gt; &lt;term-2&gt;?</p><blockquote class="unkfunc">&gt;&gt; .i lo mamta cu zi binxo lo smaji gi&#39;e sidju lo mensi se kai lo ka tsali mulno kei lo nu lebna lo se dacru</blockquote><p>Is &quot;lo ka tsali mulno&quot; better than &quot;lo ka tsali culno&quot; in this context?</p><blockquote class="unkfunc">&gt;&gt; .i la .gregor. [...] cu zi to&#39;e setca lo stedu lo cnita be lo sfofa te zu&#39;e lo nu jdice lo du&#39;u ta&#39;i ma kau gy kakne lo nu zukte pagbu lo cuntu se kai lo ka prije je racli traji cumki</blockquote><p>&quot;zukte pagbu&quot;? Maybe &quot;zukte pagre&quot;?</p><blockquote class="unkfunc">&gt;&gt; .i ku&#39;i .u&#39;u lo mamta cu pa moi lo xruti [...]</blockquote><p>The gimste says that the x2 of &quot;moi&quot; is a set.</p><blockquote class="unkfunc">&gt;&gt; .i ba bo my xruti lo ka kansa la .greten.</blockquote><p>Maybe &quot;fi lo ka kansa la .greten.&quot;?</p><blockquote class="unkfunc">&gt;&gt; .i ku&#39;i gy ba zi randa jinvi lo du&#39;u lo nu lo ninmu cu so&#39;i roi klama da de gi&#39;e ze&#39;i krixa gi&#39;e gasnu lo nu sakli fa lo nilce lo loldi cu rinka lo nu gy ganse lo barda kalsa noi banro to&#39;o ro da</blockquote><p>There are two &quot;da&quot;. Are they referring to the same thing?</p><blockquote class="unkfunc">&gt;&gt; .i py bargu renro lo mapku noi bu&#39;u ke&#39;a cu ba&#39;o se jivbu lo solji skari sinxa be la&#39;a lo banxa ku&#39;o lo cpana be lo sfofa pa&#39;o lo kumfa</blockquote><p>I think &quot;se jivbu&quot; should be &quot;jivbu&quot;.</p><blockquote class="unkfunc">&gt;&gt; .i lo jipno be lo kosta cu trixe</blockquote><p>What is &quot;lo jipno be lo kosta&quot;?</p><blockquote class="unkfunc">&gt;&gt; ni&#39;o lo patfu cu pu gasnu lo nu culno fa lo daski lo grute noi se krasi lo grute vasru poi cpana lo lamji jubme</blockquote><p>What if &quot;tisna&quot; is used instead of &quot;culno&quot;? What would be the difference?</p>
+			
+			</blockquote>
+
+			
+		
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1000">
+
+			<a name="1000"></a>
+			<label><input type="checkbox" name="delete" value="1000" />
+			<span class="replytitle">RE: lo nu binxo</span>
+			
+			<span class="commentpostername">xorxes</span>
+			09/03/02(Mon)00:44</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1000')">No.1000</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/998.html" onclick="highlight(998)">&gt;&gt;998</a></p><blockquote class="unkfunc">&gt;&quot;xalsa&quot;?</blockquote><p>&quot;kalsa&quot;&#44; fixed!</p><blockquote class="unkfunc">&gt; Can &quot;ja&#39;e&quot;&#44; which is a BAI&#44; come right before &lt;selbri-2&gt;? </blockquote><p>Yes&#44; like all tags&#44; BAIs can come right before the selbri.</p><blockquote class="unkfunc">&gt; Maybe &quot;prali ja&#39;e&quot; i.e. &lt;selbri-2&gt; &lt;term-2&gt;?</blockquote><p>That would also be grammatical (with an elided &quot;ku&quot; in this case).</p><blockquote class="unkfunc">&gt; Is &quot;lo ka tsali mulno&quot; better than &quot;lo ka tsali culno&quot; in this context?</blockquote><p>It&#39;s something like &quot;with all her strength&quot;&#44; so I guess it has more to do with totality/completeness than with fullness</p><blockquote class="unkfunc">&gt; &quot;zukte pagbu&quot;? Maybe &quot;zukte pagre&quot;?</blockquote><p>The idea is &quot;participate&quot;&#44; &quot;take part&quot;&#44; &quot;be an active part in the matter&quot;.</p><blockquote class="unkfunc">&gt; The gimste says that the x2 of &quot;moi&quot; is a set.</blockquote><p>Yes&#44; but I don&#39;t use sets. They never seem to add anything useful&#44; and they can sometimes complicate things unnecessarily. </p><blockquote class="unkfunc">&gt;&gt; .i ba bo my xruti lo ka kansa la .greten.</blockquote><blockquote class="unkfunc">&gt; Maybe &quot;fi lo ka kansa la .greten.&quot;?</blockquote><p>That&#39;s actually on purpose. I think agentless xruti is much more useful than agent-xruti&#44; which I can always recover as &quot;xrugau&quot;.</p><p>If you must&#44; you can always interpret it as &quot;she returned the property of being with Greten (to herself)&quot;.</p><blockquote class="unkfunc">&gt;&gt; .i ku&#39;i gy ba zi randa jinvi lo du&#39;u lo nu lo ninmu cu so&#39;i roi klama da de gi&#39;e ze&#39;i krixa gi&#39;e gasnu lo nu sakli fa lo nilce lo loldi cu rinka lo nu gy ganse lo barda kalsa noi banro to&#39;o ro da</blockquote><blockquote class="unkfunc">&gt; There are two &quot;da&quot;. Are they referring to the same thing?</blockquote><p>No&#44; since the second &quot;da&quot; is quantified with &quot;ro&quot;&#44; it has to be a new variable. For two or more &quot;da&quot; to be the same variable&#44; only the first one can have a quantifier. (In other words&#44; a variable can only be bound by one quantifier at a time.)</p><blockquote class="unkfunc">&gt;  I think &quot;se jivbu&quot; should be &quot;jivbu&quot;.</blockquote><p>Yes&#44; fixed!</p><blockquote class="unkfunc">&gt;    What is &quot;lo jipno be lo kosta&quot;?</blockquote><p>&quot;the-tail ends of is jacket&quot;</p><blockquote class="unkfunc">&gt;    What if &quot;tisna&quot; is used instead of &quot;culno&quot;? What would be the difference?</blockquote><p>I guess it wouldn&#39;t make much difference in this case. In one case we focus on the filling process and in the other case on the final state.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1002">
+
+			<a name="1002"></a>
+			<label><input type="checkbox" name="delete" value="1002" />
+			<span class="replytitle">RE: lo nu binxo</span>
+			
+			<span class="commentpostername">Anonymous</span>
+			09/03/02(Mon)11:45</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1002')">No.1002</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/998.html#1000" onclick="highlight(1000)">&gt;&gt;1000</a></p><blockquote class="unkfunc">&gt; Yes&#44; like all tags&#44; BAIs can come right before the selbri.</blockquote><p>Doesn&#39;t the position before selbri have to be secured for sharedterms? That&#39;s what I thought was the case in:</p><p>[shared-terms] selbri_1 [terms_1] /VAU/ gi&#39;e selbri_2 [terms_2] /VAU/ [shared-terms] /VAU/</p><blockquote class="unkfunc">&gt; No&#44; since the second &quot;da&quot; is quantified with &quot;ro&quot;&#44; it has to be a new variable. For two or more &quot;da&quot; to be the same variable&#44; only the first one can have a quantifier. (In other words&#44; a variable can only be bound by one quantifier at a time.)</blockquote><p>How about this:</p><p>da po&#39;u lo mi gerku zo&#39;u ge pa da blabi gi re da bunre to ro da barda toi</p><p>Are the second and last &quot;da&quot; to be considered different from &quot;da po&#39;u lo mi gerku&quot;?</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1003">
+
+			<a name="1003"></a>
+			<label><input type="checkbox" name="delete" value="1003" />
+			<span class="replytitle">RE: lo nu binxo</span>
+			
+			<span class="commentpostername">xorxes</span>
+			09/03/02(Mon)12:03</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1003')">No.1003</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/998.html#1002" onclick="highlight(1002)">&gt;&gt;1002</a> </p><blockquote class="unkfunc">&gt; Doesn&#39;t the position before selbri have to be secured for sharedterms? That&#39;s what I thought was the case in:</blockquote><blockquote class="unkfunc">&gt; [shared-terms] selbri_1 [terms_1] /VAU/ gi&#39;e selbri_2 [terms_2] /VAU/ [shared-terms] /VAU/</blockquote><p>The tag is part of the selbri&#44; so it is not shared with another selbri. (The same thing happens with NA.) For it to be shared&#44; it needs to become a term&#44; which is done with &quot;ku&quot;. </p><blockquote class="unkfunc">&gt; How about this:</blockquote><blockquote class="unkfunc">&gt; da po&#39;u lo mi gerku zo&#39;u ge pa da blabi gi re da bunre to ro da barda toi</blockquote><blockquote class="unkfunc">&gt; Are the second and last &quot;da&quot; to be considered different from &quot;da po&#39;u lo mi gerku&quot;?</blockquote><p>In that case&#44; I would take all of them to be restricted to &quot;lo mi gerku&quot;&#44; but that seems to be more a pragmatic thing than a general rule. In fact&#44; even in:</p><p>lo mi gerku zo&#39;u ge pa da blabi gi re da bunre to ro da barda toi</p><p>I would take &quot;da&quot; to be quantified over lo mi gerku in all cases. But each time it is bound by a different quantifier.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+	<br clear="left" /><hr />
+
+
+<table class="userdelete"><tbody><tr><td>
+<input type="hidden" name="task" value="delete" />
+Delete Post [<label><input type="checkbox" name="fileonly" value="on" />File Only</label>]<br />
+Password <input type="password" name="password" size="8" />
+<input value="Delete" type="submit" /></td></tr></tbody></table>
+</form>
+<script type="text/javascript">set_delpass("delform")</script>
+
+
+
+<!--<p class="footer"> - <a href="http://wakaba.c3.cx/">wakaba 3.0.7</a> + <a href="http://www.2chan.net/">futaba</a> + <a href="http://www.1chan.net/futallaby/">futallaby</a> -</p>-->
+
+</body></html>

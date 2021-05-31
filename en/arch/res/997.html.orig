@@ -1,0 +1,402 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<link rel="alternate" type="application/rss" title="RSS 2.0" href="/ideas/res/feed.rss" />
+<link rel="alternate" type="text/xml" title="RSS 2.0" href="/ideas/res/feed.rss" />
+<title>/en/ - English</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="shortcut icon" href="/en/lojban.ico" />
+
+<style type="text/css">
+body { margin: 0; padding: 8px; margin-bottom: auto; }
+blockquote blockquote { margin-left: 0em }
+form { margin-bottom: 0px }
+form .trap { display:none }
+.postarea { text-align: center }
+.postarea table { margin: 0px auto; text-align: left }
+.thumb { border: none; float: left; margin: 2px 20px }
+.nothumb { float: left; background: #eee; border: 2px dashed #aaa; text-align: center; margin: 2px 20px; padding: 1em 0.5em 1em 0.5em; }
+.reply blockquote, blockquote :last-child { margin-bottom: 0em }
+.reflink a { color: inherit; text-decoration: none }
+.reply .filesize { margin-left: 20px }
+.userdelete { float: right; text-align: center; white-space: nowrap }
+.replypage .replylink { display: none }
+</style>
+
+
+<link rel="stylesheet" type="text/css" href="/en/css/english.css" title="English" />
+
+
+<script type="text/javascript">var style_cookie="wakabastyle";</script>
+<script type="text/javascript" src="/en/wakaba3.js"></script>
+</head>
+<body class="replypage">
+
+
+
+
+<div class="adminbar">
+    <div style='float:left;'><small>xu do sisku <a href='/jbo/'>lo lojbo tcana</a></small></div> &nbsp;
+[<a href="/en/../" target="_top">Home</a>]
+[<a href="/en/wakaba.pl?task=admin">Manage</a>]
+</div>
+
+<div class="logo">
+
+
+
+/en/ - English
+</div><hr />
+
+
+<p>Posts and uploaded files are owned by the poster. jbotcan.org is not
+ liable for the content submitted by the poster.
+Downloading any poster-submitted files is doing so at your own risk.</p>
+
+<hr />
+
+
+
+
+
+	[<a href="/en/imageboard.html">Return</a>]
+	<div class="theader">Posting mode: Reply</div>
+
+
+<hr />
+<div align="center">
+<form action="/en/paint.pl" method="get">
+<input type="hidden" name="oek_parent" value="997" />
+
+Painter: 
+<select name="oek_painter">
+
+
+	
+	<option value="shi_norm" selected="selected">Shi Normal</option>
+	
+	
+
+	
+	
+	<option value="shi_pro">Shi Pro</option>
+	
+
+	
+	
+	<option value="shi_norm_selfy">Shi Normal+Selfy</option>
+	
+
+	
+	
+	<option value="shi_pro_selfy">Shi Pro+Selfy</option>
+	
+
+</select>
+
+Width: <input type="text" name="oek_x" size="3" value="300" />
+Height: <input type="text" name="oek_y" size="3" value="300" />
+
+
+	Source: 
+	<select name="oek_src">
+	<option value="">New image</option>
+
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	
+	</select>
+
+
+<input type="submit" value="Paint!" />
+</form>
+</div><hr />
+
+
+	<div class="postarea">
+	<form id="postform" action="/en/wakaba.pl" method="post" enctype="multipart/form-data">
+
+	<input type="hidden" name="task" value="post" />
+	<input type="hidden" name="parent" value="997" />
+	
+	
+	<div class="trap">Leave these fields empty (spam trap): <input type="text" name="name" size="28" autocomplete="off" /><input type="text" name="link" size="28" autocomplete="off" /></div>
+
+	<table><tbody>
+	<tr><td class="postblock">Name</td><td><input type="text" name="field1" size="28" /></td></tr>
+	<tr><td class="postblock">Link</td><td><input type="text" name="field2" size="28" /></td></tr>
+	<tr><td class="postblock">Subject</td><td><input type="text" name="field3" size="35" /> (encouraged)
+	<input type="submit" value="Submit" /></td></tr>
+	<tr><td class="postblock">Comment</td><td><textarea name="field4" cols="48" rows="4"></textarea></td></tr>
+
+	
+		<tr><td class="postblock">File</td><td><input type="file" name="file" size="35" />
+		
+		</td></tr>
+	
+<!--
+        <tr>
+	  <td>
+	    <strong>YouTube video</strong>
+	  </td>
+	  <td>
+	    <input type='text' name='youtubelink'>
+	    <b>(ALPHA)</b>
+	  </td>
+        </tr>
+-->
+	
+
+	<tr><td class="postblock">Password</td><td><input type="password" name="password" size="8" /> (for post and file deletion)</td></tr>
+	<tr><td colspan="2">
+	<div class="rules"><ul> <li>Supported file types are: GIF, JPG, PNG</li> <li>Maximum file size allowed is 1000 KB.</li> <li>Images greater than 200x200 pixels will be thumbnailed.</li> </ul></div></td></tr>
+	</tbody></table></form></div>
+	<script type="text/javascript">set_inputs("postform")</script>
+
+	<hr />
+
+
+<form id="delform" action="/en/wakaba.pl" method="post">
+
+
+	
+		
+			
+
+			<a name="997"></a>
+			<label><input type="checkbox" name="delete" value="997" />
+			<span class="filetitle">Knowledgeable attitude</span>
+			
+			<span class="postername">kiris</span>
+			09/03/01(Sun)21:27</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;997')">No.997</a>
+			</span>&nbsp;
+			
+
+			<blockquote>
+			<p>How do you express &quot;I know&quot; as in &quot;I am already aware of what you are saying&quot; or &quot;I understand&#44; you don&#39;t have to correct yourself&quot;.</p><p>{djuno} and {jimpe} say it but how do you express the emotion?</p><p>{ua cu&#39;i ro&#39;e}?</p><p>{ce&#39;e ro&#39;e}?</p><p>{i&#39;u ro&#39;e}?</p>
+			
+			</blockquote>
+
+			
+		
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply999">
+
+			<a name="999"></a>
+			<label><input type="checkbox" name="delete" value="999" />
+			<span class="replytitle">RE: Knowledgeable attitude</span>
+			
+			<span class="commentpostername">Anonymous</span>
+			09/03/01(Sun)23:51</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;999')">No.999</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>lo&#39;u ua bu&#39;o cu&#39;i le&#39;u pei to u&#39;i tavla fo le lojbo xe be&#39;i ti noi glico po&#39;o tcana u&#39;u</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1001">
+
+			<a name="1001"></a>
+			<label><input type="checkbox" name="delete" value="1001" />
+			<span class="replytitle">RE: Knowledgeable attitude</span>
+			
+			<span class="commentpostername">kiris</span>
+			09/03/02(Mon)06:35</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1001')">No.1001</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/997.html#999" onclick="highlight(999)">&gt;&gt;999</a><br />u&#39;i do palci zo&#39;o</p><p>{ua bu&#39;o cu&#39;i} means &quot;continued discovery&quot;</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1005">
+
+			<a name="1005"></a>
+			<label><input type="checkbox" name="delete" value="1005" />
+			<span class="replytitle">RE: Knowledgeable attitude</span>
+			
+			<span class="commentpostername">Hussell</span>
+			09/03/02(Mon)16:16</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1005')">No.1005</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/997.html" onclick="highlight(997)">&gt;&gt;997</a></p><blockquote class="unkfunc">&gt; {ua cu&#39;i ro&#39;e}?</blockquote><p>The &quot;ua&quot; scale has confusion on one end and discovery (or enlightenment) on the other&#44; so I&#39;d say that means &quot;I&#39;m feeling neither enlightened nor confused (zo&#39;o disenlightend)&#44; mentally&quot;. Fairly close&#44; but I don&#39;t think it implies you already knew about what was being said.</p><blockquote class="unkfunc">&gt; {ce&#39;e ro&#39;e}?</blockquote><p>I assume you meant &quot;e&#39;e&quot;. That would be &quot;I feel competent&#44; mentally.&quot; A good translation of &quot;I understand&quot;&#44; but again&#44; doesn&#39;t imply you already understood.</p><blockquote class="unkfunc">&gt; {i&#39;u ro&#39;e}?</blockquote><p>That&#39;s it. &quot;I am feeling familiarity&#44; mentally.&quot;</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1025">
+
+			<a name="1025"></a>
+			<label><input type="checkbox" name="delete" value="1025" />
+			<span class="replytitle">RE: Knowledgeable attitude</span>
+			
+			<span class="commentpostername">daniel</span>
+			09/03/03(Tue)18:44</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1025')">No.1025</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>I think {.ua bu&#39;o cu&#39;i} is good.  That&#39;s how I would say it&#44; and how I would interpret it.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1026">
+
+			<a name="1026"></a>
+			<label><input type="checkbox" name="delete" value="1026" />
+			<span class="replytitle">RE: Knowledgeable attitude</span>
+			
+			<span class="commentpostername">Hussell</span>
+			09/03/03(Tue)19:21</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1026')">No.1026</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/997.html#1025" onclick="highlight(1025)">&gt;&gt;1025</a></p><p>The way I see it&#44; &quot;ua bu&#39;o cu&#39;i&quot; means you&#39;re in the middle of feeling &quot;discovery&quot; or &quot;enlightenment&quot;&#44; which implies you&#39;ve learned something&#44; or your understanding has increased. That&#39;s pretty much the opposite of &quot;I am already aware of what you are saying&quot; (<a href="/en/res/997.html" onclick="highlight(997)">&gt;&gt;997</a>).</p><p>ua cu&#39;i -&gt; implies your understanding hasn&#39;t increased or decreased&#44; implies nothing about whether you understand or not<br />e&#39;e -&gt; implies you understand&#44; implies nothing about whether that was a change from before<br />i&#39;u -&gt; implies you understand&#44; and understood before</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1032">
+
+			<a name="1032"></a>
+			<label><input type="checkbox" name="delete" value="1032" />
+			<span class="replytitle">RE: Knowledgeable attitude</span>
+			
+			<span class="commentpostername">xorxes</span>
+			09/03/03(Tue)20:58</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1032')">No.1032</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/997.html" onclick="highlight(997)">&gt;&gt;997</a></p><p>I use &quot;je&#39;e&quot; for the sense &quot;I understand what you said&#44; you don&#39;t have to correct yourself&quot;&#44; i.e. &quot;Roger&#44; I got it&quot;. (Was that &quot;ce&#39;e&quot; meant to be &quot;je&#39;e&quot;?)</p><p>&quot;.i&#39;u&quot; sounds right for &quot;I know&#44; I am already aware of what you are saying&quot; i.e. &quot;you are not telling me anything I didn&#39;t already know&quot;. </p><p>&quot;.i&#39;u&quot; (and also &quot;.ua cu&#39;i&quot;) would be reactions to the content of what you said. &quot;je&#39;e&quot; is not so much about the content as about the speech act: it&#39;s an acknowledgment that your message got through. I am not reacting to the meaning of the message itself in any special way. </p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1035">
+
+			<a name="1035"></a>
+			<label><input type="checkbox" name="delete" value="1035" />
+			<span class="replytitle">RE: Knowledgeable attitude</span>
+			
+			<span class="commentpostername">kiris</span>
+			09/03/04(Wed)00:48</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1035')">No.1035</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/997.html#1032" onclick="highlight(1032)">&gt;&gt;1032</a><br />It was meant to be {e&#39;e}.</p><p>I think I agree with everyone that {i&#39;u} is the most appropriate. I indeed wanted a reaction to what is said ({i&#39;u}&#44; {ua}&#44; etc.)rather than a reaction to speech itself ({je&#39;e}).</p><p><a href="/en/res/997.html#1025" onclick="highlight(1025)">&gt;&gt;1025</a></p><blockquote class="unkfunc">&gt; I think {.ua bu&#39;o cu&#39;i} is good. That&#39;s how I would say it&#44; and how I would interpret it.</blockquote><p>Can you explain what {ua bu&#39;o cu&#39;i} means to you?</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+	<br clear="left" /><hr />
+
+
+<table class="userdelete"><tbody><tr><td>
+<input type="hidden" name="task" value="delete" />
+Delete Post [<label><input type="checkbox" name="fileonly" value="on" />File Only</label>]<br />
+Password <input type="password" name="password" size="8" />
+<input value="Delete" type="submit" /></td></tr></tbody></table>
+</form>
+<script type="text/javascript">set_delpass("delform")</script>
+
+
+
+<!--<p class="footer"> - <a href="http://wakaba.c3.cx/">wakaba 3.0.7</a> + <a href="http://www.2chan.net/">futaba</a> + <a href="http://www.1chan.net/futallaby/">futallaby</a> -</p>-->
+
+</body></html>

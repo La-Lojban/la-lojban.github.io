@@ -1,0 +1,529 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<link rel="alternate" type="application/rss" title="RSS 2.0" href="/ideas/res/feed.rss" />
+<link rel="alternate" type="text/xml" title="RSS 2.0" href="/ideas/res/feed.rss" />
+<title>/en/ - English</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="shortcut icon" href="/en/lojban.ico" />
+
+<style type="text/css">
+body { margin: 0; padding: 8px; margin-bottom: auto; }
+blockquote blockquote { margin-left: 0em }
+form { margin-bottom: 0px }
+form .trap { display:none }
+.postarea { text-align: center }
+.postarea table { margin: 0px auto; text-align: left }
+.thumb { border: none; float: left; margin: 2px 20px }
+.nothumb { float: left; background: #eee; border: 2px dashed #aaa; text-align: center; margin: 2px 20px; padding: 1em 0.5em 1em 0.5em; }
+.reply blockquote, blockquote :last-child { margin-bottom: 0em }
+.reflink a { color: inherit; text-decoration: none }
+.reply .filesize { margin-left: 20px }
+.userdelete { float: right; text-align: center; white-space: nowrap }
+.replypage .replylink { display: none }
+</style>
+
+
+<link rel="stylesheet" type="text/css" href="/en/css/english.css" title="English" />
+
+
+<script type="text/javascript">var style_cookie="wakabastyle";</script>
+<script type="text/javascript" src="/en/wakaba3.js"></script>
+</head>
+<body class="replypage">
+
+
+
+
+<div class="adminbar">
+    <div style='float:left;'><small>xu do sisku <a href='/jbo/'>lo lojbo tcana</a></small></div> &nbsp;
+[<a href="/en/../" target="_top">Home</a>]
+[<a href="/en/wakaba.pl?task=admin">Manage</a>]
+</div>
+
+<div class="logo">
+
+
+
+/en/ - English
+</div><hr />
+
+
+<p>Posts and uploaded files are owned by the poster. jbotcan.org is not
+ liable for the content submitted by the poster.
+Downloading any poster-submitted files is doing so at your own risk.</p>
+
+<hr />
+
+
+
+
+
+	[<a href="/en/imageboard.html">Return</a>]
+	<div class="theader">Posting mode: Reply</div>
+
+
+<hr />
+<div align="center">
+<form action="/en/paint.pl" method="get">
+<input type="hidden" name="oek_parent" value="1212" />
+
+Painter: 
+<select name="oek_painter">
+
+
+	
+	<option value="shi_norm" selected="selected">Shi Normal</option>
+	
+	
+
+	
+	
+	<option value="shi_pro">Shi Pro</option>
+	
+
+	
+	
+	<option value="shi_norm_selfy">Shi Normal+Selfy</option>
+	
+
+	
+	
+	<option value="shi_pro_selfy">Shi Pro+Selfy</option>
+	
+
+</select>
+
+Width: <input type="text" name="oek_x" size="3" value="300" />
+Height: <input type="text" name="oek_y" size="3" value="300" />
+
+
+	Source: 
+	<select name="oek_src">
+	<option value="">New image</option>
+
+	
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+				<option value="src/1237835591548.jpg">Modify No.1226</option>
+			
+		
+			
+		
+			
+		
+			
+		
+	
+	</select>
+
+
+<input type="submit" value="Paint!" />
+</form>
+</div><hr />
+
+
+	<div class="postarea">
+	<form id="postform" action="/en/wakaba.pl" method="post" enctype="multipart/form-data">
+
+	<input type="hidden" name="task" value="post" />
+	<input type="hidden" name="parent" value="1212" />
+	
+	
+	<div class="trap">Leave these fields empty (spam trap): <input type="text" name="name" size="28" autocomplete="off" /><input type="text" name="link" size="28" autocomplete="off" /></div>
+
+	<table><tbody>
+	<tr><td class="postblock">Name</td><td><input type="text" name="field1" size="28" /></td></tr>
+	<tr><td class="postblock">Link</td><td><input type="text" name="field2" size="28" /></td></tr>
+	<tr><td class="postblock">Subject</td><td><input type="text" name="field3" size="35" /> (encouraged)
+	<input type="submit" value="Submit" /></td></tr>
+	<tr><td class="postblock">Comment</td><td><textarea name="field4" cols="48" rows="4"></textarea></td></tr>
+
+	
+		<tr><td class="postblock">File</td><td><input type="file" name="file" size="35" />
+		
+		</td></tr>
+	
+<!--
+        <tr>
+	  <td>
+	    <strong>YouTube video</strong>
+	  </td>
+	  <td>
+	    <input type='text' name='youtubelink'>
+	    <b>(ALPHA)</b>
+	  </td>
+        </tr>
+-->
+	
+
+	<tr><td class="postblock">Password</td><td><input type="password" name="password" size="8" /> (for post and file deletion)</td></tr>
+	<tr><td colspan="2">
+	<div class="rules"><ul> <li>Supported file types are: GIF, JPG, PNG</li> <li>Maximum file size allowed is 1000 KB.</li> <li>Images greater than 200x200 pixels will be thumbnailed.</li> </ul></div></td></tr>
+	</tbody></table></form></div>
+	<script type="text/javascript">set_inputs("postform")</script>
+
+	<hr />
+
+
+<form id="delform" action="/en/wakaba.pl" method="post">
+
+
+	
+		
+			
+
+			<a name="1212"></a>
+			<label><input type="checkbox" name="delete" value="1212" />
+			<span class="filetitle">Kiwis and Apples</span>
+			
+			<span class="postername">Anonymous</span>
+			09/03/22(Sun)01:04</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1212')">No.1212</a>
+			</span>&nbsp;
+			
+
+			<blockquote>
+			<p>Is there any simple way to say&#44; in response to &quot;Do you want the kiwi or the apple&quot;&#44; &quot;I would like the kiwi or both&#44; but not just the apple&quot;?  Focus primarily on the connectives and necessary logic and clauses.</p><p>Can one say &quot;xy je&#39;a .e .ybu&quot;?</p>
+			
+			</blockquote>
+
+			
+		
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1213">
+
+			<a name="1213"></a>
+			<label><input type="checkbox" name="delete" value="1213" />
+			<span class="replytitle">{ju}&#44; whether-or-not</span>
+			
+			<span class="commentpostername">kiris</span>
+			09/03/22(Sun)01:47</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1213')">No.1213</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>Well&#44; I don&#39;t know what the word for kiwi is in Lojban&#44; so I&#39;ll use &quot;pear&quot; instead.</p><p>{ju} is &quot;whether-or-not&quot;. This does what you ask pretty concisely&#44; and simply&#44; too.</p><p>Take the example sumti connection {lo perli u lo plise} &quot;The pear whether or not the apple&quot;&#44; or &quot;The pear&#44; or both&#44; but certainly not the apple&quot;.</p><p>{do djica tu&#39;a le perli ji le plise} &quot;You desire the bridi-implied by the pearl &lt;what logical connection ?&gt; the apple&quot; or: &quot;Do you want the pear or the apple?&quot;</p><p>And you would then answer with:</p><ul><li>{ju}: &quot;I want the pear or both&#44; but not just the apple.&quot;</li><li>{ja}: &quot;One of them or both&#44; but not neither.&quot;</li><li>{je}: &quot;Both.&quot;</li><li>{jo}: &quot;Either both&#44; or none.&quot;</li></ul><p>etc.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1214">
+
+			<a name="1214"></a>
+			<label><input type="checkbox" name="delete" value="1214" />
+			<span class="replytitle">Do you want a or b or c ...</span>
+			
+			<span class="commentpostername">Anonymous</span>
+			09/03/22(Sun)07:47</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1214')">No.1214</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>I have an impression&#44; that using a logical connectives is unlojbanic way to ask such a questions. Both sides must think not about &quot;things&quot;&#44; but about their order in previous text. Weird activity.</p><p>Such a questions frequently means &quot;What things from set (a&#44;b&#44;c...) do you want&quot;. And lojban should have a better way of asking that. I don&#39;t yet know how.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1215">
+
+			<a name="1215"></a>
+			<label><input type="checkbox" name="delete" value="1215" />
+			<span class="replytitle">RE: Kiwis and Apples</span>
+			
+			<span class="commentpostername">tijlan</span>
+			09/03/22(Sun)11:19</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1215')">No.1215</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1212.html#1214" onclick="highlight(1214)">&gt;&gt;1214</a></p><blockquote class="unkfunc">&gt; I have an impression&#44; that using a logical connectives is unlojbanic way to ask such a questions.</blockquote><p>I actually find it to be the opposite. Lojban is a logical language to begin with. If you want your questions to be precise&#44; then logical connectives are what you want.</p><blockquote class="unkfunc">&gt; Such a questions frequently means &quot;What things from set (a&#44;b&#44;c...) do you want&quot;.</blockquote><p>That would be:<br /> do djica tu&#39;a ma be ra&#39;i A ce B ce C ...<br /> do djica tu&#39;a ma be sele&#39;a A ce B ce C ...</p><blockquote class="unkfunc">&gt; And lojban should have a better way of asking that.</blockquote><p>If by &quot;a better way&quot; you mean &quot;a more natlang-ized way&quot;&#44; perhaps this:<br /> pau do djica lo perli ju&#39;e lo plise<br />{ju&#39;e} is a vague non-logical connective. This might allow you to avoid what you described as &quot;both sides must not think about &quot;things&quot;&quot;. By omitting {tu&#39;a} you ignore the official nature of {djica}&#39;s x2 but get it close to the English convention (which I don&#39;t think is a good idea though). {pau} marks the sentence to be interrogative (it&#39;s analogous to the Spanish opening question mark&#44; &quot;¿&quot;).</p><p>As for &quot;kiwi&quot;&#44; you probably need a categorizing rafsi (&quot;grutr-&quot; or &quot;rutr-&quot;) if you are to lojbanize the word and use it as a fu&#39;ivla&#44; since &quot;kiwi&quot; can also mean a bird.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1216">
+
+			<a name="1216"></a>
+			<label><input type="checkbox" name="delete" value="1216" />
+			<span class="replytitle">RE: Kiwis and Apples</span>
+			
+			<span class="commentpostername">la.timos.</span>
+			09/03/22(Sun)11:36</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1216')">No.1216</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p>don&#39;t forget&#44; that the answerer is free to answer with anything he wants and is not bound to the form of the asker.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1222">
+
+			<a name="1222"></a>
+			<label><input type="checkbox" name="delete" value="1222" />
+			<span class="replytitle">RE: Kiwis and Apples</span>
+			
+			<span class="commentpostername">Anonymous</span>
+			09/03/23(Mon)14:18</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1222')">No.1222</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1212.html#1215" onclick="highlight(1215)">&gt;&gt;1215</a></p><blockquote class="unkfunc">&gt;by &quot;a better way&quot; you mean &quot;a more natlang-ized way&quot;</blockquote><p>to&#39;e go&#39;i</p><p>&quot;le perli ji le plise&quot; is too natlangish IMO. It does fits &quot;do you want&quot; case. I think about: how &quot;do you want&quot;(and other pure logical questions) fits real-world uses.</p><p>That&#39;s it: for a bit less logical questions we&#39;ll be forced to use some completely different question structure. And pure logic is a quite restrictive setting to be the base for the most of uses. And &quot;which of&quot; question looks like a bit more generic. Is there any fine way of asking it?</p><blockquote class="unkfunc">&gt;do djica tu&#39;a ma be ra&#39;i A ce B ce C</blockquote><p>My parser does not like that. What is &quot;be&quot; doing here? And why &quot;ra&#39;i&quot;?</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1223">
+
+			<a name="1223"></a>
+			<label><input type="checkbox" name="delete" value="1223" />
+			<span class="replytitle">RE: Kiwis and Apples</span>
+			
+			<span class="commentpostername">tijlan</span>
+			09/03/23(Mon)15:25</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1223')">No.1223</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1212.html#1222" onclick="highlight(1222)">&gt;&gt;1222</a></p><blockquote class="unkfunc">&gt; &quot;le perli ji le plise&quot; is too natlangish IMO.</blockquote><p>Does English&#44; for instance&#44; have any equivalent of &quot;ji&quot;?</p><blockquote class="unkfunc">&gt; And pure logic is a quite restrictive setting to be the base for the most of uses.</blockquote><p>In natlangs&#44; yes.</p><blockquote class="unkfunc">&gt; And &quot;which of&quot; question looks like a bit more generic. Is there any fine way of asking it?</blockquote><p>do djica tu&#39;a ma po&#39;u lo perli a lo plise<br />Which of a pear or an apple do you want?</p><blockquote class="unkfunc">&gt;&gt;do djica tu&#39;a ma be ra&#39;i A ce B ce C<br />&gt; My parser does not like that. What is &quot;be&quot; doing here? And why &quot;ra&#39;i&quot;?</blockquote><p>&quot;ra&#39;i&quot; because the provided set is the source from which an object gets selected.</p><p>&quot;be&quot; attaches the term &quot;ra&#39;i A ce B ce C&quot; to &quot;ma&quot;. Without &quot;be&quot;&#44; the term goes to the main bridi itself&#44; which is not what we want&#44; because &quot;A ce B ce C&quot; is not the origin of &quot;do djica-ing ma&quot;.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1225">
+
+			<a name="1225"></a>
+			<label><input type="checkbox" name="delete" value="1225" />
+			<span class="replytitle">RE: Kiwis and Apples</span>
+			
+			<span class="commentpostername">xorxes</span>
+			09/03/23(Mon)17:23</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1225')">No.1225</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1212.html#1223" onclick="highlight(1223)">&gt;&gt;1223</a> </p><blockquote class="unkfunc">&gt; Does English&#44; for instance&#44; have any equivalent of &quot;ji&quot;?</blockquote><p>&quot;ji&quot; basically corresponds to the use of English &quot;or&quot; in questions.</p><blockquote class="unkfunc">&gt; &quot;be&quot; attaches the term &quot;ra&#39;i A ce B ce C&quot; to &quot;ma&quot;. </blockquote><p>&quot;be&quot; attaches a term to a <em>selbri</em> (or rather to a tanru unit)&#44; not to another term&#44; so &quot;ma be ra&#39;i A ce B ce C&quot; is ungrammatical. &quot;pe&quot; would be grammatical there.</p><p><a href="/en/res/1212.html#1222" onclick="highlight(1222)">&gt;&gt;1222</a> </p><blockquote class="unkfunc">&gt; And &quot;which of&quot; question looks like a bit more generic. Is there any fine way of asking it?</blockquote><p>I like presenting the options in the prenex&#44; and then asking a simple &quot;ma&quot; question:</p><p>la london la paris la romas zo&#39;u do pu vitke ma<br />&quot;London&#44; Paris&#44; Rome: which did you visit?&quot;</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1226">
+
+			<a name="1226"></a>
+			<label><input type="checkbox" name="delete" value="1226" />
+			<span class="replytitle">RE: Kiwis and Apples</span>
+			
+			<span class="commentpostername">kiris</span>
+			09/03/23(Mon)19:13</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1226')">No.1226</a>
+			</span>&nbsp;
+
+			
+				<br />
+				<span class="filesize">File: <a target="_top" href="/en/arch/src/1237835591548.jpg">1237835591548.jpg</a>
+				-(<em>8427 B, 400x259</em>)</span>
+				<span class="thumbnailmsg">Thumbnail displayed, click image for full size.</span>
+<small>[<a href="/ideas/paint.pl?oek_parent=1212&amp;oek_painter=shi_norm&amp;oek_x=400&amp;oek_y=259&amp;oek_src=/en/arch/src/1237835591548.jpg">Oekaki</a>]</small>
+<br />
+
+				
+					<a target="_top" href="/en/arch/src/1237835591548.jpg">
+					<img src="/en/arch/thumb/1237835591548s.jpg" width="200" height="129" alt="8427" class="thumb" /></a>
+				
+				
+			
+
+			<blockquote>
+			<blockquote class="unkfunc">&gt; I have an impression&#44; that using a logical connectives is unlojbanic way to ask such a questions. Both sides must think not about &quot;things&quot;&#44; but about their order in previous text. Weird activity.</blockquote><p>Where did you get that impression? It&#39;s a <em>logical</em> language. It&#39;s very lojbanic.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1227">
+
+			<a name="1227"></a>
+			<label><input type="checkbox" name="delete" value="1227" />
+			<span class="replytitle">RE: Kiwis and Apples</span>
+			
+			<span class="commentpostername">Anonymous</span>
+			09/03/23(Mon)19:39</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1227')">No.1227</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1212.html#1223" onclick="highlight(1223)">&gt;&gt;1223</a></p><blockquote class="unkfunc">&gt;source from which an object gets selected</blockquote><p>Never thought &quot;krasi&quot; can mean that. Can it?</p><p><a href="/en/res/1212.html#1225" onclick="highlight(1225)">&gt;&gt;1225</a></p><blockquote class="unkfunc">&gt;presenting the options in the prenex</blockquote><p>Thank you. That&#39;s nice. I&#39;ll hope it have &quot;correct&quot; semantic -- the concept of &quot;prenex zo&#39;u bridi&quot; is quite foreign for me (math background is lost in action:).</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1228">
+
+			<a name="1228"></a>
+			<label><input type="checkbox" name="delete" value="1228" />
+			<span class="replytitle">RE: Kiwis and Apples</span>
+			
+			<span class="commentpostername">Anonymous</span>
+			09/03/23(Mon)20:13</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1228')">No.1228</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1212.html#1226" onclick="highlight(1226)">&gt;&gt;1226</a></p><blockquote class="unkfunc">&gt;Where did you get that impression</blockquote><p>All the pre-lojban languages&#44; i know&#44; (not many)<br />does allow &quot;and/or&quot; to be used as logical&#44; set and mass construction (and&#44; probably&#44; some others as well). Only after learning some lojban the difference started to disturb me (hi&#44; mr. Whorf). And &#39;le perli ji le plise&#39; is painfully similar to every natlang&#44; i know (just move &#39;?&#39; closer to &#39;or&#39;). Also&#44; most of time&#44; you ask such a questions&#44; you <em>really</em> <em>have</em> a &quot;set&quot; of &quot;things&quot;&#44; you are asking about&#44; and (no proof&#44; just my experience) want to get a subset as an answer. So&#44; the remains of programmer in me cries for the &quot;right&quot; abstraction type.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+		
+		
+			<table><tbody><tr><td class="doubledash">&gt;&gt;</td>
+			<td class="reply" id="reply1235">
+
+			<a name="1235"></a>
+			<label><input type="checkbox" name="delete" value="1235" />
+			<span class="replytitle">RE: Kiwis and Apples</span>
+			
+			<span class="commentpostername">kiris</span>
+			09/03/24(Tue)19:16</label>
+			<span class="reflink">
+			
+			<a href="javascript:insert('&gt;&gt;1235')">No.1235</a>
+			</span>&nbsp;
+
+			
+
+			<blockquote>
+			<p><a href="/en/res/1212.html#1228" onclick="highlight(1228)">&gt;&gt;1228</a><br />Be more specific in your original question next time.</p>
+			
+			</blockquote>
+
+			</td></tr></tbody></table>
+		
+	
+	<br clear="left" /><hr />
+
+
+<table class="userdelete"><tbody><tr><td>
+<input type="hidden" name="task" value="delete" />
+Delete Post [<label><input type="checkbox" name="fileonly" value="on" />File Only</label>]<br />
+Password <input type="password" name="password" size="8" />
+<input value="Delete" type="submit" /></td></tr></tbody></table>
+</form>
+<script type="text/javascript">set_delpass("delform")</script>
+
+
+
+<!--<p class="footer"> - <a href="http://wakaba.c3.cx/">wakaba 3.0.7</a> + <a href="http://www.2chan.net/">futaba</a> + <a href="http://www.1chan.net/futallaby/">futallaby</a> -</p>-->
+
+</body></html>
